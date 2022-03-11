@@ -4,14 +4,10 @@ import csv
 
 data = []
 
-def writedata(aaa, f):
-    a = len(aaa.split(' ')) - 1
-    f.writerow([aaa, 'O '*a + 'O'])
-
 def main(args):
     file_path = args.target_file
     output_file = args.output_path
-    params = args.param
+    params = str(args.param[0]).split()
     
     if len(params) > 4:
         exit()
@@ -22,20 +18,15 @@ def main(args):
         f = csv.writer(output, delimiter='\t')
         
         for datalow in json_data:
-            if datalow[params[0]]:
-                writedata(datalow[params[0]], f)
-            elif datalow[params[1]]:
-                writedata(datalow[params[1]], f)
-            elif datalow[params[2]]:
-                writedata(datalow[params[2]], f)
-            elif datalow[params[3]]:
-                writedata(datalow[params[3]], f)
+            for param in params:
+                if datalow[param]:
+                    f.writerow([datalow[param]])
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     
-    parser.add_argument("-TF", "--target_file", type=str, help="원하는 json파일을 넣어주세요.")
-    parser.add_argument("-OP", "--output_path", type=str, help="원하는 output경로를 작성하세요.")
+    parser.add_argument("-TF", "--target_file", default="./res/input.json", type=str, help="원하는 json파일을 넣어주세요.")
+    parser.add_argument("-OP", "--output_path", default="./res/output.tsv",type=str, help="원하는 output경로를 작성하세요.")
     parser.add_argument("-P", "--param", nargs="+", help="필요한 파라미터들을 부여해주세요. 최대 4개")
     
     args = parser.parse_args()
