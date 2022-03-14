@@ -1,8 +1,9 @@
+from asyncio.windows_events import NULL
 import re
 import random
-import json
 
-seperators = "[-| |.|]"
+mask = "[O0]"
+seperators = "- ."
 cell_phone_heads = [
         "010", "011", "016", "017", "018", "019"        
 ]
@@ -57,7 +58,7 @@ def replace_phone_number(target):
     for sep in seperators:
         if sep in target:
             seperator = sep
-            if sep is not '-':
+            if sep != '-':
                 return NEED_CHECK
             splited = target.split(sep)
     for i, e in enumerate(splited):
@@ -69,25 +70,36 @@ def replace_phone_number(target):
         result.append(numbers)
     return seperator.join(result)
 
-file = open("민원(콜센터) 질의응답_금융보험_사고 및 보상 문의_Training.json", "r")
-edited_file = open("filled_phone_numbers.json", "w")
-phone_pattern = re.compile('[O|0]{0,4}' + seperators + "[O|0]{3,4}" + seperators + "[O|0]{4}")
-json_data = json.load(file)
-for e in json_data:
-    print(e)
-while True:
-    line = file.readline()
-    if not line : break
-    searched = phone_pattern.search(line)
-    if searched:
-        stripped = searched.group().strip()
-        replaced_phone_numbers = replace_phone_number(stripped)
-        if replaced_phone_numbers == NEED_CHECK:
-            replaced_phone_numbers += stripped
-            print(line)
-        line.replace(stripped, replaced_phone_numbers)
-        print(type(line))
+def get_phone(line):
+    phone_regs = []
+    for i in range(2, 0, -1):
+        for j in range(4, 2, -1):
+            phone_regs.append(f"[0O].{{{i}}}-.{{{j}}}-.{{3}}[0O]")
+    for phone_reg in phone_regs:
+        phone_pattern = re.compile(phone_reg)
+        searched = phone_pattern.search(line)
+        if searched:
+            start = searched.start()
+            end = searched.end()
+            if start > 0 and line[start - 1] in ['0', 'O', '-'] :
+                return NULL
+            elif end < len(line) - 1 and line[end + 1] in ['0', 'O', '-'] :
+                return NULL
+            return searched.group().strip()
+    return NULL
+
+with open("res/phone_numbers_converted2.tsv", "w", encoding="utf-8") as edited_file, open("res/output.tsv", "r", encoding="utf-8") as file:
+    i = 0
+    while True:
+        line = file.readline()
+        if '0' in line or 'O' in line :
+            searched = get_phone(line)
+            if searched:
+                new_phone_number = replace_phone_number(searched)
+                if new_phone_number == NEED_CHECK:
+                    new_phone_number += searched
+                i += 1
+                print(i, searched, new_phone_number)
+                line = line.replace(searched, new_phone_number)
+        elif not line : break
         edited_file.write(line)
-        
-# file.close()
-# edited_file.close()
