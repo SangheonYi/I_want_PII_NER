@@ -1,17 +1,17 @@
-자녀 명의로 OO은행계좌가 있으신가요? O O O SS_BRAND-B O
-OO은행 계좌가 없으신 경우 계좌를 먼저 개설하셔야 하고 신분증 지참 후 방문해 주시면 됩니다. SS_BRAND-B O O O O O O O O O O O O O O
-계좌 개설은 가까운 OO은행에 가서 하면 되나요> O O O O SS_BRAND-B O O O
-네 가까운 OO은행 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다. O O SS_BRAND-B O O O O O O O O O O O O O
-가까운 OO은행을 안내 받을수 있을까요? O SS_BRAND-B O O O O
-현 거주지를 알려주시면 가까운 OO은행을 안내해드리겠습니다. O O O O O SS_BRAND-B O
-OO시 OO동 입니다. AD_ADDRESS-B AD_ADDRESS-I O O
-네 지금 계신곳에서 가장 가까운 OO은행은 OO동 OOOO은행 OO점입니다. O O O O O O SS_BRAND-B AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I
+자녀 명의로 농협은행계좌가 있으신가요? O O O SS_BRAND-B O
+하나은행 계좌가 없으신 경우 계좌를 먼저 개설하셔야 하고 신분증 지참 후 방문해 주시면 됩니다. SS_BRAND-B O O O O O O O O O O O O O O
+계좌 개설은 가까운 신한은행에 가서 하면 되나요> O O O O SS_BRAND-B O O O
+네 가까운 토스뱅크 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다. O O SS_BRAND-B O O O O O O O O O O O O O
+가까운 수협을 안내 받을수 있을까요? O SS_BRAND-B O O O O
+현 거주지를 알려주시면 가까운 경남은행을 안내해드리겠습니다. O O O O O SS_BRAND-B O
+용인시 청담동 입니다. AD_ADDRESS-B AD_ADDRESS-I O O
+네 지금 계신곳에서 가장 가까운 하나은행은 청담동 중소기업은행 청담점입니다. O O O O O O SS_BRAND-B AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I
 문의 좀 드리려구요 BC카드를 처음 발급 받았는데요. O O O O SS_BRAND-B O O O
 BC카드사 ARS나 홈페이지에서 신청하시거나 은행 영업점 방문으로 가능하십니다. SS_BRAND-B O O O O O O O O
 아이원 뱅크 설치 후 이용을 위해 모바일인증서를 다시 등록하셔야 합니다. SS_BRAND-B O O O O O O O O O O
 아이원뱅크를 다른 폰에서도 사용 가능한가요? SS_BRAND-B O O O O O
 성함과 주민번호앞자리 말씀해주시겠어요? O O O O
-OOO OOOOO입니다 SS_NAME-B ID_INUM-B
+손다정 33128입니다 SS_NAME-B ID_INUM-B
 ARS연결되면 카드비밀번호 입력해주세요 O O O O
 어느지점에서 거래하셨나요? O O O
 OOO지점 CD기입니다. O O O
