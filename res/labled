@@ -1,159 +1,74 @@
-자녀 명의로 농협은행계좌가 있으신가요? O O SS_BRAND-B O
-하나은행 계좌가 없으신 경우 계좌를 먼저 개설하셔야 하고 신분증 지참 후 방문해 주시면 됩니다. SS_BRAND-B O O O O O O O O O O O O O
-계좌 개설은 가까운 신한은행에 가서 하면 되나요> O O O SS_BRAND-B O O O
-네 가까운 토스뱅크 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다. O O SS_BRAND-B O O O O O O O O O O O O
-가까운 수협을 안내 받을수 있을까요? O SS_BRAND-B O O O
-현 거주지를 알려주시면 가까운 경남은행을 안내해드리겠습니다. O O O O SS_BRAND-B O
-용인시 청담동 입니다. AD_ADDRESS-B AD_ADDRESS-I O
-네 지금 계신곳에서 가장 가까운 하나은행은 청담동 중소기업은행 청담점입니다. O O O O O SS_BRAND-B AD_ADDRESS-B AD_DETAIL-B AD_DETAIL-I
-문의 좀 드리려구요 BC카드를 처음 발급 받았는데요. O O O SS_BRAND-B O O O
-BC카드사 ARS나 홈페이지에서 신청하시거나 은행 영업점 방문으로 가능하십니다. SS_BRAND-B O O O O O O O
-아이원 뱅크 설치 후 이용을 위해 모바일인증서를 다시 등록하셔야 합니다. SS_BRAND-B O O O O O O O O O
-아이원뱅크를 다른 폰에서도 사용 가능한가요? SS_BRAND-B O O O O
-손다정 33128입니다 SS_NAME-B ID_INUM-B
-OOO지점 CD기입니다. O O
+자녀 명의로 농협은행계좌가 있으신가요? O O SS_BRAND_B O
+하나은행 계좌가 없으신 경우 계좌를 먼저 개설하셔야 하고 신분증 지참 후 방문해 주시면 됩니다. SS_BRAND_B O O O O O O O O O O O O O
+계좌 개설은 가까운 신한은행에 가서 하면 되나요> O O O SS_BRAND_B O O O
+네 가까운 토스뱅크 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다. O O SS_BRAND_B O O O O O O O O O O O O
+가까운 수협을 안내 받을수 있을까요? O SS_BRAND_B O O O
+현 거주지를 알려주시면 가까운 경남은행을 안내해드리겠습니다. O O O O SS_BRAND_B O
+용인시 청담동 입니다. AD_ADDRESS_B AD_ADDRESS-I O
+네 지금 계신곳에서 가장 가까운 하나은행은 청담동 중소기업은행 청담점입니다. O O O O O SS_BRAND_B AD_ADDRESS_B AD_DETAIL_B AD_DETAIL-I
+문의 좀 드리려구요 BC카드를 처음 발급 받았는데요. O O O SS_BRAND_B O O O
+BC카드사 ARS나 홈페이지에서 신청하시거나 은행 영업점 방문으로 가능하십니다. SS_BRAND_B O O O O O O O
+아이원 뱅크 설치 후 이용을 위해 모바일인증서를 다시 등록하셔야 합니다. SS_BRAND_B O O O O O O O O O
+아이원뱅크를 다른 폰에서도 사용 가능한가요? SS_BRAND_B O O O O
+손다정 33128입니다 SS_NAME_B ID_INUM_B
+신길6동지점 CD기입니다. O O
 연락받으실 전화번호 확인해 주시겠어요? O O O O
-019-1652-3384 입니다 ID_PHONE-B O
+019-1652-3384 입니다 ID_PHONE_B O
 성함과 주민번호앞자리 말씀해주시겠어요? O O O
-OOO/OOOOO입니다 O
-ARS연결되면 카드비밀번호 입력해주세요 O O O
-어느지역 cd기에서 거래하셨나요? O O O
-OO동 CD기입니다. O O
-몇시쯤에 거래하셨나요? O O
-00시00분 정도입니다. O O
-두고 오신 통장은 다시 기기안으로 들어갑니다. O O O O O O
-그럼 혹시 추가로 누가 인출하면 어떻게 되나요? O O O O O O O
-신고한 이후에 발생한 사고는 은행에서 책임집니다. O O O O O O
-지점과 연락해서 고객님께 연락드리도록 하겠습니다. O O O O O
+조오성 520430입니다 SS_NAME_B ID_INUM_B
+잠실동 CD기입니다. AD_ADDRESS_B O
 연락받으실 전화번호 확인해 주시겠어요? O O O O
-OOO-OOOO-OOOO 입니다 O O
-등록된 번호가 맞으십니다.확인후 연락드리도록 하겠습니다. O O O O O
-더 궁금하신점이 없으시면 상담을 종료합니다. O O O O O
-아이통장을 분실했는데요? O O
+017-2481-6537 입니다 O O
 통장개설 지역이 어디이신가요? O O O
-00입니다. O
-00지역 지점으로 가셔서 상담받으시면 됩니다. O O O O O
-이사를 했는데 그곳까지 가야하나요>? O O O O
-네 지역금융기관이라 그곳에서만 가능하십니다. O O O O
-통장을 해지 하려면 절차알려 주시겠어요? O O O O O
-기본증명서와 아이통장,해지후 송금을 위한 계좌송금의뢰서를 등기로 보내주시면 됩니다. O O O O O O O O
-통장을 재발급 받으려면요? O O O
-가족관계증명서와 아이의 기본증명서가 필요합니다. O O O O
-등기로 보낼 주소 알려주시겠어요? O O O O
+송파동입니다. AD_ADDRESS_B
+송파지역 지점으로 가셔서 상담받으시면 됩니다. AD_ADDRESS_B O O O O
 핸드폰 번호 알려주시겠어요? O O O
-OOO-OOOO-OOOO 입니다. O O
-지금 이번호로 주소 보내드리겠습니다. O O O O
-직접방문하면 가족관계증명서와 기본증명서만 있으면 되나요? O O O O O
-부모님이 방문하실건가요? O O
-친권인 신분증 소지후 방문하시면 됩니다. O O O O O
-더궁금하신점이 없으시면 상담을 종료하겟습니다. O O O O
-아이통장 비밀번호를 분실했는데요? O O O
-서류 알려 드리겠습니다. O O O
-미성년이신가요? O
-네 기본증명서,가족관계증명서,아이통장,도장,보호자신분증,필요합니다. O O
-문자로 알려 주실수 있나요? O O O O
+019-5687-2206 입니다. ID_PHONE_B O
 받으실 핸드폰번호 알려 주시겠어요? O O O O
-OOO-OOOO-OOOO 입니다. O O
-문자로 발송해 드렸습니다. O O O
-혹시 체크카드도 만들수 있나요? O O O O
-혹시 몇살이신가요? O O
-13세입니다. O
-만 14세 이상이면 발급가능하십니다. O O O O
-기본증명서는 누구거인가요? O O
-자녀분 기본증명서 입니다. O O O
-아빠가 가도 되는거죠? O O O
-네 서류와 방문자 신분증 소지하시면 됩니다. O O O O O O
-감사합니다 O
-더 궁금하신점이 없으신가요? O O O
-상담을 종료하겠습니다 O O
-핸드백을 도난당하여 통장,도장,보안카드를 잃어버렸어요 O O O O
- 통장,도장,보안카드를 잃어버리셨나요? O O
-분실 접수 하시겠습니까? O O O
+019-1913-8485 입니다. O O
+13세입니다. SS_AGE_B
 성함과 주민번호 앞자리 확인해 주시겠어요? O O O O O
-OOO/OOOOO 입니다 O O
-ARS연결후 비번입력해 주세요 O O O
-정상적으로 접수되셨습니다. O O
-혹시 누가 예금을 인출해 가면 누가 책임지나요? O O O O O O O
-분실이나 도난신고 후에는 은행에서 손해를 배상할책임을 집니다. O O O O O O O
-전액을 책임지나요? O O
-신고전에 혹시 인출된게 있으면 그건요? O O O O O
-신고 접수 이후건부터 배상의 책임을 집니다. O O O O O O
-혹시 체크카드도 분실하셨나요? O O O
-체크카드에 비밀번호를 적어놓으셨나요? O O O
-잘모르겠어요. O
-통장이나 카드에 비번을 적어놓아서  인출이 되었을경우에는 보상이 되지 않응수 있습니다. O O O O O O O O O O
-네 감사합니다. O O
-상담을 종료하겠습니다. O O
-신용카드를 분실했는데 어쩌죠? O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+남수희 040614 입니다 SS_NAME_B ID_INUM_B O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
-OO카드 확인되는데 분실카드가 맞으신가요? O O O O
-해외에서 신용카드를 분실했는데 어쩌죠? O O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+류다운 110605 입니다. SS_NAME_B ID_INUM_B O
+BC바로카드 확인되는데 분실카드가 맞으신가요? SS_BRAND_B O O O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
-OO카드 확인되는데 분실카드가 맞으신가요? O O O O
-어떻게 받을수 있나요? O O O
-국제 카드사인 비자카드사를 통해서 받을수 있습니다. O O O O O O
-체크카드를 분실했는데 어쩌죠? O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+남궁소은 800818 입니다. SS_NAME_B ID_INUM_B O
+신한카드 확인되는데 분실카드가 맞으신가요? SS_BRAND_B O O O
+국제 카드사인 비자카드사를 통해서 받을수 있습니다. O O SS_BRAND_B O O O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
-OO카드 확인되는데 분실카드가 맞으신가요? O O O O
-신용카드 분실신고 했는데 다시 찾았는에 어쩌죠? O O O O O O
-먼저 본인확인하고 안내 드리겟습니다. O O O O
+탁혜빈 650108 입니다. SS_NAME_B ID_INUM_B O
+롯데카드 확인되는데 분실카드가 맞으신가요? SS_BRAND_B O O O
 성함말씀해 주시겠어요? O O
-OOO입니다 O
+문광수입니다 SS_NAME
 생년월일을 말씀해 주시겠어요? O O O
-OOOOOO입니다. O
-OO월OO일 에 접수된분실신고건이 확인됩니다. O O O O
-다시 찾았는데 취소 할수 있나요? O O O O O
-취소는 가능하십니다. O O
-체크카드를 분실했는데 어쩌죠? O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+741127입니다. ID_INUM_B
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
-OO카드 확인되는데 분실카드가 맞으신가요? O O O O
-근처 지점 주소 좀 알려 주시겠어요? O O O O O O
-사시는 동네가 어디신가요? O O O
-OO동 입니다. O O
-지금 거신 번호로 지점주소 보내드려도 될까요? O O O O O O
+권경철 520926 입니다. SS_NAME_B ID_INUM_B O
+현대카드 확인되는데 분실카드가 맞으신가요? SS_BRAND_B O O O
+계림1동 입니다. AD_ADDRESS_B O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
+조만호 520926 입니다. SS_NAME_B ID_INUM_B O
 카드대금 이체 계좌말씀해 주시겠어요? O O O O
-OOO-OOOO-OOOO-OO입니다. O
-비자카드 확인되십니다.맞으신가요? O O
-네 O
+312-6458-7668-94입니다. ID_ACCOUNT_B
+비자카드 확인되십니다. 맞으신가요? SS_BRAND_B O O
 성함말씀해 주시겠어요? O O
-OOO입니다 O
+한한빈입니다 SS_NAME_B
 생년월일을 말씀해 주시겠어요? O O O
-OOOOOO입니다. O
-OO월OO일 에 접수된분실신고건이 확인됩니다. O O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+790824입니다. ID_INUM_B
 성함말씀해 주시겠어요? O O
-OOO입니다. O
+오승진입니다. SS_NAME_B
 거래계좌번호 말씀해 주시겠어요? O O O
-OOO-OOOO-OOOO-OO입니다. O
-OO카드와 OO카드 확인되십니다. O O O
-어떤카드를 분실하셨나요? O O
-OO카드요 O
-신고 접수 되셨습니다. O O O
-네 분실신고 접수 도와드리겠습니다. O O O O
+072-1947-7251-90입니다. ID_ACCOUNT_B
+롯데카드와 우리카드 확인되십니다. SS_BRAND_B SS_BRAND_B O
+롯데카드요 SS_BRAND_B
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOO 입니다. O O
+허정옥 725190 입니다 SS_NAME_B ID_INUM_B O
 계좌번호 말씀해 주시겠어요? O O O
-OOO-OOOO-OOOO-OOOO 입니다 O O
-신고 접수 후에는 바로 사용정지 됩니다. O O O O O O
-네 O
-신고 접수 되셨습니다. O O O
-재발급신청을 할수 있나요? O O O
-네 영업점을 방문하셔도 되고 인터넷이나 콜센터를 통한재발급도 가능하십니다. O O O O O O O O
+029-3009-9179-5877 입니다 ID_ACCOUNT_B O
 통장개설 지역이 어디이신가요? O O O
-00입니다. O
-OO지역 지점으로 가셔서 상담받으시면 됩니다. O O O O O
-본인이 가야하나요? O O
-혹시 필요 서류 문자로 주실수 있나요? O O O O O O
+동천동입니다. AD_ADDRESS_B
+동천동 지점으로 가셔서 상담받으시면 됩니다. AD_ADDRESS_B O O O O
 핸드폰 번호 알려주시겠어요? O O O
 OOO-OOOO-OOOO 입니다. O O
 지금 번호로 문자 보내 드렸습니다. O O O O O
@@ -184,7 +99,7 @@ OO동 CD기기에서 이체하신건입니까? O O O
 성함을 말씀해 주시겠어요? O O O
 OOO입니다. O
 사용하시는 계좌번호 알려주시겠어요? O O O
-OOO-OOOO-OOOO-OO 입니다. O O
+OOO-OOOO-OOOO-OO 입니다. ID_ACCOUNT_B O
 ARS 듣고 비번 입력해 주시겠어요? O O O O O
 계좌확인 되셨습니다 O O
 지급정지된게 맞나요? O O
@@ -194,13 +109,13 @@ ARS 듣고 비번 입력해 주시겠어요? O O O O O
 성함을 말씀해 주시겠어요? O O O
 OOO입니다. O
 사용하시는 계좌번호 알려주시겠어요? O O O
-OOO-OOOO-OOOO-OO 입니다. O O
+OOO-OOOO-OOOO-OO 입니다. ID_ACCOUNT_B O
 ARS 듣고 비번 입력해 주시겠어요? O O O O O
 어떤내용인가요? O
  OO월OO일에입출금거래 기억하시나요? O O
 본인확인하고 안내해 드리겠습니다. O O O
 계좌번호 알려주시겠어요? O O
-OOO-OOOO-OOOO-OO 입니다. O O
+OOO-OOOO-OOOO-OO 입니다. ID_ACCOUNT_B O
 ARS 듣고 비번 입력해 주시겠어요? O O O O O
 고객님 명의로 된 계좌가 3개 있으신데요, O O O O O O
 맨 뒷자리가 OOO으로 끝나는 계좌요. O O O O O
@@ -220,37 +135,12 @@ O번 출구요? O O
 네, 어디서 가까운 곳으로 안내해드릴까요? O O O O O
 OOO역이요. O
 OOO역 O번 출구에서 Om 정도 직진 하시면 OOO지점이 있습니다. O O O O O O O O O
-어제 은행을 갔었는데요. O O O
-네, O
-방문하신 은행은 어느 지점이신가요? O O O O
 OO역에 있는 곳이었습니다. O O O
 OO지점 연락처는 OO-OOOO-OOOO입니다. O O O
-네, 고객님께서 원하시는 방법을 선택하시면 됩니다. O O O O O O
-수표 분실신고 좀 해주세요. O O O O
-네, 수표번호를 불러주시겠어요? O O O
-OOOOOOOO입니다. O
-수표금액은 어떻게 되시나요? O O O
-2천만원입니다. O
-발행일자도 말씀 부탁 드립니다. O O O O
-OOOO년 O월 O일입니다. O O O
-저희 은행 발행 수표이시죠? O O O O
-네, 맞습니다. O O
-네, 분실신고를 도와드리겠습니다. O O O
-수표번호를 메모해두었습니다. OOOOOOOO입니다. O O O
-발행일자와 수표금액은요? O O
-OOOO년 O월 O일, 5천만원입니다. O O O O
-예비 분실신고를 도와드렸습니다. O O O
  OOO역에서 가까운 지점 알려주시면 가져다 드릴게요. O O O O O O
 감사 드립니다. OOO역이시면 O번 출구에 OOO지점이 있습니다. O O O O O O O
-가깝네요. 안내 감사합니다. O O O
 해당 현금카드와 연결된 계좌번호가 어떻게 되시나요? O O O O O O
 OOOOOO-OO-OOOOOO 입니다. O O
-네, ARS 연결되면 통장 비밀번호 눌러주세요. O O O O O O
-가장 최근 현금카드 사용하신 날짜가 O월O일로 확인되시는데 본인 사용 맞으신 가요? O O O O O O O O O O O
-네, 맞습니다. O O
-그 후로는 현금카드 사용 내역이 없으니 안심하셔도 될 것 같습니다. O O O O O O O O O O
-네, 처리 감사합니다. O O O
-고객님 명의로 발행된 직불카드가 2개가 있으시네요. O O O O O O
 아, OOOO직불카드입니다. O O
 OO시 OO구 OO동에 있는 OO주유소입니다. O O O O O
 장소가 어떻게 되시나요? O O O
@@ -389,7 +279,7 @@ FAXOOO-OOO-OOO 입니다. O O
 수술비 청구하려면 뭐가필요하죠? O O O
 간단한 본인 확인하겠습니다. O O O
 성함과 주민번호 앞자리말씀해 주시겠습니까? O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 사시는곳 주소가 OO 아파트 몇동 몇호신가요? O O O O O O
 OO동OO호 입니다. O O
 앱스토어에 들어가셔서 OO보험 모바일 앱설치후 직접청구 가능하십니다. O O O O O O O
@@ -409,7 +299,7 @@ MRI판독지,입퇴원확인서,진단서,수술확인서필요합니다 O
 성함이 어떻게 되시나요? O O O
 OOO입니다. O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 성함을 말씀해 주시겠어요? O O O
 OOO입니다. O
 등록되있는 핸드폰 뒤 네자리 말씀해주시겠어요? O O O O O
@@ -426,7 +316,7 @@ OOO 입니다. O O
 생년월일을 말씀해 주시겠어요? O O O
 OO년OO월OO일입니다. O
 성함이 어떻게 되시나요? O O O
-OOO입니다 O
+OOO입니다 SS_NAME_B
 자동이체 은행이 어디신가요? O O O
 OO은행입니다. O
 가족일상생활배상책임보험에 가입해 계십니다. O O O
@@ -442,7 +332,7 @@ OOO-OOOO-OOOO입니다. O
 성함을 말씀해 주시겠어요? O O O
 OOO입니다. O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 운전자보험에 가입해 계십니다. O O O
 성함이 어떻게 되시나요? O O O
 OOO입니다. O
@@ -508,7 +398,7 @@ OOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다. O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 건강보험1건 확인됩니다. O O
 혹시 진단코드 아시나요? O O O
 I23입니다. O
@@ -530,7 +420,7 @@ I23입니다. O
 성함 말씀해 주시겠어요? O O O
 OOO입니다. O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 OO건강보험 가입확인되십니다. O O
 어떤게 나오나요? O O
 혹시 정확한 진단명 아시나요? O O O O
@@ -592,7 +482,7 @@ FAXOOO-OOO-OOO 입니다. O O
 성함을 말씀해주시겠어요? O O
 OOO 입니다. O O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 네 확인되셨습니다. O O
 어떤 한도가 궁금하신가요? O O O
 년간 쓸수 있는 병원비 한도가 5000만원이라고 했는데 모든병을 합산하나요? O O O O O O O O O
@@ -630,7 +520,7 @@ ooo동 ooo 호 입니다. O O O O
 성함을 말씀해주시겠어요? O O
 OOO 입니다. O O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 네 확인되셨습니다. O O
 어떤 한도가 궁금하신가요? O O O
 하루 통원한도가25만원이라는데 어떻게 적용하는건가요? O O O O
@@ -686,7 +576,7 @@ OO 건강보험 확인되십니다. O O O
 수술비 청구하려면 어떻게하죠? O O O
 간단한 본인 확인하고 안내해드해드리겠습니다. O O O O
 성함과 주민번호 앞자리말씀해 주시겠습니까? O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 사시는곳 주소 동호수 말씀해 주시겠어요? O O O O O
 OO동OO호 입니다. O O
 본인확인 되었습니다.감사합니다. O O
@@ -728,7 +618,7 @@ OO은행입니다. O
 성함을 말씀해 주시겠어요? O O O
 OOO입니다. O
 주민번호 앞 6자리 말씀해 주시겠어요? O O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 운전자보험에 가입해 계십니다. O O O
 받을게 있을까요? O O
 병원 치료 받으신건가요? O O O
@@ -745,7 +635,7 @@ OOOOOO입니다. O
 암진단을 받았는데 청구방법알려주시겠어요? O O O
 본인확인 간단히 하겠습니다. O O O
 성함과 주민번호 앞자리말씀해 주시겠어요? O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 CI보험 확인되십니다. O O
 어떤 암이신가요? O O
 갑상선암입니다. O
@@ -763,7 +653,7 @@ CI보험 확인되십니다. O O
 암진단을 받았는데 청구방법알려주시겠어요? O O O
 본인확인 간단히 하겠습니다. O O O
 성함과 주민번호 앞자리말씀해 주시겠어요? O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 CI보험 확인되십니다. O O
 어떤 암이신가요? O O
 갑상선암입니다. O
@@ -799,7 +689,7 @@ OO동OO호 입니다. O O
 암진단을 받았는데 청구방법알려주시겠어요? O O O
 본인확인 간단히 하겠습니다. O O O
 성함과 주민번호 앞자리말씀해 주시겠어요? O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 CI보험 확인되십니다. O O
 어떤 암이신가요? O O
 위암입니다. O
@@ -819,7 +709,7 @@ CI보험 확인되십니다. O O
 성함 말씀해 주시겠어요? O O O
 OOO입니다. O
 생년월일 말씀해 주시겠어요? O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 OO건강보험 확인되십니다. O O
 어떤 치료를 받으신건가요? O O O
 다쳐서 산재처리 했는데 보장되나요? O O O O
@@ -875,7 +765,7 @@ OOOO입니다. O
 골절진단을 받았는데 뭐를 떼면되나요? O O O O
 본인확인하고 안내드리겠습니다. O O
 생년월일 말씀해 주시겠어요? O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00상해보험이 확인되십니다 O O
 수술 하셨나요? O O
 아니요 O
@@ -895,7 +785,7 @@ OOOOOO입니다. O
 골절진단을 받았는데요? O O
 본인확인하고 안내드리겠습니다. O O
 생년월일 말씀해 주시겠어요? O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00통합보험이 확인되십니다 O O
 수술 하셨나요? O O
 아니요 O
@@ -914,7 +804,7 @@ OOOOOO입니다. O
 실손의료비 궁금한게 있어서요 O O O
 본인확인하고 안내드리겠습니다. O O
 성함을 말씀애 주시겠어요? O O O
-OOO입니다 O
+OOO입니다 SS_NAME_B
 사시는곳 상세주소를 말씀해 주시겠습니까? O O O O
 OO동 123번지 입니다. O O O
 본인확인되셨습니다. O
@@ -933,7 +823,7 @@ OO동 123번지 입니다. O O O
 실손의료비 궁금한게 있어서요 O O O
 본인확인하고 안내드리겠습니다. O O
 성함을 말씀해 주시겠어요? O O O
-OOO입니다 O
+OOO입니다 SS_NAME_B
 사시는곳 동호수 말씀해 주시겠습니까? O O O O
 OO동 OO호 입니다. O O O
 본인확인되셨습니다. O
@@ -952,7 +842,7 @@ OO동 OO호 입니다. O O O
 실손의료비 문의하려구요 O O
 간단히 본인확인후 안내해드리겠습니다. O O O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 어떤점이 궁금하신가요? O O
 해외에서 치료받는거 보상이 되나요? O O O O
 OO건강보험이 확이되십니다. O O
@@ -971,7 +861,7 @@ faxOOO-OOOO-OOOO 입니다. O O
 실손의료비 청구해야하는데요 O O
 간단히 본인확인후 안내해드리겠습니다. O O O
 성함과 주민번호 앞자리 말씀해 주시겠어요? O O O O O
-OOO/OOOOOO입니다. O
+OOO/OOOOOO입니다.SS_NAME_B ID_INUM_B O
 OO건강보험이 확이되십니다. O O
 어떤치료를 받으신건가요? O O
 대뇌허혈발작이라고 진단받았어요 O O
@@ -1488,7 +1378,7 @@ OO동OO호입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 작년3월15일에 입원하셔서 인공관절수술하신거 말씀이시죠? O O O O
 반대쪽도 해야하는데 보장이 가능한가요? O O O O
@@ -1507,7 +1397,7 @@ OOOOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 작년5월10일에 입원하셔서 백내장수술하신거 말씀이시죠? O O O O
 다시 해야하는데 보장이 가능한가요? O O O O
@@ -1525,7 +1415,7 @@ OOOOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 작년3월15일에 입원하셔서 수술하신거 말씀이시죠? O O O O
 또 입원하면 보장이 가능한가요? O O O O
@@ -1544,7 +1434,7 @@ OOOOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 작년3월15일에 입원하셔서 수술하신거 말씀이시죠? O O O O
 또 입원하면 보장이 가능한가요? O O O O
@@ -1562,7 +1452,7 @@ OOOOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 1년 넘으면 안되는 기간이 있다고 하던데요? O O O O O O
 365일이후 90일 면책기간이나 5000만원 한도 소진될때까지 입니다. O O O O O O O
@@ -1640,7 +1530,7 @@ OO동OO호입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 수술을 다시하신다는 말씀이시죠? O O O
 부작용이 생겨서 다시하는데 보장이 되나요? O O O O O
@@ -1658,7 +1548,7 @@ OOOOOO입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 작년3월15일에 입원하셔서 인공관절수술하신거 말씀이시죠? O O O O
 반대쪽도 해야하는데 보장이 가능한가요? O O O O
@@ -1763,12 +1653,12 @@ OO동OO호입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 성함 말씀해 주시겠어요? O O O
 OOO입니다. O
@@ -1788,12 +1678,12 @@ OO동OO호입니다. O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 성함말씀해 주시겠어요? O O
 OOO입니다 O
 주민번호 앞6자리 말씀해 주시겠어요? O O O O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 00건강보험 확인되십니다. O O
 성함 말씀해 주시겠어요? O O O
 OOO입니다. O
@@ -1894,7 +1784,7 @@ OOO-OOOO-OOOO 입니다. O O
 가입자 분 성함은요? O O O
 OOO입니다. O
 생년월일은요? O
-OOOOOO입니다. O
+OOOOOO입니다. ID_INUM_B
 네, OOO 해외여행자보험 가입 확인되셨습니다. O O O O O
 네, 이메일주소는 OOOO@OOOO.COM 입니다. O O O O
 사시는 곳이 OO시 OO구 OO동 이하 주소가 어떻게 되시죠? O O O O O O O O O
