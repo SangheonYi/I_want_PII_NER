@@ -1,0 +1,1270 @@
+자녀 명의로 농협은행계좌가 있으신가요?	O O SS_BRAND-B O
+하나은행 계좌가 없으신 경우 계좌를 먼저 개설하셔야 하고 신분증 지참 후 방문해 주시면 됩니다.	SS_BRAND-B O O O O O O O O O O O O O
+계좌 개설은 가까운 신한은행에 가서 하면 되나요>	O O O SS_BRAND-B O O O
+네 가까운 토스뱅크 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다.	O O SS_BRAND-B O O O O O O O O O O O O
+가까운 수협을 안내 받을수 있을까요?	O SS_BRAND-B O O O
+현 거주지를 알려주시면 가까운 경남은행을 안내해드리겠습니다.	O O O O SS_BRAND-B O
+용인시 청담동 입니다.	AD_ADDRESS-B AD_ADDRESS-I O
+네 지금 계신곳에서 가장 가까운 하나은행은 청담동 중소기업은행 청담점입니다.	O O O O O SS_BRAND-B AD_ADDRESS-B AD_DETAIL-B AD_DETAIL-I
+문의 좀 드리려구요 BC카드를 처음 발급 받았는데요.	O O O SS_BRAND-B O O O
+BC카드사 ARS나 홈페이지에서 신청하시거나 은행 영업점 방문으로 가능하십니다.	SS_BRAND-B O O O O O O O
+아이원 뱅크 설치 후 이용을 위해 모바일인증서를 다시 등록하셔야 합니다.	SS_BRAND-B O O O O O O O O O
+아이원뱅크를 다른 폰에서도 사용 가능한가요?	SS_BRAND-B O O O O
+손다정 33128입니다	SS_NAME-B ID_INUM-B
+신길6동지점 CD기입니다.	AD_DETAIL-B O
+연락받으실 전화번호 확인해 주시겠어요?	O O O O
+019-1652-3384 입니다	ID_PHONE-B O
+성함과 주민번호앞자리 말씀해주시겠어요?	O O O
+조오성 520430입니다	SS_NAME-B ID_INUM-B
+잠실동 CD기입니다.	AD_ADDRESS-B O
+연락받으실 전화번호 확인해 주시겠어요?	O O O O
+017-2481-6537 입니다	ID_PHONE-B O
+통장개설 지역이 어디이신가요?	O O O
+송파동입니다.	AD_ADDRESS-B
+송파지역 지점으로 가셔서 상담받으시면 됩니다.	AD_ADDRESS-B O O O O
+핸드폰 번호 알려주시겠어요?	O O O
+019-5687-2206 입니다.	ID_PHONE-B O
+받으실 핸드폰번호 알려 주시겠어요?	O O O O
+019-1913-8485 입니다.	ID_PHONE-B O
+13세입니다.	SS_AGE-B
+성함과 주민번호 앞자리 확인해 주시겠어요?	O O O O O
+남수희 040614 입니다	SS_NAME-B ID_INUM-B O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+류다운 110605 입니다.	SS_NAME-B ID_INUM-B O
+BC바로카드 확인되는데 분실카드가 맞으신가요?	SS_BRAND-B O O O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+남궁소은 800818 입니다.	SS_NAME-B ID_INUM-B O
+신한카드 확인되는데 분실카드가 맞으신가요?	SS_BRAND-B O O O
+국제 카드사인 비자카드사를 통해서 받을수 있습니다.	O O SS_BRAND-B O O O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+탁혜빈 650108 입니다.	SS_NAME-B ID_INUM-B O
+롯데카드 확인되는데 분실카드가 맞으신가요?	SS_BRAND-B O O O
+생년월일을 말씀해 주시겠어요?	O O O
+741127입니다.	ID_INUM-B
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+권경철 520926 입니다.	SS_NAME-B ID_INUM-B O
+현대카드 확인되는데 분실카드가 맞으신가요?	SS_BRAND-B O O O
+계림1동 입니다.	AD_ADDRESS-B O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+조만호 520926 입니다.	SS_NAME-B ID_INUM-B O
+카드대금 이체 계좌말씀해 주시겠어요?	O O O O
+312-6458-7668-94입니다.	ID_ACCOUNT-B
+비자카드 확인되십니다. 맞으신가요?	SS_BRAND-B O O
+성함말씀해 주시겠어요?	O O
+한한빈입니다	SS_NAME-B
+생년월일을 말씀해 주시겠어요?	O O O
+790824입니다.	ID_INUM-B
+성함말씀해 주시겠어요?	O O
+오승진입니다.	SS_NAME-B
+거래계좌번호 말씀해 주시겠어요?	O O O
+072-1947-7251-90입니다.	ID_ACCOUNT-B
+롯데카드와 우리카드 확인되십니다.	SS_BRAND-B SS_BRAND-B O
+롯데카드요	SS_BRAND-B
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+허정옥 725190 입니다	SS_NAME-B ID_INUM-B O
+계좌번호 말씀해 주시겠어요?	O O O
+029-3009-9179-5877 입니다	ID_ACCOUNT-B O
+통장개설 지역이 어디이신가요?	O O O
+동천동입니다.	AD_ADDRESS-B
+동천동 지점으로 가셔서 상담받으시면 됩니다.	AD_ADDRESS-B O O O O
+핸드폰 번호 알려주시겠어요?	O O O
+010-1423-3764 입니다.	ID_PHONE-B O
+거래 계좌 번호 알려주시겠어요?	O O O O
+325-77-739408 입니다.	ID_ACCOUNT-B O
+거래 계좌 번호 알려주시겠어요?	O O O O
+993-10-662480 입니다.	ID_ACCOUNT-B O
+신암4동 CD기기에서 이체하신건입니까?	AD_ADDRESS-B O O
+성함을 말씀해 주시겠어요?	O O O
+조지숙입니다.	SS_NAME-B
+사용하시는 계좌번호 알려주시겠어요?	O O O
+983-0324-0130-01 입니다.	ID_ACCOUNT-B O
+성함을 말씀해 주시겠어요?	O O O
+문윤빈입니다.	SS_NAME-B
+사용하시는 계좌번호 알려주시겠어요?	O O O
+060-1039-5637-81 입니다.	ID_ACCOUNT-B O
+계좌번호 알려주시겠어요?	O O
+236-5272-3700-69 입니다.	ID_ACCOUNT-B O
+고객님 명의로 된 계좌가 3개 있으신데요,	O O O O O O
+맨 뒷자리가 283으로 끝나는 계좌요.	O O ID_ACCOUNT-B O O
+저희 중소기업은행 통장인 거죠?	O SS_BRAND-B O O
+청주시 흥덕구 지동동 지동역입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B
+지동역이시면 2번 출구에 지동역지점이 있습니다.	AD_DETAIL-B AD_DETAIL-I O AD_DETAIL-I O
+2번 출구요?	AD_DETAIL-B O
+제가 있는 곳에선 한국산업은행이 가까운데 다른 은행에 가져다 드리는 건 안되죠?	O O O SS_BRAND-B O O O O O O O
+구반포역이요.	AD_DETAIL-B
+구반포역 3번 출구에서 Om 정도 직진 하시면 구반포지점이 있습니다.	AD_DETAIL-B AD_DETAIL-I O O O O O AD_DETAIL-I O
+송정역에 있는 곳이었습니다.	AD_DETAIL-B O O
+롯데인벤스1차아파트지점 연락처는 02-6579-0070입니다.	AD_DETAIL-B O ID_PHONE-B
+쌍문3동역에서 가까운 지점 알려주시면 가져다 드릴게요.	AD_DETAIL-B O O O O O
+감사 드립니다. 상하역이시면 6번 출구에 상하지점이 있습니다.	O O AD_DETAIL-B AD_DETAIL-I O AD_DETAIL-I O
+해당 현금카드와 연결된 계좌번호가 어떻게 되시나요?	O O O O O O
+5760382-53-757280 입니다.	ID_ACCOUNT-B O
+아, BC바로카드입니다.	O SS_BRAND-B
+용인시 기흥구 영덕동에 있는 gs주유소입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O AD_DETAIL-B
+여기 오산역 2번 출구에 있는 오산지점 ATM기입니다.	O AD_DETAIL-B AD_DETAIL-I O O AD_DETAIL-I O
+이체하신 계좌번호와 예금주명도 알려주실 수 있나요?	O O O O O O
+대구은행 224-0738-5828-04 권인성입니다..	SS_BRAND-B O SS_NAME-B
+문자 보냈던 번호도 같이 알려주시겠어요?	O O O O O
+011-4438-5283입니다.	ID_PHONE-B
+연락 온 전화번호를 알려주시면 보이스피싱 번호로 신고해두겠습니다.	O O O O O O O
+네, 02-7580-0230 이었습니다.	O ID_PHONE-B O
+제가 지금 이 은행 기린지점 직원 신지숙씨 통해서 대출을 받으려고 하는데요.	O O O O AD_DETAIL-B O SS_NAME-B O O O O
+탈주각앱 깔았습니다.	SS_BRAND-B O
+저기 광주은행이죠?	O SS_BRAND-B
+방금 한국스탠다드차타드은행에서 문자가 왔는데요.	O SS_BRAND-B O O
+네, 배철진이라는 사람에게 전부 이체되었어요.. 저 어떡해요… 흑흑	O SS_NAME-B O O O O O O
+저희 중소기업은행을 대표해 말씀 드리는 것입니다.	O SS_BRAND-B O O O O
+계좌번호 끝자리가 8691로 입금해야 하는데 실수로 2067에 입금했습니다.	O O ID_ACCOUNT-B O O O ID_ACCOUNT-B O
+방금 대내안지점 제갈희용에게 전화가 왔는데요.	O AD_DETAIL-B SS_NAME-B O O
+네, 전화번호는 02-3136-7605 입니다.	O O ID_PHONE-B O
+네, 저희 은행 와룡로지점 직원이 맞습니다.	O O O AD_DETAIL-B O O
+끝자리가 636으로 끝나는 계좌이고요.	O ID_ACCOUNT-B O O
+표선숙님으로 입금된 내역 말씀이시죠?	SS_NAME-B O O O
+지급청구 및 지급예정내용은 한국투자증권으로 문의해야 하나요?	O O O SS_BRAND-B O O
+지급청구 후 지급예정일은 골든트리투자자문사로 확인이 가능합니다.	O O O SS_BRAND-B O O
+한화생명보험 안내서비스 번호를 알고 싶어요	SS_BRAND-B O O O O
+가까운 BNP파리바카디프손해보험보험 고객플라자를 방문하셔서 신청하시면 됩니다.	O SS_BRAND-B O O O O
+5047-0828으로 문의하시면 자세하게 다시 설명드리겠습니다.	ID_PHONE-B O O O O
+울주군 다게리사거리 앞이예요.	AD_ADDRESS-B AD_DETAIL-B O
+해당되는 보험이 있는지 확인해드리겠습니다. 성함과 생년월일 확인부탁드립니다.	O O O O O O O
+이름은 심선진, 1937년 10월 26일입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+성함과 생년월일 확인부탁드립니다.	O O O
+이름은 허정옥, 1999년 09월 08일입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+이름은 유하훈, 1972년 03월 19일입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+주소지 월평동에서 제일 가까운 고객센터는 신가꽃산길지점입니다. 해당 주소도 고객님 휴대폰으로 문자 안내드리겠습니다.	O AD_ADDRESS-B O O O AD_DETAIL-B O O O O O O
+서울특별시 노량진1동 강변유원아파트 정문 이예요.	AD_ADDRESS-B AD_ADDRESS-I AD_DETAIL-B O O
+해당 번호로 가입되 있는 차량 번호가 65805맞나요? 성함이 어떻게 되시나요?	O O O O O O O O O O
+이름은 풍준혁입니다.	O SS_NAME-B
+성함과 생년월일 확인부탁드립니다.	O O O
+이름은 하민정, 2003년 09월 12일입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+팩스번호는 4653-001-3866입니다. 팩스 확인후에 지급 보험료를 다시 안내해드리겠습니다	O ID_PHONE-B O O O O O O
+성함과 생년월일 확인부탁드립니다.	O O O
+이름은 권윤빈, 1998년 03월 14일 입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O
+고객님 성함을 말씀해 주시겠습니까?	O O O O
+유규하 입니다.	SS_NAME-B O
+생년월일은 어떻게 되시나요?	O O O
+1993년10월03일 입니다.	ID_INUM-B O
+사시는곳 상세주소를 말씀해 주시겠습니까?	O O O O
+강변유원 아파트 OO동OO입니다.	AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I
+팩스번호 알려주시겠어요?	O O
+FAX 448-406-818 입니다.	O ID_PHONE-B O
+성함과 주민번호 앞자리말씀해 주시겠습니까?	O O O O
+노재용 980314입니다.	SS_NAME-B ID_INUM-B
+사시는곳 주소가 거창 아파트 몇동 몇호신가요?	O O O O O O
+12동307호 입니다.	AD_DETAIL-B O
+앱스토어에 들어가셔서 에이스손해보험 모바일 앱설치후 직접청구 가능하십니다.	O O SS_BRAND-B O O O O
+성함을 말씀해 주시겠어요?	O O O
+남궁인혁입니다.	SS_NAME-B
+생년월일은 어떻게 되시나요?	O O O
+1998년03월14일 입니다.	ID_INUM-B O
+전북은행입니다.	SS_BRAND-B
+성함이 어떻게 되시나요?	O O O
+정혜민입니다.	SS_NAME-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+437447입니다.	ID_INUM-B
+성함을 말씀해 주시겠어요?	O O O
+최동철입니다.	SS_NAME-B
+가입하고 계신 에이스건강보험1건이 확인됩니다.	O O SS_BRAND-B O
+fax 406-2002-5554입니다.	O ID_PHONE-B
+성함말씀해 주시겠어요?	O O
+고동환입니다.	SS_NAME-B
+거주지 주소 동호수 말씀해 주시겠어요?	O O O O O
+705동1803호 입니다.	AD_DETAIL-B O
+생년월일을 말씀해 주시겠어요?	O O O
+1997년05월03일입니다.	ID_INUM-B
+신한은행입니다.	SS_BRAND-B
+연락처 확인해주시겠어요?	O O
+010-0058-0994입니다.	ID_PHONE-B
+성함을 말씀해 주시겠어요?	O O O
+한현민입니다.	SS_NAME-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+869573입니다.	ID_INUM-B
+운전자보험에 가입해 계십니다.	O O O
+성함이 어떻게 되시나요?	O O O
+장윤철입니다.	SS_NAME-B
+삼성건강보험 1건 가입확인되십니다.	SS_BRAND-B O O
+사시는 아파트 동호수 말씀해 주시겠어요?	O O O O O
+1068동380호 입니다.	AD_DETAIL-B O
+성함과 주민번호 앞자리 알려주시겠어요?	O O O O
+강혜영 511068 입니다.	SS_NAME-B ID_INUM-B O
+성함을 말씀해주시겠어요?	O O
+배범호입니다.	SS_NAME-B
+핸드폰번호 뒤 4자리 말씀해 주시겠습니까?	O O O O O
+1198입니다.	ID_PHONE-B
+성함말씀해 주시겠어요?	O O
+문선숙입니다.	SS_NAME-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+650628입니다.	ID_INUM-B
+홍태식입니다.	SS_NAME-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+110609입니다.	ID_INUM-B
+성함말씀해 주시겠어요?	O O
+유성욱입니다.	SS_NAME-B
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+655동4775호 입니다.	AD_DETAIL-B O
+DB생명 건강보험 확인되십니다.	SS_BRAND-B O O
+본인 핸드폰번호 뒤 4자리 말씀해 주시겠어요?	O O O O O O
+2849입니다.	ID_PHONE-B
+팩스번호 알려주시겠어요?	O O
+FAX 430-511-068 입니다.	O ID_PHONE-B O
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+581114입니다.	ID_INUM-B
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+303동 3273 호 입니다.	AD_DETAIL-B AD_DETAIL-I O O
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+040130입니다.	ID_INUM-B
+성함이 어떻게 되시나요?	O O O
+정창환입니다.	SS_NAME-B
+핸드폰번호 뒤 4자리 말씀해 주시겠습니까?	O O O O O
+6901 입니다.	ID_PHONE-B O
+하나생명건강보험 1건 가입확인되십니다.	SS_BRAND-B O O
+앱스토어에 들어가셔서 KDB생명보험 모바일 앱설치후 직접청구 가능하십니다.	O O SS_BRAND-B O O O O
+성함말씀해 주시겠어요?	O O
+황남일입니다.	SS_NAME-B
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+178동337호 입니다.	AD_DETAIL-B O
+KB생명 건강보험 확인되십니다.	SS_BRAND-B O O
+성함과 주민번호 앞자리말씀해 주시겠습니까?	O O O O
+제갈영우 330811입니다.	SS_NAME-B ID_INUM-B
+사시는곳 주소 동호수 말씀해 주시겠어요?	O O O O O
+804동3812호 입니다.	AD_DETAIL-B O
+앱스토어에 들어가셔서 롯데손해보험 모바일 앱설치후 직접청구 가능하십니다.	O O SS_BRAND-B O O O O
+성함을 말씀해 주시겠어요?	O O O
+윤재영입니다.	SS_NAME-B
+생년월일은 어떻게 되시나요?	O O O
+1966년03월26일 입니다.	ID_INUM-B O
+한국스탠다드차타드은행입니다.	SS_BRAND-B
+성함을 말씀해 주시겠어요?	O O O
+제갈연주입니다.	SS_NAME-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+410702입니다.	ID_INUM-B
+성함과 주민번호 앞자리말씀해 주시겠어요?	O O O O
+유민주 351007입니다.	SS_NAME-B ID_INUM-B
+성함과 주민번호 앞자리말씀해 주시겠어요?	O O O O
+황재현 450821입니다.	SS_NAME-B ID_INUM-B
+성함을 말씀해 주시겠습니까?	O O O
+남궁원빈입니다.	SS_NAME-B
+사시는곳 주소 동호수 말씀해 주시겠어요?	O O O O O
+1110동2608호 입니다.	AD_DETAIL-B O
+성함과 주민번호 앞자리말씀해 주시겠어요?	O O O O
+추유원 100517입니다.	SS_NAME-B ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+691211입니다.	ID_INUM-B
+NH농협생명 확인되십니다.	SS_BRAND-B O
+등록되신 핸드폰번호 뒤4자리 말씀해 주시겠어요?	O O O O O
+5226입니다.	ID_PHONE-B
+팩스번호는 209-8151-3925 입니다.	O ID_PHONE-B O
+등록되신 핸드폰번호 뒤4자리 말씀해 주시겠어요?	O O O O O
+5615입니다.	ID_PHONE-B
+팩스번호는 135-2154-8618 입니다.	O ID_PHONE-B O
+생년월일 말씀해 주시겠어요?	O O O
+531122입니다.	ID_INUM-B
+ABL생명보험이 확인되십니다	SS_BRAND-B O
+생년월일 말씀해 주시겠어요?	O O O
+601025입니다.	ID_INUM-B
+동양생명통합보험이 확인되십니다	SS_BRAND-B O
+사시는곳 상세주소를 말씀해 주시겠습니까?	O O O O
+입장동 541번지 입니다.	AD_DETAIL-B AD_DETAIL-I O
+사시는곳 동호수 말씀해 주시겠습니까?	O O O O
+108-3동 3186호 입니다.	AD_DETAIL-B AD_DETAIL-I O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+노혜선 640731입니다.	SS_NAME-B ID_INUM-B
+동양생명건강보험이 확이되십니다.	SS_BRAND-B O
+fax 426-5615-9746 입니다.	O ID_PHONE-B O
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+풍지영 440812입니다.	SS_NAME-B ID_INUM-B
+AIG손해보험이 확이되십니다.	SS_BRAND-B O
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+125동4367호 입니다.	AD_DETAIL-B O
+현대해상화재종신보험 확인되십니다.	SS_BRAND-B O
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+88동774호 입니다.	AD_DETAIL-B O
+BNP파리바카디프손해종신보험 확인되십니다.	SS_BRAND-B O
+생년월일 말씀해 주시겠어요?	O O O
+070131입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+000231입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+340911입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+830307입니다	ID_INUM-B
+상세주소 말씀해주시겠어요?	O O
+43번지 1층 입니다.	AD_DETAIL-B AD_DETAIL-I O
+생년월일 말씀해 주시겠어요?	O O O
+741005입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+720422입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+560617입니다	ID_INUM-B
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+610528입니다	ID_INUM-B
+생년월일 말씀해 주시겠어요?	O O O
+340810입니다	ID_INUM-B
+등록되잇는 핸드폰번호 뒤 4자리 말씀해 주시겠어요?	O O O O O O
+9681입니다	ID_PHONE-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+817동4224호입니다.	AD_DETAIL-B
+생년월일앞자리 말씀해 주시겠어요?	O O O
+390104 입니다.	ID_INUM-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+1679동965호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+1590동2956호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+1500동1587호입니다.	AD_DETAIL-B
+생년월일6자리 말씀해 주시겠어요?	O O O
+660521 입니다.	ID_INUM-B O
+동부화재해상보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+590531 입니다.	ID_INUM-B O
+처브라이프보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+320415 입니다.	ID_INUM-B O
+동양생명보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+141029 입니다.	ID_INUM-B O
+생년월일 앞6자리 말씀해 주시겠어요?	O O O O
+170605 입니다.	ID_INUM-B O
+NH농협생명보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+247동1819호입니다.	AD_DETAIL-B
+하나생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+600218입니다.	ID_INUM-B
+ABL생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+630210입니다.	ID_INUM-B
+IBK연금보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+520707입니다.	ID_INUM-B
+에이스손해보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+450705입니다.	ID_INUM-B
+SGI서울보증보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+660103입니다.	ID_INUM-B
+라이나생명보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+101동408호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+38동408호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+712동4096호입니다.	AD_DETAIL-B
+미래에셋생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+530318입니다.	ID_INUM-B
+처브라이프보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+710704입니다.	ID_INUM-B
+MG손해보험 확인되십니다.	SS_BRAND-B O
+표선옥고객님이신가요?	SS_NAME-B
+설영기고객님 맞으시죠?	SS_NAME-B O
+박광석고객님 맞으시죠?	SS_NAME-B O
+MG손해보험과 현대라이프생명보험있으신데 맞으신가요?	SS_BRAND-B SS_BRAND-B O
+메트라이프생명보험에서 골절진단비 보상가능하십니다	SS_BRAND-B O O
+DB와 현대입니다	SS_BRAND-B SS_BRAND-B
+안영기입니다 980910-2492862입니다	SS_NAME-B ID_INUM-B
+양민우입니다 500815-4613963이예요	SS_NAME-B ID_INUM-B
+종각 4거리 H건물 10층에 있습니다	AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O
+현재 근무하는 곳이 종각 근처이신가요?	O O O AD_DETAIL-B O
+생년월일 앞6자리 말씀해 주시겠어요?	O O O O
+360511 입니다.	ID_INUM-B O
+IBK연금보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+265동4699호입니다.	AD_DETAIL-B
+NH농협손해보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+331216입니다.	ID_INUM-B
+ABL생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+520430입니다.	ID_INUM-B
+NH농협손해보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+219동 2687호입니다.	AD_DETAIL-B AD_DETAIL-I
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+116동4893호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+343동1261호입니다.	AD_DETAIL-B
+메트라이프생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+310404입니다.	ID_INUM-B
+동양생명보험 확인되십니다.	SS_BRAND-B O
+주민번호 앞6자리 말씀해 주시겠어요?	O O O O
+560622입니다.	ID_INUM-B
+KDB생명보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+110923 입니다.	ID_INUM-B O
+하나생명보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+651113 입니다.	ID_INUM-B O
+DB생명보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+220동2275호입니다.	AD_DETAIL-B
+동부화재해상보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+104동1821호입니다.	AD_DETAIL-B
+생년월일6자리 말씀해 주시겠어요?	O O O
+940822 입니다.	ID_INUM-B O
+BNP파리바카디프생명보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+750329 입니다.	ID_INUM-B O
+AIG손해보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+700124 입니다.	ID_INUM-B O
+흥국생명보험 확인되십니다.	SS_BRAND-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+570222 입니다.	ID_INUM-B O
+생년월일 앞6자리 말씀해 주시겠어요?	O O O O
+500731 입니다.	ID_INUM-B O
+현대해상화재보험 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+968동3998호입니다.	AD_DETAIL-B
+푸르덴셜생명보험 확인되십니다.	SS_BRAND-B O
+등록되잇는 핸드폰번호 뒤 4자리 말씀해 주시겠어요?	O O O O O O
+9583입니다	ID_PHONE-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+320동4193호입니다.	AD_DETAIL-B
+생년월일앞자리 말씀해 주시겠어요?	O O O
+810506 입니다.	ID_INUM-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+800동3205호입니다.	AD_DETAIL-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+567-1동1515호입니다.	AD_DETAIL-B
+하나생명보험에 가입했는데요.	SS_BRAND-B O
+네, 현재 저의 NH농협생명은 메트라이프생명에 현장확인을 위탁하고 있습니다.	O O O SS_BRAND-B SS_BRAND-B O O O
+사시는 곳이 서울특별시 은평구 서오릉4동 이하 주소가 어떻게 되시죠?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+중랑동 1773호입니다.	AD_DETAIL-B AD_DETAIL-B
+신한은행입니다.	SS_BRAND-B
+제가 딸 앞으로 BNP파리바카디프생명을 들어두었습니다.	O O O SS_BRAND-B O
+딸에게 메트라이프생명을 들어줬는데요.	O SS_BRAND-B O
+사시는 곳이 서울특별시 송파구 가락본동 이하 주소가 어떻게 되시죠?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+남원오피스텔 3326호.	AD_DETAIL-B AD_DETAIL-I
+광주은행입니다.	SS_BRAND-B
+제가 여기 MG손해에 실손의료보험을 가입한 게 있습니다.	O O SS_BRAND-B O O O O
+저희 IBK연금에서 가입하신 보험은 입원비의 90%인 1350만원이 보상책임액이 됩니다.	O SS_BRAND-B O O O O O O O
+그래서 저희 KB생명은 1095만원을, 타 보험사는 405만원을 지급해드립니다.	O O SS_BRAND-B O O O O O
+제가 신한라이프(구신한생명)보험이 개인이랑 단체가 있는데요.	O SS_BRAND-B O O O
+사시는 곳이 대구광역시 중구 사서동 이하 주소가 어떻게 되시죠?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+루미니오피스텔 3858호입니다.	AD_DETAIL-B AD_DETAIL-I
+보험금 지급사유 판정에 드는 비용은 저희 교보생명이 전액 부담합니다.	O O O O O O SS_BRAND-B O O
+핸드폰번호가 어떻게 되시죠?	O O O
+010-0100-5628 입니다.	ID_PHONE-B O
+생년월일은요?	O
+760420입니다.	ID_INUM-B
+네, 악사손해 해외여행자보험 가입 확인되셨습니다.	O SS_BRAND-B O O O
+사시는 곳이 대구광역시 달서구 월성동 이하 주소가 어떻게 되시죠?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+목동신시가지아파트 1448동 1272호입니다.	AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I
+네, 상담원 허인호이었습니다. 좋은 하루 되세요.	O O SS_NAME-B O O O
+종로 5가에 있습니다	AD_DETAIL-B AD_DETAIL-I O
+팩스번호 알려주시겠어요?	O O
+997-8420입니다	ID_PHONE-B
+네, 생년월일 6자리가 어떻게 되시나요?	O O O O O
+160606이예요.	ID_INUM-B
+다친 자제분은 성함이 어떻게 되나요	O O O O O
+풍도영 입니다	SS_NAME-B O
+생년월일은 어떻게 되죠?	O O O
+2007년1월1일생 입니다	O O
+상품개발부서 전화번호가 있나요?	O O O
+5390-1998	ID_PHONE-B
+고객님은 계약자오혜성이신가요?	O SS_NAME-B
+한화생명보험사죠? 교통사고 운전자보험금 신청하려구요	SS_BRAND-B O O O
+그러시면 주민번호 및 성함 알려주시기 바랍니다.	O O O O O O
+360716-3861904, 송광일이에요,	ID_INUM-B SS_NAME-B
+무보장악사 생명보험하고한화생명보험에 가입하셨네요	SS_BRAND-B SS_BRAND-B O
+팩스로 보내도 되나요?	O O O
+네, 64-9008-3898번으로 보내주시기 바랍니다.	O ID_PHONE-B O O
+안녕하십니까? 흥국생명입니다.	O SS_BRAND-B
+성함부탁드립니다.	O
+장경수입니다	SS_NAME-B
+주민번호 눌러주시기 바랍니다.	O O O
+051013-3494827입니다.	ID_INUM-B
+네 감사합니다 상담원추태환이었습니다	O O SS_NAME-B
+주민번호 눌러주시겠습니까??	O O
+631105-4924816입니다.	ID_INUM-B
+SGI서울보증사 어플을 통해 업로드 해주시면됩니다	SS_BRAND-B O O O O
+주민번호 눌러주시겠습니까??	O O
+040619-2453503입니다.	ID_INUM-B
+안녕하십니까? BNP파리바카디프손해보험입니다.	O SS_BRAND-B
+태아때 처브라이프보험과 ABL생명보험에 가입했어요	O SS_BRAND-B SS_BRAND-B O
+생년월일을 말해주시겠습니까?	O O
+150805입니다	ID_INUM-B
+삼성생명 유니버셜보장보험이요.	SS_BRAND-B SS_BRAND-I
+그러시면 플레이스토어에서 삼성생명보험 앱 클릭하시고 설치 바랍니다.	O O SS_BRAND-B O O O O
+교보라이프플래닛 추지호입니다.	SS_BRAND-B SS_NAME-B
+고객님 생년월일 알려주시겠습니까?	O O O
+110702입니다	ID_INUM-B
+가입시 남겨주신 경남은행계좌로 자동이체 됩니다.	O O SS_BRAND-B O O
+팩스번호가 뭐죠?	O O
+2069-6871입니다.	ID_PHONE-B
+양재동 완산터널 근방이에요	AD_ADDRESS-B AD_DETAIL-B O
+혹시 동부화재해상보험로 가입하셨나요?	O SS_BRAND-B O
+설승철고객님은 무배당 넘버원 건강보험에 가입되셨네요.	SS_NAME-B O O O O
+성함과 생년월일 말해주시겠어요?	O O O
+이름은 홍미르이고 000531이요.	O SS_NAME-B ID_INUM-B
+수표 분실시 우리은행 고객센터로 신고하시기 바랍니다.	O O SS_BRAND-B O O O
+전북은행영업접에서 서면신고하시거나 전화로 신고가능합니다.	SS_BRAND-B O O O
+토스뱅크 고객센터로 전화하셔서 신고하신 수 익영업일까지 서면으로 사고신고서를 제출해주셔야 합니다.	SS_BRAND-B O O O O O O O O O
+5695-2976로 전화주시면 됩니다.	ID_PHONE-B O O
+카드 분실, 도난 시 BC카드 홈페이지 또는 카드 발급사를 통해 신고접수 하실 수 있습니다.	O O O O O O O O O O O O O O
+BC카드에서 회원 및 가맹점 등의 귀책사유, 과실의 여부 등을 심사한 후 보상금액을 확정하여 통보해드립니다.	O O O O O O O O O O O O O O
+분실도난 사고 신고 번호는 7648-4098입니다.	O O O O ID_PHONE-B
+한국스탠다드차타드은행카드 홈페이지에서 하면 되는거죠?	SS_BRAND-B O O O
+해외이용 고객센터 번호는 5225-9735입니다.	O O O ID_PHONE-B
+현대카드 앱의 Lock&Limit 기능을 이용하시면 타인에 의한 카드 부정 사용을 예방할 수 있습니다.	SS_BRAND-B O O O O O O O O O O O O
+0890-5190번으로 문의, 신청해주시면 됩니다.	ID_PHONE-B O O O
+중소기업은행 카드 문의 가능하죠?	SS_BRAND-B O O O
+유선 연락처좀 알려주세요.	O O O
+4832-8890또는 02-5236-5965 문의하시면 됩니다.	ID_PHONE-B ID_PHONE-B O O
+해제는 각 금융기관에 문의해주시기 바라며, 수협은 신분증 준비하신 후 영업점 방문해주셔야 합니다.	O O O O O SS_BRAND-B O O O O O O
+전북은행 재발급 비용은 토큰형 3천원, 카드형 1만원이며 은행마다 상이한걸로 알고있습니다.	SS_BRAND-B O O O O O O O O O
+부산은행은행 고객센터 접속하셔서 공인인증서 로그인 후 사고/분실 신고하기 코너에서 신청하시면 됩니다.	SS_BRAND-B O O O O O O O O O O
+7805-2428으로 전화주시면 됩니다.	ID_PHONE-B O O
+우리은행카드 분실신고 어디로 하죠?	SS_BRAND-B O O O
+5647-7584 제주은행카드 고객센터 전화하셔서 2번, 8번, 1번 누르시면 분실신고 가능합니다.	ID_PHONE-B SS_BRAND-B O O O O O O O O
+해외 분실의 경우 9666-0363-7180번 입니다.	O O O ID_PHONE-B O
+카드 사용 이력이 없는데 현대카드라고 하면서 승인 확인요청 문자가 계속와요.	O O O O SS_BRAND-B O O O O O
+현대카드는 사고방지센터를 운영하며 회원의 정상 사용 여부를 확인하고 있습니다. 회원 본인 정상사용 여부 회신주시면 안전한 카드 사용을 할 수 있도록 후속조치를 진행합니다.	SS_BRAND-B O O O O O O O O O O O O O O O O O O O O O
+카드부정사용 전문상담센터 번호는 02-3734-3775입니다.	O O O ID_PHONE-B
+네 그 외 상담은 평일 영업시간 대표번호인 7764-9279을 이용해주시기 바랍니다.	O O O O O O O ID_PHONE-B O O
+기존에 이용중인 삼성카드를 삼성페이 앱에 등록한 경우, 분실신고와 재발급을 동시에 신청하면 삼성페이 예외이용 신청이 가능합니다.	O O SS_BRAND-B SS_BRAND-B O O O O O O O SS_BRAND-B O O O
+아뇨. 분실신고 후 7일동안 기존 등록된 카드를 삼성페이로 이용할 수 있습니다.	O O O O O O O SS_BRAND-B O O O
+연락처 알려주시겠어요?	O O
+7367-3454입니다.	ID_PHONE-B
+코스트코 바우처는 유효기간까지 코스트코에서 이용하실 수 있습니다.	SS_BRAND-B O O SS_BRAND-B O O O
+성함이랑 생년월일 .	O O O
+송진옥이고 생년월일은 311023입니다.	SS_NAME-B O ID_INUM-B
+성함이랑 생년월일이 어떻게되시나요?	SS_NAME-B O O
+사공홍석이고 580109 생입니다.	O ID_INUM-B O
+생년월일은 어떻게 되시나요?	O O O
+980901입니다.	ID_INUM-B
+네 고객님 성함이랑 주민등록번호 좀 알려주시겠어요?	O O O O O O
+이태우 201022-2961502입니다.	SS_NAME-B ID_INUM-B
+생년월일과 주민번호 부탁드립니다.	O O O
+1955년11월31일, 551131-3751011입니다.	ID_INUM-B ID_INUM-B
+추나길이고, 98년 10월 20일이요.	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+전화번호를 알려주세요.	O O
+010-4593-8112입니다.	ID_PHONE-B
+고객님 성함과 주민등록번호 앞자리 말씀해주시겠어요?	O O O O O
+네 봉나길 이고 740507 입니다	O SS_NAME-B O ID_INUM-B O
+고객센터 번호가 뭐예요?	O O O
+0608-7116입니다.	ID_PHONE-B
+카드번호나 주민번호 알려주시면 조회해보겠습니다.	O O O O
+롯데카드이고 번호는 모르겠어요. 주민번호는 350329-4366959 입니다.	ID_CARD-B O O O ID_INUM-B O
+네 조회해보겠습니다. 경남은행 체크카드가 있습니다. 맞으신가요?	O O SS_BRAND-B O O O
+성함과 주민번호를 말씀해 주세요	O O O O
+송우현 이고 7706223721277 입니다.	SS_NAME-B O O ID_INUM-B
+저희 부산은행에 방문해 주셔야 합니다.	O SS_BRAND-B O O O
+전화번호가 뭔가요?	O O
+016-1379-6588입니다.	ID_PHONE-B
+우리은행금융지원센터가 경남은행 인가요?	SS_BRAND-B SS_BRAND-B O
+광주은행금융지원센터요?	SS_BRAND-B
+네 대출안내 문자가 왔는데 중소기업은행금융지원센터라고 해서요.	O O O O SS_BRAND-B O
+네 고객님 전북은행금융지원센터는 한국산업은행이 아닙니다.	O O SS_BRAND-B SS_BRAND-B O
+카카오뱅크 아닌가요?	SS_BRAND-B O
+네 가입자분 성함이랑 생년월일 .	O O O O O
+사공영숙이고 560504입니다.	SS_NAME-B ID_INUM-B
+직장주소 .	O O
+충청북도 영동군 심천면 길동길 헌화빌딩 3층입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I
+생년월일 부탁드립니다	O O
+47년 11월 10일 입니다.	ID_INUM-B ID_INUM-I ID_INUM-I O
+6039-8972번입니다	ID_PHONE-B
+콜센터 번호 좀 알려주실 수 있을까요?	O O O O O O
+1576-7808으로 문의주시면 됩니다.	ID_PHONE-B O O
+악사손해보험 고객콜센터 5402-4830로 접수하시면 됩니다.	SS_BRAND-B O ID_PHONE-B O O
+DB생명보험 고객콜센터 0778-0923로 접수하시면 됩니다.	SS_BRAND-B O ID_PHONE-B O O
+팩스번호알려주실수있나요?	O
+018-565-8610입니다	ID_PHONE-B
+팩스번호를 알 수 있을까요?	O O O O
+010-7383-6619로 보내주시면 됩니다.	ID_PHONE-B O O
+주소지는 더플래티넘아파트 105동 203호로 보내주세요.	O AD_DETAIL-B O O O
+전화번호를 알려주세요.	O O
+0858-505-0885로 전화하셔서 상담원 연결 하신 후 임시카드 발급한다고 말씀하시면 됩니다.	ID_PHONE-B O O O O O O O O O
+신청은 글로벌 고객센터로 전화하셔서 진행하셔야 합니다. 받으시려면 한 곳에 3일 이상은 머물러야 받으실 수 있습니다.	O O O O O O O O O O O O O O O
+001-852-500-9473입니다. 임시카드라도 재발급 하시는거라 기존의 카드는 찾으셨다고 하셔도 사용이 안됩니다.	ID_CARD-B O O O O O O O O O
+8176-6653로 전화하셔서 임시카드 발급 신청하시면 됩니다.	ID_PHONE-B O O O O O
+남편 핸드폰으로 남겨주세요. 번호는 010-5451-7990입니다.	O O O O ID_PHONE-B
+1472-2165-0020로 팩스 보내주실수 있나요?	ID_PHONE-B O O O
+네 02-894-2696 로 보내주시면 처리 도와드리겠습니다.	O ID_PHONE-B O O O O
+팩스번호 알려주실래요?	O O
+고객님 629-4222입니다.	O ID_PHONE-B
+먼저 본인확인을 위해 고객님의 성함과 생년월일 말씀해 주시겠습니까?	O O O O O O O O
+백선숙이구요. 3800643입니다.	SS_NAME-B ID_INUM-B
+현재 고객님이 계신 위치가 어디시죠?	O O O O O
+지금 장림1동 위브아파트 지하주차장이에요.	O AD_ADDRESS-B AD_DETAIL-B O
+주민등록번호는 어떻게 되시나요?	O O O
+940406-2750448O입니다.	ID_INUM-B
+걱정하지않으셔도 되시는게 고속도로에서 사고가 나셨을때는 한국도로공사 2504 견인서비스를 이용하실 수 있습니다.	O O O O O O ID_PHONE-B O O O O
+성함과 주민등록번호 말씀해주시겠습니까?	O O O
+안윤숙이구요. 640209-4779262이에요.	SS_NAME-B ID_INUM-B
+악사손해보험사는 1580-2736입니다	SS_BRAND-B ID_PHONE-B
+푸르덴셜생명보험회사의 팩스 번호는 010-2810-5177입니다.	SS_BRAND-B O O ID_PHONE-B
+본인확인을 위해서 주민번호 좀 알려주십시오	O O O O O
+410121-2696928O입니다.	ID_INUM-B
+성함과 주민등록번호 말씀해주시겠습니까?	O O O
+임창호이구요. 011119-2470050이에요.	SS_NAME-B ID_INUM-B
+주민번호 앞 6자리 어떻게 되세요?	O O O O O
+네 350729입니다.	O ID_INUM-B
+출생월일 6자리 어떻게 되십니까?	O O O O
+저의 생년월일은 620705이에요.	O O ID_INUM-B
+고객님 주소가 어떻게 되시나요?	O O O O
+부사광역시 남구 동서로 서희스타힐스아파트 1291호 입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O
+고객님 주민버호 뒷자리는 어떻게 되나요?	O O O O O
+2300103입니다.	ID_INUM-B
+광주광역시 중구 성산로 래미안아파트 805동 8914호 입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O
+주민등록번호 앞자리 6자리 불러주세요	O O O O
+3436138입니다.	ID_INUM-B
+고객님 주소가 광주광역시 일곡동 다음주소가 어떻게되십니까?	O O AD_ADDRESS-B AD_ADDRESS-I O O
+하늘채아파트 679동 1745호 입니다.	AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O
+주민등록번호 앞자리 6자리 불러주세요	O O O O
+4846568입니다.	ID_INUM-B
+현재 주소지는 어떻게 될까요?	O O O O
+부산광역시 중구 내손1동 새벽시장로 푸르지오아파트 246동5720호 입니다	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O
+고객님 주소가 경주시안강동 다음 어떻게되시죠?	O O AD_ADDRESS-B O O
+스위첸아파트 528동5813호입니다.	AD_DETAIL-B AD_DETAIL-I
+고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
+3511311입니다.	ID_INUM-B
+고객님 주민등록 번호는요?	O O O
+520921-3517552입니다.	ID_INUM-B
+저의 생년월일은 350125이에요.	O O ID_INUM-B
+출생월일 6자리 어떻게 되십니까?	O O O O
+저의 생년월일은 130903이에요.	O O ID_INUM-B
+고객님 출생월일 6자리 어떻게 되십니까?	O O O O O
+저의 생년월일은 630430이에요.	O O ID_INUM-B
+마지막으로 고객님 현재 사시는 주소 한번 불러 주시겠습니까?	O O O O O O O O
+인천광역시 부평구 십정로 호반베르디움아파트 313동 3012호 입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O
+생년월일은 어떻게 되시지요?	O O O
+1990년08월16일입니다	ID_INUM-B
+가능하십니다. 직통전화번호 안내 도와드리겠습니다 02-1192-9384 류희주팀장님 이십니다.	O O O O ID_PHONE-B SS_NAME-B O
+이름은 오범철이고 주민번호는 3203092376190이에요	SS_NAME-B O O ID_INUM-B
+고객님 주소지는요?	O O
+부산광역시 동래구 명안로 동문굿모닝힐아파트 1638호 입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O
+010-4268-8724 입니다	ID_PHONE-B O
+이름은조홍식, 연락처는 02-1553-3198입니다	SS_NAME-B O ID_PHONE-B
+010-8998-0093입니다.	ID_PHONE-B
+011-5669-5040입니다.	ID_PHONE-B
+010-0021-1951입니다.	ID_PHONE-B
+017-7050-5969인데요	ID_PHONE-B
+010-5695-9122	ID_PHONE-B
+고객님의 핸드폰번호가 010-2129-4574맞으신가요?	O O ID_PHONE-B
+네 보험 청구하실 때 3140-6422로 전화주시면 바로 FAX 보내드리겠습니다.	O O O O ID_PHONE-B O O O O
+이름은 황보광호, 생년월일은 1980년 11월 26일 입니다.	O SS_NAME-B O ID_INUM-B ID_INUM-I ID_INUM-I O
+017-9196-8985이고요	ID_PHONE-B
+010-8113-5790	ID_PHONE-B
+010-2696-9587 입니다.	ID_PHONE-B O
+010-6234-9388입니다.	ID_PHONE-B
+네 부산은행으로 안내해주세요.	O SS_BRAND-B O
+대구은행 642-42-254132으로 30만원 입금해주시면 되세요.	SS_BRAND-B ID_ACCOUNT-B O O O
+고객님의 휴대폰 번호는 011-8415-6312맞나요?	O O O ID_PHONE-B
+1894-5609로 전화를 하시면 전문상담사가 상세히 안내를 해드릴겁니다.	ID_PHONE-B O O O O O O
+02-1787-6075입니다.	ID_PHONE-B
+6143-2043입니다.	ID_PHONE-B
+카드번호는 8890-4832-5236-5965 비밀번호는 8920입니다.	O ID_CARD-B O O
+성함이 권정아이구요 20년 10월 06일생 이십니다. 제 이름은 장태원이구요.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O O O SS_NAME-B
+네 우선 경찰에 접수를 하시고 안전한 곳에서 대기 해주십시요. 저희 전문 상담사가 고객님 계신곳으로 출동하였습니다. 5195-8502으로 전화가 오면 받아 주십시요.	O O O O O O O O O O O O O O O ID_PHONE-B O O O O
+여기는 현대라이프생명 콜센터입니다	O SS_BRAND-B O
+연제지점의 전화번호는 283-8064입니다.	AD_DETAIL-B O ID_PHONE-B
+"홈페이지 하단 ""휴면보험금"" 버튼을 통해 생명보험협회로 연결되어 휴면보험금을 확인하실 수 있습니다. - 콜센터 (9771-6581)로 전화하시면 본인 확인 후 안내해 드립니다. "	O O O O O O O O O O O O O ID_PHONE-B O O O O O O O
+콜센터 (2396-2022)로 전화하시면 본인 확인 후 안내해 드립니다. 연결해드릴까요?	O ID_PHONE-B O O O O O O O
+010-536-0406으로 전화신청하시면 됩니다	ID_PHONE-B O O
+전북은행손해보험에 농작물피해보험에 가입하신 내역이 있으신가요?	SS_BRAND-B O O O O
+저번에 카카오뱅크에서 점검하고 갔는데 13%정도 된다 하더라고요.	O SS_BRAND-B O O O O O
+네 고객님이 가입하신 신한은행생명 태아보험은 통원치료로 1회당 1만원 지급되는데 반드시 질병코드에 해당되는 것만 가능합니다.	O O O SS_BRAND-B O O O O O O O O O O
+손은주고 주민번호는 3605174456330입니다.	SS_NAME-B O ID_INUM-B
+표진성고 주민번호는 691225입니다.	SS_NAME-B O ID_INUM-B
+주소는 경상북도 경주시 감포읍 감포로11길 505호입니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B
+중소기업은행 97759873입니다.	SS_BRAND-B ID_ACCOUNT-B
+풍철정고 주민번호는 5111053175376입니다.	SS_NAME-B O ID_INUM-B
+이름은 봉우진, 전화번호는 010-1909-4899입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 추세훈, 전화번호는 010-1345-0724입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 김재경, 전화번호는 010-9725-7938입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 정성근, 전화번호는 019-7789-4940입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 양정희, 전화번호는 019-3960-5555입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 박창수, 전화번호는 017-7438-8717입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 풍진태, 전화번호는 010-3541-9769입니다.	O SS_NAME-B O ID_PHONE-B
+이름은 정은성, 010-2582-5304입니다.	O SS_NAME-B ID_PHONE-B
+이름은 신광희, 010-9639-1441입니다.	O SS_NAME-B ID_PHONE-B
+이름은 풍주현, 016-6810-8323입니다.	O SS_NAME-B ID_PHONE-B
+이름은 정병호, 010-2531-3506입니다.	O SS_NAME-B ID_PHONE-B
+이름은 노경혜, 010-2290-9487입니다.	O SS_NAME-B ID_PHONE-B
+자동차사고접수는 AIG손해보험 고객콜센터(0028-2951)를 통해 접수하실 수 있습니다.	O SS_BRAND-B ID_PHONE-B O O O O
+고객콜센터 (1809-8052) 전화 하셔서 ARS 1번을 누르면 언제든지 사고접수 및 상담 가능합니다.	O ID_PHONE-B O O O O O O O O O O
+MG손해험 콜센터(4854-1942)로 연락을 주시면, 상담직원이 사고접수를 진행해 드립니다.	SS_BRAND-B ID_PHONE-B O O O O O O
+담당자를 정확히 모르실 경우에는 홈페이지 및 동양생명보험 고객콜센터(6079-1943)로 연락하시면담당자와 연락처를 확인하실 수 있습니다.	O O O O O O SS_BRAND-B ID_PHONE-B O O O O O
+SKT 핸드폰보험(스마트세이프플러스50/40/20) 보상문의 및 사고접수는 SKT 고객센터(7553-7938)를 통해 처리하실 수 있습니다.	SS_BRAND-B O O O O SS_BRAND-B ID_PHONE-B O O O O
+KT 단말기보험(쇼폰케어보험) 보상문의 및 사고접수는 KT 고객센터(2763-6066)를 통해 처리 하실 수 있습니다.	SS_BRAND-B O O O O SS_BRAND-B ID_PHONE-B O O O O O
+삼성전자 휴대폰파손보험(모바일기기보험) 보상문의 및 사고접수는교보라이프플래닛보험 모바일기기보험 콜센터(1697-0359)를 통해 처리하실 수 있습니다.	SS_BRAND-B O O O SS_BRAND-B O ID_PHONE-B O O O O
+사고접수를 한 경우는 BNP파리바카디프손해보험 보상콜센터(1485-1589)로 전화하면 상담원이 자세히 안내해 드릴 것입니다.	O O O SS_BRAND-B ID_PHONE-B O O O O O O
+팩스번호는 9980-3651번입니다	O ID_PHONE-B
+010-992-4426번입니다	ID_PHONE-B
+010-156-4566번입니다	ID_PHONE-B
+네 018-185-0077-번으로 보내주시면 됩니다	O ID_PHONE-B O O
+010-701-7542번으로 보내주시면 됩니다	ID_PHONE-B O O
+네 팩스번호 721-9237번입니다	O O ID_PHONE-B
+KDB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+악사손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한라비발디아파트 814동1187호입니다.	AD_DETAIL-B AD_DETAIL-I
+한화손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행생명입니다. 어떤내용이신가요?	SS_BRAND-B O
+처브라이프보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+AIG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한화생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+동양생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+라이나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+동부화재해상보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+경기도 시흥시 분지동 서희스타힐스아파트 884동6193호입니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I
+DGB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+The-K손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+IBK연금보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+삼성화재해상보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+흥국생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 ?	SS_BRAND-B O O O
+한국산업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+광주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+광주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+토스뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+경남은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+하나은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+대구은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+씨티은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+경남은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+전북은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+신한은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+농협입니다.무엇을 도와드릴까요 고객님?	SS_BRAND-B O O
+국민은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국산업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+한국산업은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+신한은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+중소기업은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+농협은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+전북은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+부산은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+부산은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+대구은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+국민은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+토스뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+AIA생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한화손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+미래에셋생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+에이스손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+KDB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+신한라이프(구신한생명)보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+삼성화재해상보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+AIG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+MG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+에이스손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+메리츠화재해상보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+하나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+신한라이프(구오렌지라이프)보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+롯데손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+BNP파리바카디프손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+미래에셋생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+MG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+푸르덴셜생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+IBK연금보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+DB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+하나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+동양생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+ABL생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+ABL생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+MG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+DB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+현대해상화재보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+교보라이프플래닛보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+ABL생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+KDB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+The-K손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+교보생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+교보생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+미래에셋생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+BNP파리바카디프손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+현대해상화재보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+IBK연금보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+메트라이프생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+하나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+삼성화재해상보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+라이나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+대구은행이요.	SS_BRAND-B
+그럼 우리은행으로 안내해 드릴까요?	O SS_BRAND-B O O
+전북은행입니다.	SS_BRAND-B
+광주은행 중 출금 계좌번호와 비밀번호, 보안매체, 본인인증이 필요합니다.	SS_BRAND-B O O O O O O O
+네 그럼 수협 앱은 설치 되어 있으신가요?	O O SS_BRAND-B O O O O
+대구은행요.	SS_BRAND-B
+신한은행 홈페이지에 접속하신후 로그인 하시면 됩니다.	SS_BRAND-B O O O O O
+제 생년월일은 901101이에요.	O O ID_INUM-B
+토스뱅크 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+경남은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+광주은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+케이뱅크 통장 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+경남은행 보안카드 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+본 은행인수협수협을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+저희 은행인 토스뱅크이 맞으신가요?	O O SS_BRAND-B O
+저희 카카오뱅크을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+본 수협수협이 맞으신가요?	O SS_BRAND-B O
+또박 또박 발음해 보겠습니다. 휴대폰 번호 4자리는 2005번 입니다.	O O O O O O O ID_PHONE-B O
+제 휴대폰 번호 마지막 자리는 7046번 이에요.	O O O O O O O
+연락받으실 전화번호와 이름을말씀해주시면 전화 또는 문자로 안내를 도와드리도록 하겠습니다.	O O O O O O O O O
+번호는 5965-9489이고 이름은 황보성은입니다. 꼭 연락주세요.	O ID_PHONE-B O O SS_NAME-B O
+계좌번호는 755-47810-24229입니다.	O ID_ACCOUNT-B
+계좌번호는 652-69464-19499입니다.	O ID_ACCOUNT-B
+계좌번호는 663-13454-59015입니다.	O ID_ACCOUNT-B
+계좌번호는 307-69944-40472입니다.	O ID_ACCOUNT-B
+제가 이체한 계좌번호는 010-9117-5991 입니다.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 70-591-147 입니다.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 017-9679-3916 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+보냈던 저의 계좌번호는 430730-3299240 입니다.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 42-071-080 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+계좌번호는 010-7139-7208 로 알고 있어요.	O ID_ACCOUNT-B O O O
+보냈던 제 계좌번호는 31-795-882 입니다.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 010-8794-0785 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+제가 송금한 계좌번호는 46-035-807 입니다.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 011-3757-1512 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+계좌번호는 011-0469-4146 이에요.	O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 171130-4716605 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+보냈던 제 계좌번호는 016-7527-6254 이에요.	O O O ID_ACCOUNT-B O
+제가 이체한 계좌번호는 96-307-260 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+제가 송금한 계좌번호는 35-846-680 입니다.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 010-0615-5811 입니다.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 910807-2189996 입니다.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 010-3780-9693 입니다.	O O O ID_ACCOUNT-B O
+계좌번호는 62-000-191 로 알고 있습니다.	O ID_ACCOUNT-B O O O
+제가 이체한 계좌번호는 010-8392-8058 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+보냈던 제 계좌번호는 100926-1981657 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+제가 송금한 계좌번호는 62-287-543 입니다.	O O O ID_ACCOUNT-B O
+보냈던 저의 계좌번호는 621011-4837800 이에요.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 010-9107-7609 이에요.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 900913-3141831 이에요.	O O O ID_ACCOUNT-B O
+제가 송금한 계좌번호는 17-079-670 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+제가 이체한 계좌번호는 75-351-023 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+계좌번호는 010-9616-0301 입니다.	O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 660609-2220758 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+보냈던 저의 계좌번호는 018-9169-0224 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+제가 이체한 계좌번호는 410524-4617071 입니다.	O O O ID_ACCOUNT-B O
+보냈던 제 계좌번호는 09-589-516 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+제 생년월일은 821226이에요.	O O ID_INUM-B
+제 생년월일은 370129이에요.	O O ID_INUM-B
+제 생년월일은 180230이에요.	O O ID_INUM-B
+제 생년월일은 211109이에요.	O O ID_INUM-B
+제 생년월일은 190605이에요.	O O ID_INUM-B
+제 생년월일은 550831이에요.	O O ID_INUM-B
+제 생년월일은 440107이에요.	O O ID_INUM-B
+제 생년월일은 860826이에요.	O O ID_INUM-B
+제 생년월일은 200125이에요.	O O ID_INUM-B
+제 생년월일은 001009이에요.	O O ID_INUM-B
+제 생년월일은 190814이에요.	O O ID_INUM-B
+제 생년월일은 700222이에요.	O O ID_INUM-B
+제 생년월일은 730628이에요.	O O ID_INUM-B
+제 생년월일은 420430이에요.	O O ID_INUM-B
+제 생년월일은 310206이에요.	O O ID_INUM-B
+제 생년월일은 821127이에요.	O O ID_INUM-B
+제 생년월일은 061122이에요.	O O ID_INUM-B
+제 생년월일은 100109이에요.	O O ID_INUM-B
+제 생년월일은 19931024이에요.	O O ID_INUM-B
+제 생년월일은 430509이에요.	O O ID_INUM-B
+제 생년월일은 671231이에요.	O O ID_INUM-B
+제 생년월일은 490420이에요.	O O ID_INUM-B
+제 생년월일은 330311이에요.	O O ID_INUM-B
+생년월일을 말씀 드리겠습니다. 940802 이에요.	O O O ID_INUM-B O
+생년월일을 말씀 드리겠습니다. 1961년12월19일 이에요.	O O O ID_INUM-B O
+생년월일이 58년 07월 26일 맞으십니까?	O ID_INUM-B ID_INUM-I ID_INUM-I O
+생년월일 850909 맞으십니까?	O ID_INUM-B O
+생년월일을 말씀 드리겠습니다. 1990년04월01일 이에요.	O O O ID_INUM-B O
+주민번호 끝자리는 0479가 맞나요?	O O ID_INUM-B O
+제 휴대폰 번호 마지막 4자리는 8488입니다.	O O O O O O
+해외에서는 010-821-6604-으로 하셔야 합니다.	O ID_PHONE-B O O
+010-1575-3660입니다.	ID_PHONE-B
+이름은 정은성, 019-0996-8995입니다.	O SS_NAME-B ID_PHONE-B
+이름은 추희아, 010-6552-0924입니다.	O SS_NAME-B ID_PHONE-B
+이름은 노경혜, 010-3518-3522입니다.	O SS_NAME-B ID_PHONE-B
+이름은 표수아, 010-1757-3114입니다.	O SS_NAME-B ID_PHONE-B
+이름은 풍주현, 018-2075-4540입니다.	O SS_NAME-B ID_PHONE-B
+이름은 서동연, 010-6989-3388입니다.	O SS_NAME-B ID_PHONE-B
+이름은 추희아, 010-1698-5414입니다.	O SS_NAME-B ID_PHONE-B
+이름은 표수아, 010-1542-2283입니다.	O SS_NAME-B ID_PHONE-B
+이름은 유우희, 019-5649-2770입니다.	O SS_NAME-B ID_PHONE-B
+이름은 최선웅, 010-0014-7918입니다.	O SS_NAME-B ID_PHONE-B
+제 휴대폰 번호 마지막 4자리는 8274이에요.	O O O O O ID_PHONE-B
+제 휴대폰 번호 마지막 4자리는 9372번 으로 되어있어요.	O O O O O ID_PHONE-B O O
+제 휴대폰 번호 마지막 4자리는 4708번 입니다.	O O O O O ID_PHONE-B O
+제 휴대폰 번호 마지막 4자리는 1072이에요.	O O O O O ID_PHONE-B
+제 휴대폰 번호 마지막 자리는 9078번 으로 되어있어요.	O O O O O ID_PHONE-B O O
+제 휴대폰 번호 마지막 자리는 4636번 으로 되어있어요.	O O O O O ID_PHONE-B O O
+제 휴대폰 번호 마지막 4자리는 7105번 입니다.	O O O O O ID_PHONE-B O
+휴대폰 번호 4자리는 7172번 이에요.	O O O ID_PHONE-B O
+저의 휴대폰 번호 자리는 7172번 으로 되어있어요.	O O O O ID_PHONE-B O O
+저의 휴대폰 번호 마지막 4자리는 6045번 으로 되어 있습니다.	O O O O O ID_PHONE-B O O O
+또박 또박 발음해 보겠습니다. 휴대폰 번호 4자리는 1289번 으로 되어있어요.	O O O O O O O ID_PHONE-B O O
+안녕하세요. 광주은행 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
+네, 이름은 풍경환이고 전화번호는 017-5435-3375이에요. 잘 남겨 두세요.	O O SS_NAME-B O ID_PHONE-B O O O
+제주은행제주은행 홈페이지에 접속할 수 없습니다.	SS_BRAND-B O O O O
+이름은 예성수이구요. 전화번호는 010-2584-4981입니다.	O SS_NAME-B O ID_PHONE-B
+국민은행 홈페이지에 접속이 불가능해요.	SS_BRAND-B O O O
+이름은 예성수이구요. 전화번호는 010-9597-7757입니다.	O SS_NAME-B O ID_PHONE-B
+저기요. 대구은행대구은행 홈페이지에 접속이 불가능해요.	O SS_BRAND-B O O O
+010-965-4434번이요	ID_PHONE-B
+대구은행 신용카드예요	SS_BRAND-B O
+010-273-3594으로 전화하셔서 신청하시면 됩니다	ID_PHONE-B O O O
+연락처에서 스팸으로 차단 된 번호들 중에 0155-5749 이 있는지 확인해보시기 바랍니다.	O O O O O O ID_PHONE-B O O O O
+해당 지점 전화번호는 7239-0696입니다.	O O O ID_PHONE-B
+검찰청 사고신고57-7270로 전화하셔서 접수하시기 바랍니다.	O ID_PHONE-B O O O
+제주은행, 경남은행은행 카드입니다.	SS_BRAND-B SS_BRAND-B O
+부산은행은 8471-9677, 수협은행은 8688-7644로 전화하셔서 신고하시면 됩니다.	ID_PHONE-B O SS_BRAND-B ID_PHONE-B O O O
+5374-2854번으로 통화해보십시오.	ID_PHONE-B O
+6502-2284으로 전화하신 후 본인확인 후 안내해 드립니다.	ID_PHONE-B O O O O O O
+광주은행 726-816-5314입니다	SS_BRAND-B ID_ACCOUNT-B
+단위광주은행이나 원예조합,?축산조합 등에 정기적으로 농산물을 출하한 컴퓨터 기록 등이 있어야 합니다.	SS_BRAND-B O O O O O O O O O O
+본 은행인카카오뱅크의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 경남은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+저희 은행인 카카오뱅크을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
+본 은행인토스뱅크의 계좌가 맞나요?	O SS_BRAND-B O O
+본 은행인제주은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+저희 경남은행이 맞습니까?	O SS_BRAND-B O
+본 은행인광주은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+본 은행인국민은행이 맞으신가요?	O SS_BRAND-B O
+본 은행인부산은행이 맞으신가요?	O SS_BRAND-B O
+경남은행경남은행 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+토스뱅크 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+제주은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+우리은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+저희 한국산업은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
+본 국민은행국민은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+한국산업은행 보안카드 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+경남은행경남은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+대구은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+하나은행하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+경남은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+광주은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+한국스탠다드차타드은행한국스탠다드차타드은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+광주은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+케이뱅크 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+토스뱅크 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+본 농협농협을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+본 은행인경남은행이 맞습니까?	O SS_BRAND-B O
+저희 한국산업은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+본 은행인중소기업은행중소기업은행의 계좌가 맞나요?	O SS_BRAND-B O O
+경남은행 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+수협 통장 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+우리은행 통장 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+중소기업은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+우리은행 통장 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+본 은행인하나은행이 맞습니까?	O SS_BRAND-B O
+본 국민은행의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 은행인 신한은행의 계좌가 맞습니까?	O O SS_BRAND-B O O
+저희 은행인 우리은행우리은행을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
+제주은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+중소기업은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+신한은행 보안카드 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+하나은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+농협 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+저희 은행인 수협을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+본 은행인한국산업은행한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+중소기업은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+토스뱅크토스뱅크 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+중소기업은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+신한은행 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+저희 은행인 전북은행을 통한 계좌가 맞습니까?	O O SS_BRAND-B O O O
+저희 제주은행제주은행의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 하나은행이 맞으신가요?	O SS_BRAND-B O
+저희 부산은행이 맞습니까?	O SS_BRAND-B O
+저희 제주은행이 맞습니까?	O SS_BRAND-B O
+본 은행인중소기업은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+신한은행신한은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+광주은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+경남은행 보안카드 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+수협 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+신한은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+한국산업은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+한국스탠다드차타드은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+국민은행국민은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+전북은행 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+국민은행국민은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+부산은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+수협 보안카드 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+대구은행 통장 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+대구은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+우리은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+중소기업은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+수협 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+대구은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+한국스탠다드차타드은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+저희 은행인 O수협의 계좌가 맞나요?	O O SS_BRAND-B O O
+저희 O광주은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+본 은행인부산은행부산은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+본 대구은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+본 토스뱅크의 계좌가 맞습니까?	O SS_BRAND-B O O
+본 은행인전북은행전북은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+저희 한국스탠다드차타드은행한국스탠다드차타드은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+본 은행인수협의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 은행인 부산은행부산은행이 맞으신가요?	O O SS_BRAND-B O
+저희 은행인 카카오뱅크을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
+저희 부산은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
+저희 하나은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+본 O우리은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+본 은행인부산은행이 맞으신가요?	O SS_BRAND-B O
+저희 은행인 카카오뱅크을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
+경남은행 보안카드 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+제주은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+우리은행우리은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+케이뱅크케이뱅크 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+한국산업은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+본 은행인부산은행의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 은행인 한국스탠다드차타드은행을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
+경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+국민은행 통장 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+O부산은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+농협농협 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+본 한국산업은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+저희 은행인 대구은행을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
+본 경남은행이 맞습니까?	O SS_BRAND-B O
+본 은행인우리은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+본 우리은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+저희 은행인 한국산업은행이 맞습니까?	O O SS_BRAND-B O
+저희 은행인 제주은행제주은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+본 한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+저희 은행인 신한은행신한은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+본 은행인농협농협의 계좌가 맞나요?	O SS_BRAND-B O O
+한국산업은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+농협농협 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+수협 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+광주은행광주은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+농협농협 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+중소기업은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+케이뱅크 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+경남은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+우리은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+수협 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+저희 한국산업은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+본 은행인수협수협이 맞으신가요?	O SS_BRAND-B O
+본 한국스탠다드차타드은행이 맞으신가요?	O SS_BRAND-B O
+본 은행인신한은행의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 한국산업은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+저희 부산은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
+본 국민은행이 맞으신가요?	O SS_BRAND-B O
+저희 은행인 한국스탠다드차타드은행의 계좌가 맞나요?	O O SS_BRAND-B O O
+저희 농협을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
+저희 은행인 하나은행하나은행의 계좌가 맞나요?	O O SS_BRAND-B O O
+우선 제주은행 앱을 다운 받으셨나요?	O SS_BRAND-B O O O
+그럼 고객님 컴퓨터로 우리은행 홈페이지 접속 가능하십니까?	O O O SS_BRAND-B O O O
+12시 이후에 ATM기에서 거래내역을 뽑으시거나 온라인 케이뱅크 고객센터에서 출력하실 수 있습니다.	O O O O O O SS_BRAND-B O O O O
+제가 하나은행카드를 이용하는데 우수고객이라고 치아보험 혜택을 준다고 들어서요.	O SS_BRAND-B O O O O O O
+네 대구은행 치아보험 말씀하시나요?	O SS_BRAND-B O O
+토스뱅크러브카드요.	SS_BRAND-B
+부산은행이고 계좌는OOOOO입니다.	SS_BRAND-B O
+대구은행 홈페이지에 접속이 안되요.	SS_BRAND-B O O O
+농협 입니다.	SS_BRAND-B O
+안녕하세요. 우리은행에 맞게 전화 걸것 맞습니까?	O SS_BRAND-B O O O O
+중소기업은행 전화번호는 항상 이 전화번호 입니다.	SS_BRAND-B O O O O O
+기억이… 아 한국산업은행 인 것 같은데요.	O O SS_BRAND-B O O O
+제가 광주은행에 맞게 전화 건것이 맞나요?	O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 대구은행입니다.	O O O O O O SS_BRAND-B
+기억 나네요. 케이뱅크이에요.	O O SS_BRAND-B
+여보세요. 우리은행에 전화 걸은 것이 맞아요?	O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 한국스탠다드차타드은행입니다.	O O O O O O SS_BRAND-B
+부산은행 홈페이지에 안들어가집니다.	SS_BRAND-B O O
+잠시만요. 찾아보니 토스뱅크 이네요.	O O SS_BRAND-B O
+여보세요. 경남은행 맞습니까?	O SS_BRAND-B O
+하나은행 상담원입니다. 맞게 전화 주셨습니다.	SS_BRAND-B O O O O
+카카오뱅크 홈페이지에 접속할 수 없습니다.	SS_BRAND-B O O O O
+잠시만 기다려 주세요. 한번 찾아보고요. 아 우리은행이네요.	O O O O O O SS_BRAND-B
+여보세요. 중소기업은행 맞나요?	O SS_BRAND-B O
+여보세요. 하나은행 홈페이지에 접속이 불가능해요.	O SS_BRAND-B O O O
+국민은행 입니다.	SS_BRAND-B O
+우리은행에 전화 걸은 것이 맞아요?	SS_BRAND-B O O O O
+하나은행 홈페이지에 접속이 안되요.	SS_BRAND-B O O O
+발음이 정확하지 않아서 다시 여쭈어 보겠습니다. 국민은행 홈페이지에 접속 하시는 것이 불가능 하다는 말씀이 맞으십니까?	O O O O O O SS_BRAND-B O O O O O O O O
+안녕하십니까 동부화재해상보험입니다.	O SS_BRAND-B
+기억이… 아 하나은행 인 것 같은데요.	O O SS_BRAND-B O O O
+안녕하세요. 토스뱅크에 맞게 전화 걸것 맞나요?	O SS_BRAND-B O O O O
+안녕하세요. O토스뱅크 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
+아 신한은행이네요.	O SS_BRAND-B
+우리은행 맞습니까?	SS_BRAND-B O
+함께하는 농협입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
+국민은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+부산은행 홈페이지에 안들어가져요.	SS_BRAND-B O O
+잠시만요. 찾아보니 케이뱅크 이네요.	O O SS_BRAND-B O
+중소기업은행에 전화 걸은 것이 맞아요?	SS_BRAND-B O O O O
+농협 상담원입니다. 맞게 전화 주셨습니다.	SS_BRAND-B O O O O
+우리은행 홈페이지에 접속이 불가능해요.	SS_BRAND-B O O O
+찾아보니 신한은행 입니다.	O SS_BRAND-B O
+제가 전화 걸은 것이 한국산업은행 맞습니까?	O O O O SS_BRAND-B O
+네 고객님 대구은행입니다.	O O SS_BRAND-B
+한국산업은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+대구은행 홈페이지에 접속이 불가능합니다.	SS_BRAND-B O O O
+한국스탠다드차타드은행 홈페이지에 접속 불가능 하다는 겁니까?	SS_BRAND-B O O O O O
+고객님 NH농협손해보험입니다.	O SS_BRAND-B
+잠시만요. 찾아보니 대구은행 이네요.	O O SS_BRAND-B O
+제가 전화 걸은 것이 농협 맞나요?	O O O O SS_BRAND-B O
+대구은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+반갑습니니다. 삼성화재해상보험입니다.	O SS_BRAND-B
+수협 입니다.	SS_BRAND-B O
+경남은행에 전화 걸은 것이 맞아요?	SS_BRAND-B O O O O
+안녕하십니까 고객님 케이뱅크 상담원입니다.	O O SS_BRAND-B O
+신한은행신한은행 홈페이지에 접속이 불가능합니다.	SS_BRAND-B O O O
+수협이에요.	SS_BRAND-B
+제가 신한은행에 맞게 전화 건것이 맞습니까?	O SS_BRAND-B O O O O
+우리은행입니다.	SS_BRAND-B
+전북은행전북은행 홈페이지에 접속할 수 없어요.	SS_BRAND-B O O O O
+안녕하십니까 메트라이프생명보험입니다.	O SS_BRAND-B
+아 신한은행이네요.	O SS_BRAND-B
+토스뱅크에 맞게 전화 걸것 맞나요?	SS_BRAND-B O O O O
+대구은행 홈페이지에 안들어가집니다.	SS_BRAND-B O O
+안녕하십니까 ABL생명보험입니다.	O SS_BRAND-B
+카카오뱅크 입니다.	SS_BRAND-B O
+토스뱅크에 맞게 전화 걸것 맞습니까?	SS_BRAND-B O O O O
+광주은행 상담원입니다. 맞게 전화 주셨습니다.	SS_BRAND-B O O O O
+한국산업은행 고객센터는 항상 이 번호로 연락주시면 됩니다.	SS_BRAND-B O O O O O O
+밝은 미소와 봉사의 정신으로 답하는 한국산업은행입니다.	O O O O O SS_BRAND-B
+안녕하세요. 하나은행하나은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+하나은행으로 보낸 것 맞아요. 기억났다.	SS_BRAND-B O O O O
+안녕하세요. 경남은행에 전화 걸은 것이 맞아요?	O SS_BRAND-B O O O O
+한국스탠다드차타드은행에 맞게 전화하셨습니다.	SS_BRAND-B O O
+신한은행 전화번호는 항상 이 전화번호 입니다.	SS_BRAND-B O O O O O
+저기요. 한국스탠다드차타드은행 홈페이지에 접속할 수 없어요.	O SS_BRAND-B O O O O
+기억이… 아 카카오뱅크 인 것 같은데요.	O O SS_BRAND-B O O O
+여보세요. 제가 수협에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
+케이뱅크 고객센터는 항상 이 번호로 연락주시면 됩니다.	SS_BRAND-B O O O O O O
+농협에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+저기요. 광주은행광주은행 홈페이지에 접속할 수 없어요.	O SS_BRAND-B O O O O
+기억이… 아 대구은행 인 것 같은데요.	O O SS_BRAND-B O O O
+안녕하세요. 제가 제주은행에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
+신한은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+잠시만 기다려 주세요. 한번 찾아보고요. 아 우리은행이네요.	O O O O O O SS_BRAND-B
+제가 중소기업은행에 맞게 전화 건것이 맞나요?	O SS_BRAND-B O O O O
+중소기업은행에 맞게 전화하셨습니다.	SS_BRAND-B O O
+여보세요. 대구은행 홈페이지에 안들어가집니다.	O SS_BRAND-B O O
+기억이… 아 카카오뱅크 입니다.	O O SS_BRAND-B O
+여보세요. 수협에 맞게 전화 걸것 맞나요?	O SS_BRAND-B O O O O
+함께하는 경남은행입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
+한국산업은행 시스템이 아주 마음에 듭니다. 고맙습니다.	SS_BRAND-B O O O O O
+안녕하세요. 제주은행 홈페이지에 들어가지지 않아요.	O SS_BRAND-B O O O
+잠시만 기다려 주세요. 한번 찾아보고요. 아 한국스탠다드차타드은행이네요.	O O O O O O SS_BRAND-B
+한국스탠다드차타드은행 입니까?	SS_BRAND-B O
+안녕하십니까 고객님 제주은행 상담원입니다.	O O SS_BRAND-B O
+부산은행 상담센터는 항상 이 번호이니 안심하셔도 됩니다.	SS_BRAND-B O O O O O O
+카카오뱅크이에요.	SS_BRAND-B
+여보세요. 제가 전화한 번호가 제주은행 번호죠?	O O O O SS_BRAND-B O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 하나은행입니다.	O O O O O O SS_BRAND-B
+한국스탠다드차타드은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+여보세요. 한국스탠다드차타드은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+기억이… 아 중소기업은행 인 것 같은데요.	O O SS_BRAND-B O O O
+여보세요. 중소기업은행에 전화 걸은 것이 맞아요?	O SS_BRAND-B O O O O
+환영합니다. 신한은행에 맞게 전화 주신 것이 맞습니다.	O SS_BRAND-B O O O O O
+저기요. 토스뱅크 홈페이지에 접속이 안되요.	O SS_BRAND-B O O O
+잠시만 기다려 주세요. 한번 찾아보고요. 아 경남은행이네요.	O O O O O O SS_BRAND-B
+여보세요. 제주은행 이죠?	O SS_BRAND-B O
+안녕하십니까 고객님 케이뱅크 상담원입니다.	O O SS_BRAND-B O
+함께하는 중소기업은행입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
+안녕하세요. 전북은행 홈페이지에 접속이 불가능해요.	O SS_BRAND-B O O O
+발음이 명확하지 않습니다. 보다 나은 서비스를 위하여 다시 질문 드리겠습니다. 토스뱅크 홈페이지에 접속이 불가능 하다는 말씀 맞으십니까?	O O O O O O O O O O SS_BRAND-B O O O O O O
+기억 나네요. 광주은행 입니다.	O O SS_BRAND-B O
+하나은행 맞나요?	SS_BRAND-B O
+환영합니다. 중소기업은행에 맞게 전화 주신 것이 맞습니다.	O SS_BRAND-B O O O O O
+기억이… 아 카카오뱅크 입니다.	O O SS_BRAND-B O
+여보세요. 제가 농협에 맞게 전화 건것이 맞나요?	O O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 우리은행입니다.	O O O O O O SS_BRAND-B
+아주 만족스러운 서비스입니다. 농협 자주 이용해야 겠습니다.	O O O SS_BRAND-B O O O
+하나은행이에요.	SS_BRAND-B
+여보세요. 하나은행에 맞게 전화 걸것 맞습니까?	O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 경남은행입니다.	O O O O O O SS_BRAND-B
+농협 홈페이지에 안들어가집니다.	SS_BRAND-B O O
+케이뱅크으로 보낸 것 맞습니다.	SS_BRAND-B O O O
+대구은행 입니까?	SS_BRAND-B O
+안녕하십니까 고객님 전북은행 상담원입니다.	O O SS_BRAND-B O
+한국산업은행 전화번호는 항상 이 전화번호 입니다.	SS_BRAND-B O O O O O
+제주은행 시스템이 아주 마음에 듭니다. 고맙습니다.	SS_BRAND-B O O O O O
+안녕하세요. 광주은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+잠시만 기다려 주세요. 한번 찾아보고요. 아 대구은행이네요.	O O O O O O SS_BRAND-B
+안녕하세요. 제가 국민은행에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다. 우리은행입니다.	O O O O O O SS_BRAND-B
+함께하는 한국산업은행입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
+수고하십니다 제가 대구은행국민카드를 잃어버렸어요	O O SS_BRAND-B O
+광주은행이요	SS_BRAND-B
+네 지갑에 신분증, 중소기업은행카드,비자카드 다 있는데	O O O SS_BRAND-B O O
+제가 국민은행 체크카드를 분실을 했었는데요	O SS_BRAND-B O O O
+아니면 수협에서 교통카드 가맹점으로 통보가 잘 이루어지지 않을수도 있습니다	O SS_BRAND-B O O O O O O O
+카카오뱅크입니다.	SS_BRAND-B
+대구은행입니다. 네 고객님 재발급원하시나요?	SS_BRAND-B O O O
+안녕하세요 제주은행은행이죠	O SS_BRAND-B
+여보세요 제주은행이죠	O SS_BRAND-B
+안녕하세요 우리은행 고객센터죠?	O SS_BRAND-B O
+무슨동에 전북은행이 있나요?	O SS_BRAND-B O
+부산은행이죠?	SS_BRAND-B
+제가 제주은행에서 가상계좌를 사용하고 있는데 이체가 안되어서 연체중이라고합니다.	O SS_BRAND-B O O O O O O
+고객님 죄송합니다. 대구은행과 외한은행이 통합데면서 시스템이 오류가 있었습니다.	O O SS_BRAND-B O O O O O
+얼릉해주세요 카드사용도 카카오뱅크이니깐요?	O O SS_BRAND-B
+제주은행입니다	SS_BRAND-B
+안녕하세요전북은행이죠? 제카드가 복제가 된거 같은데요?	SS_BRAND-B O O O O
+고객님 가까운 수협에 방문하셔서 사고 보상신청서를 작성해주시겠습니까?	O O SS_BRAND-B O O O O
+한국산업은행에서 진위확인후 바로 처리해 주시나요?	SS_BRAND-B O O O O
+확인이 되면 보험회사에서 80% 하나은행에서20% 부담해서 보상진행됩니다.	O O O O SS_BRAND-B O O
+하나은행에서 발급한 하나원체크카드 맞으시죠?	SS_BRAND-B O O O
+제 국민은행 통장이 대포통장으로 쓰여서 돈이 출금됬으니 확인바란다고 합니다.	O SS_BRAND-B O O O O O O O
+신한은행 중 출금 계좌번호와 비밀번호, 보안매체, 본인인증이 필요합니다.	SS_BRAND-B O O O O O O O
+그럼 신한은행에서는 어떤 업무들이 제한되나요?	O SS_BRAND-B O O O
+전북은행 이용중인데요 해킹이 된 것 같아요.	SS_BRAND-B O O O O O
+29살입니다.	SS_AGE-B
