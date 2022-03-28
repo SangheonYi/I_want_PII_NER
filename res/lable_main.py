@@ -1,6 +1,9 @@
 from labling_tool import *
 
 insurance_lable = "res/insurance_labled"
+intergrated = "res/intergrated_sangheon.tsv"
+all_intergrated = "C:/Exception/new_one.tsv"
+result = "C:/Exception/I_want_PII_NER/res/result"
 qa_lable = "res/QAlable"
 out_file = "res/filling.kt"
 
@@ -40,27 +43,34 @@ def init_paramater():
 
     # pattern = '[0Ooㅇ]{6}'
     pattern = '[0Ooㅇ]{3,}동'
-    return lable, new, old, pattern
+    return lable, new, pattern
 
 
-with open(qa_lable, "r", encoding="utf-8") as file, open(out_file, "w", encoding="utf-8") as edited_file:
+with open(result, "r", encoding="utf-8") as file, open(out_file, "w", encoding="utf-8") as edited_file:
     cnt = 0
     i = 0
     changed = ''
+    lable_set = set()
     while True:
         line = file.readline()
         if not line : break
         i += 1
-        lable, new, old, pattern = re.compile(pattern).search(line)
+        # lable, new, pattern = init_paramater()
+        # old = re.compile(pattern).search(line)
 
-        if old:
-            line = reg_fill_labling(line, lable, pattern, new)
-            cnt += 1
-            log = f"line idx: {i} chanched idx:{cnt} " + line
-            print(log[:-1])
-            changed += log
+        # if old:
+        #     line = reg_fill_labling(line, lable, pattern, new)
+        #     cnt += 1
+        #     log = f"line idx: {i} changed idx:{cnt} " + line
+        #     print(log[:-1])
+        #     changed += log
         tokens, lables = splitTokenAndLable(line)
+        # lableExclude(lables, ['ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B'])
         is_valid_lable(lables, tokens)
-        edited_file.write(line)
+        for e in lables:
+            lable_set.add(e)
+        # line = ' '.join(tokens) + '\t' + ' '.join(lables) + '\n'
+        # edited_file.write(line)
         # edited_file.write(insertTab(line))
+    print(list(lable_set))
     print(cnt)

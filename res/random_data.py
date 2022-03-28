@@ -57,5 +57,3 @@ def make_random_data(task):
         output.append(random.choice(dong))
         output.append(random.choice(do))
     return output
-for i in range(15):
-    print(make_random_data(i % 5))

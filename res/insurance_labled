@@ -517,7 +517,7 @@ BC카드에서 회원 및 가맹점 등의 귀책사유, 과실의 여부 등을
 4832-8890또는 02-5236-5965 문의하시면 됩니다.	ID_PHONE-B ID_PHONE-B O O
 해제는 각 금융기관에 문의해주시기 바라며, 수협은 신분증 준비하신 후 영업점 방문해주셔야 합니다.	O O O O O SS_BRAND-B O O O O O O
 전북은행 재발급 비용은 토큰형 3천원, 카드형 1만원이며 은행마다 상이한걸로 알고있습니다.	SS_BRAND-B O O O O O O O O O
-부산은행은행 고객센터 접속하셔서 공인인증서 로그인 후 사고/분실 신고하기 코너에서 신청하시면 됩니다.	SS_BRAND-B O O O O O O O O O O
+부산은행 고객센터 접속하셔서 공인인증서 로그인 후 사고/분실 신고하기 코너에서 신청하시면 됩니다.	SS_BRAND-B O O O O O O O O O O
 7805-2428으로 전화주시면 됩니다.	ID_PHONE-B O O
 우리은행카드 분실신고 어디로 하죠?	SS_BRAND-B O O O
 5647-7584 제주은행카드 고객센터 전화하셔서 2번, 8번, 1번 누르시면 분실신고 가능합니다.	ID_PHONE-B SS_BRAND-B O O O O O O O O
@@ -592,14 +592,14 @@ DB생명보험 고객콜센터 0778-0923로 접수하시면 됩니다.	SS_BRAND-
 현재 고객님이 계신 위치가 어디시죠?	O O O O O
 지금 장림1동 위브아파트 지하주차장이에요.	O AD_ADDRESS-B AD_DETAIL-B O
 주민등록번호는 어떻게 되시나요?	O O O
-940406-2750448O입니다.	ID_INUM-B
+940406-2750448입니다.	ID_INUM-B
 걱정하지않으셔도 되시는게 고속도로에서 사고가 나셨을때는 한국도로공사 2504 견인서비스를 이용하실 수 있습니다.	O O O O O O ID_PHONE-B O O O O
 성함과 주민등록번호 말씀해주시겠습니까?	O O O
 안윤숙이구요. 640209-4779262이에요.	SS_NAME-B ID_INUM-B
 악사손해보험사는 1580-2736입니다	SS_BRAND-B ID_PHONE-B
 푸르덴셜생명보험회사의 팩스 번호는 010-2810-5177입니다.	SS_BRAND-B O O ID_PHONE-B
 본인확인을 위해서 주민번호 좀 알려주십시오	O O O O O
-410121-2696928O입니다.	ID_INUM-B
+410121-2696928입니다.	ID_INUM-B
 성함과 주민등록번호 말씀해주시겠습니까?	O O O
 임창호이구요. 011119-2470050이에요.	SS_NAME-B ID_INUM-B
 주민번호 앞 6자리 어떻게 되세요?	O O O O O
@@ -736,24 +736,24 @@ SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND
 씨티은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 경남은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-전북은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+전북은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 신한은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 농협입니다.무엇을 도와드릴까요 고객님?	SS_BRAND-B O O
-국민은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+국민은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 한국산업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-한국산업은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한국산업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 신한은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-중소기업은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
@@ -769,7 +769,7 @@ SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND
 한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-부산은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
@@ -777,7 +777,7 @@ SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND
 한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-부산은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
@@ -785,7 +785,7 @@ SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND
 한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
 새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
 기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-국민은행은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+국민은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 제주은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
 카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
@@ -957,18 +957,18 @@ KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O 
 또박 또박 발음해 보겠습니다. 휴대폰 번호 4자리는 1289번 으로 되어있어요.	O O O O O O O ID_PHONE-B O O
 안녕하세요. 광주은행 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
 네, 이름은 풍경환이고 전화번호는 017-5435-3375이에요. 잘 남겨 두세요.	O O SS_NAME-B O ID_PHONE-B O O O
-제주은행제주은행 홈페이지에 접속할 수 없습니다.	SS_BRAND-B O O O O
+제주은행 홈페이지에 접속할 수 없습니다.	SS_BRAND-B O O O O
 이름은 예성수이구요. 전화번호는 010-2584-4981입니다.	O SS_NAME-B O ID_PHONE-B
 국민은행 홈페이지에 접속이 불가능해요.	SS_BRAND-B O O O
 이름은 예성수이구요. 전화번호는 010-9597-7757입니다.	O SS_NAME-B O ID_PHONE-B
-저기요. 대구은행대구은행 홈페이지에 접속이 불가능해요.	O SS_BRAND-B O O O
+저기요. 대구은행 홈페이지에 접속이 불가능해요.	O SS_BRAND-B O O O
 010-965-4434번이요	ID_PHONE-B
 대구은행 신용카드예요	SS_BRAND-B O
 010-273-3594으로 전화하셔서 신청하시면 됩니다	ID_PHONE-B O O O
 연락처에서 스팸으로 차단 된 번호들 중에 0155-5749 이 있는지 확인해보시기 바랍니다.	O O O O O O ID_PHONE-B O O O O
 해당 지점 전화번호는 7239-0696입니다.	O O O ID_PHONE-B
 검찰청 사고신고57-7270로 전화하셔서 접수하시기 바랍니다.	O ID_PHONE-B O O O
-제주은행, 경남은행은행 카드입니다.	SS_BRAND-B SS_BRAND-B O
+제주은행, 경남은행 카드입니다.	SS_BRAND-B SS_BRAND-B O
 부산은행은 8471-9677, 수협은행은 8688-7644로 전화하셔서 신고하시면 됩니다.	ID_PHONE-B O SS_BRAND-B ID_PHONE-B O O O
 5374-2854번으로 통화해보십시오.	ID_PHONE-B O
 6502-2284으로 전화하신 후 본인확인 후 안내해 드립니다.	ID_PHONE-B O O O O O O
@@ -983,27 +983,27 @@ KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O 
 본 은행인광주은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
 본 은행인국민은행이 맞으신가요?	O SS_BRAND-B O
 본 은행인부산은행이 맞으신가요?	O SS_BRAND-B O
-경남은행경남은행 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+경남은행 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 토스뱅크 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
 제주은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 우리은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
 저희 한국산업은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
-본 국민은행국민은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+본 국민은행의 계좌가 맞습니까?	O SS_BRAND-B O O
 한국산업은행 보안카드 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
-경남은행경남은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+경남은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
 대구은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
-하나은행하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 경남은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 광주은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
-한국스탠다드차타드은행한국스탠다드차타드은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+한국스탠다드차타드은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
 광주은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 케이뱅크 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 토스뱅크 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 본 농협농협을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
 본 은행인경남은행이 맞습니까?	O SS_BRAND-B O
 저희 한국산업은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
-본 은행인중소기업은행중소기업은행의 계좌가 맞나요?	O SS_BRAND-B O O
+본 은행인중소기업은행의 계좌가 맞나요?	O SS_BRAND-B O O
 경남은행 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
 수협 통장 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 우리은행 통장 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
@@ -1012,35 +1012,35 @@ KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O 
 본 은행인하나은행이 맞습니까?	O SS_BRAND-B O
 본 국민은행의 계좌가 맞나요?	O SS_BRAND-B O O
 저희 은행인 신한은행의 계좌가 맞습니까?	O O SS_BRAND-B O O
-저희 은행인 우리은행우리은행을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
+저희 은행인 우리은행을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
 제주은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
 중소기업은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 신한은행 보안카드 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 하나은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
 농협 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 저희 은행인 수협을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
-본 은행인한국산업은행한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+본 은행인한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
 중소기업은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 토스뱅크토스뱅크 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 중소기업은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 신한은행 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 저희 은행인 전북은행을 통한 계좌가 맞습니까?	O O SS_BRAND-B O O O
-저희 제주은행제주은행의 계좌가 맞나요?	O SS_BRAND-B O O
+저희 제주은행의 계좌가 맞나요?	O SS_BRAND-B O O
 저희 하나은행이 맞으신가요?	O SS_BRAND-B O
 저희 부산은행이 맞습니까?	O SS_BRAND-B O
 저희 제주은행이 맞습니까?	O SS_BRAND-B O
 본 은행인중소기업은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
-신한은행신한은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+신한은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 광주은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
 경남은행 보안카드 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 수협 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 신한은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 한국산업은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 한국스탠다드차타드은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
-국민은행국민은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+국민은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
 전북은행 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
-국민은행국민은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+국민은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 부산은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
 하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
 수협 보안카드 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
@@ -1051,32 +1051,32 @@ KB손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O 
 수협 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 대구은행 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 한국스탠다드차타드은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
-저희 은행인 O수협의 계좌가 맞나요?	O O SS_BRAND-B O O
-저희 O광주은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
-본 은행인부산은행부산은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+저희 은행인 수협의 계좌가 맞나요?	O O SS_BRAND-B O O
+저희 광주은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+본 은행인부산은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
 본 대구은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
 본 토스뱅크의 계좌가 맞습니까?	O SS_BRAND-B O O
-본 은행인전북은행전북은행의 계좌가 맞습니까?	O SS_BRAND-B O O
-저희 한국스탠다드차타드은행한국스탠다드차타드은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+본 전북은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+저희 한국스탠다드차타드은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
 본 은행인수협의 계좌가 맞나요?	O SS_BRAND-B O O
-저희 은행인 부산은행부산은행이 맞으신가요?	O O SS_BRAND-B O
+저희 은행인 부산은행이 맞으신가요?	O O SS_BRAND-B O
 저희 은행인 카카오뱅크을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
 저희 부산은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
 저희 하나은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
-본 O우리은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+본 우리은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
 본 은행인부산은행이 맞으신가요?	O SS_BRAND-B O
 저희 은행인 카카오뱅크을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
 경남은행 보안카드 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
 제주은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
-우리은행우리은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+우리은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 케이뱅크케이뱅크 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
 한국산업은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
 본 은행인부산은행의 계좌가 맞나요?	O SS_BRAND-B O O
 저희 은행인 한국스탠다드차타드은행을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
 경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 국민은행 통장 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
-O부산은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
-O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+부산은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
+대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
 농협농협 통장 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
 본 한국산업은행의 계좌가 맞습니까?	O SS_BRAND-B O O
 저희 은행인 대구은행을 통한 계좌가 맞나요?	O O SS_BRAND-B O O O
@@ -1084,14 +1084,14 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 본 은행인우리은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
 본 우리은행의 계좌가 맞습니까?	O SS_BRAND-B O O
 저희 은행인 한국산업은행이 맞습니까?	O O SS_BRAND-B O
-저희 은행인 제주은행제주은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+저희 은행인 제주은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
 본 한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
-저희 은행인 신한은행신한은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+저희 은행인 신한은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
 본 은행인농협농협의 계좌가 맞나요?	O SS_BRAND-B O O
 한국산업은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 농협농협 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
 수협 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
-광주은행광주은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+광주은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
 농협농협 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
 중소기업은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
 케이뱅크 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
@@ -1107,14 +1107,14 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 본 국민은행이 맞으신가요?	O SS_BRAND-B O
 저희 은행인 한국스탠다드차타드은행의 계좌가 맞나요?	O O SS_BRAND-B O O
 저희 농협을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
-저희 은행인 하나은행하나은행의 계좌가 맞나요?	O O SS_BRAND-B O O
+저희 은행인 하나은행의 계좌가 맞나요?	O O SS_BRAND-B O O
 우선 제주은행 앱을 다운 받으셨나요?	O SS_BRAND-B O O O
 그럼 고객님 컴퓨터로 우리은행 홈페이지 접속 가능하십니까?	O O O SS_BRAND-B O O O
 12시 이후에 ATM기에서 거래내역을 뽑으시거나 온라인 케이뱅크 고객센터에서 출력하실 수 있습니다.	O O O O O O SS_BRAND-B O O O O
 제가 하나은행카드를 이용하는데 우수고객이라고 치아보험 혜택을 준다고 들어서요.	O SS_BRAND-B O O O O O O
 네 대구은행 치아보험 말씀하시나요?	O SS_BRAND-B O O
 토스뱅크러브카드요.	SS_BRAND-B
-부산은행이고 계좌는OOOOO입니다.	SS_BRAND-B O
+부산은행이고 계좌는87822입니다.	SS_BRAND-B ID_ACCOUNT-B
 대구은행 홈페이지에 접속이 안되요.	SS_BRAND-B O O O
 농협 입니다.	SS_BRAND-B O
 안녕하세요. 우리은행에 맞게 전화 걸것 맞습니까?	O SS_BRAND-B O O O O
@@ -1140,7 +1140,7 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 안녕하십니까 동부화재해상보험입니다.	O SS_BRAND-B
 기억이… 아 하나은행 인 것 같은데요.	O O SS_BRAND-B O O O
 안녕하세요. 토스뱅크에 맞게 전화 걸것 맞나요?	O SS_BRAND-B O O O O
-안녕하세요. O토스뱅크 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
+안녕하세요. 토스뱅크 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
 아 신한은행이네요.	O SS_BRAND-B
 우리은행 맞습니까?	SS_BRAND-B O
 함께하는 농협입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
@@ -1164,11 +1164,11 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 수협 입니다.	SS_BRAND-B O
 경남은행에 전화 걸은 것이 맞아요?	SS_BRAND-B O O O O
 안녕하십니까 고객님 케이뱅크 상담원입니다.	O O SS_BRAND-B O
-신한은행신한은행 홈페이지에 접속이 불가능합니다.	SS_BRAND-B O O O
+신한은행 홈페이지에 접속이 불가능합니다.	SS_BRAND-B O O O
 수협이에요.	SS_BRAND-B
 제가 신한은행에 맞게 전화 건것이 맞습니까?	O SS_BRAND-B O O O O
 우리은행입니다.	SS_BRAND-B
-전북은행전북은행 홈페이지에 접속할 수 없어요.	SS_BRAND-B O O O O
+전북은행 홈페이지에 접속할 수 없어요.	SS_BRAND-B O O O O
 안녕하십니까 메트라이프생명보험입니다.	O SS_BRAND-B
 아 신한은행이네요.	O SS_BRAND-B
 토스뱅크에 맞게 전화 걸것 맞나요?	SS_BRAND-B O O O O
@@ -1179,7 +1179,7 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 광주은행 상담원입니다. 맞게 전화 주셨습니다.	SS_BRAND-B O O O O
 한국산업은행 고객센터는 항상 이 번호로 연락주시면 됩니다.	SS_BRAND-B O O O O O O
 밝은 미소와 봉사의 정신으로 답하는 한국산업은행입니다.	O O O O O SS_BRAND-B
-안녕하세요. 하나은행하나은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+안녕하세요. 하나은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
 하나은행으로 보낸 것 맞아요. 기억났다.	SS_BRAND-B O O O O
 안녕하세요. 경남은행에 전화 걸은 것이 맞아요?	O SS_BRAND-B O O O O
 한국스탠다드차타드은행에 맞게 전화하셨습니다.	SS_BRAND-B O O
@@ -1189,7 +1189,7 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 여보세요. 제가 수협에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
 케이뱅크 고객센터는 항상 이 번호로 연락주시면 됩니다.	SS_BRAND-B O O O O O O
 농협에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
-저기요. 광주은행광주은행 홈페이지에 접속할 수 없어요.	O SS_BRAND-B O O O O
+저기요. 광주은행 홈페이지에 접속할 수 없어요.	O SS_BRAND-B O O O O
 기억이… 아 대구은행 인 것 같은데요.	O O SS_BRAND-B O O O
 안녕하세요. 제가 제주은행에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
 신한은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
@@ -1249,7 +1249,7 @@ O대구은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니�
 아니면 수협에서 교통카드 가맹점으로 통보가 잘 이루어지지 않을수도 있습니다	O SS_BRAND-B O O O O O O O
 카카오뱅크입니다.	SS_BRAND-B
 대구은행입니다. 네 고객님 재발급원하시나요?	SS_BRAND-B O O O
-안녕하세요 제주은행은행이죠	O SS_BRAND-B
+안녕하세요 제주은행이죠	O SS_BRAND-B
 여보세요 제주은행이죠	O SS_BRAND-B
 안녕하세요 우리은행 고객센터죠?	O SS_BRAND-B O
 무슨동에 전북은행이 있나요?	O SS_BRAND-B O

@@ -1,0 +1,2020 @@
+네 가까운 토스뱅크 지점을 방문해주시면 됩니다.	O O SS_BRAND-B O O O
+가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다.	O O O O O O O O O
+비자카드 확인되십니다.	SS_BRAND-B O
+맞으신가요?	O
+감사 드립니다.	O O
+상하역이시면 6번 출구에 상하지점이 있습니다.	AD_DETAIL-B AD_DETAIL-I O AD_DETAIL-I O
+네, 배철진이라는 사람에게 전부 이체되었어요..	O SS_NAME-B O O O
+저 어떡해요… 흑흑	O O O
+해당되는 보험이 있는지 확인해드리겠습니다.	O O O O
+성함과 생년월일 확인부탁드립니다.	O O O
+주소지 월평동에서 제일 가까운 고객센터는 신가꽃산길지점입니다.	O AD_ADDRESS-B O O O AD_DETAIL-B
+해당 주소도 고객님 휴대폰으로 문자 안내드리겠습니다.	O O O O O O
+해당 번호로 가입되 있는 차량 번호가 65805맞나요?	O O O O O O O
+성함이 어떻게 되시나요?	O O O
+팩스번호는 4653-001-3866입니다.	O ID_PHONE-B
+팩스 확인후에 지급 보험료를 다시 안내해드리겠습니다	O O O O O O
+네, 상담원 허인호이었습니다.	O O SS_NAME-B
+좋은 하루 되세요.	O O O
+한화생명보험사죠?	SS_BRAND-B
+교통사고 운전자보험금 신청하려구요	O O O
+안녕하십니까?	O
+흥국생명입니다.	SS_BRAND-B
+네 감사합니다	O O
+상담원추태환이었습니다	SS_NAME-B
+안녕하십니까?	O
+BNP파리바카디프손해보험입니다.	SS_BRAND-B
+현대카드는 사고방지센터를 운영하며 회원의 정상 사용 여부를 확인하고 있습니다.	SS_BRAND-B O O O O O O O O
+회원 본인 정상사용 여부 회신주시면 안전한 카드 사용을 할 수 있도록 후속조치를 진행합니다.	O O O O O O O O O O O O O
+롯데카드이고 번호는 모르겠어요.	ID_CARD-B O O
+주민번호는 350329-4366959 입니다.	O ID_INUM-B O
+네 조회해보겠습니다.	O O
+경남은행 체크카드가 있습니다.	SS_BRAND-B O O
+맞으신가요?	O
+신청은 글로벌 고객센터로 전화하셔서 진행하셔야 합니다.	O O O O O O
+받으시려면 한 곳에 3일 이상은 머물러야 받으실 수 있습니다.	O O O O O O O O O
+001-852-500-9473입니다.	ID_CARD-B
+임시카드라도 재발급 하시는거라 기존의 카드는 찾으셨다고 하셔도 사용이 안됩니다.	O O O O O O O O O
+남편 핸드폰으로 남겨주세요.	O O O
+번호는 010-5451-7990입니다.	O ID_PHONE-B
+백선숙이구요.	SS_NAME-B
+3800643입니다.	ID_INUM-B
+안윤숙이구요.	SS_NAME-B
+640209-4779262이에요.	ID_INUM-B
+임창호이구요.	SS_NAME-B
+011119-2470050이에요.	ID_INUM-B
+가능하십니다.	O
+직통전화번호 안내 도와드리겠습니다	O O O
+02-1192-9384 류희주팀장님 이십니다.	ID_PHONE-B SS_NAME-B O
+성함이 권정아이구요 20년 10월 06일생 이십니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O
+제 이름은 장태원이구요.	O O SS_NAME-B
+네 우선 경찰에 접수를 하시고 안전한 곳에서 대기 해주십시요.	O O O O O O O O O
+저희 전문 상담사가 고객님 계신곳으로 출동하였습니다.	O O O O O O
+5195-8502으로 전화가 오면 받아 주십시요.	ID_PHONE-B O O O O
+"홈페이지 하단 ""휴면보험금"" 버튼을 통해 생명보험협회로 연결되어 휴면보험금을 확인하실 수 있습니다.	O O O O O O O O O O O
+- 콜센터 (9771-6581)로 전화하시면 본인 확인 후 안내해 드립니다. "	O O ID_PHONE-B O O O O O O O
+콜센터 (2396-2022)로 전화하시면 본인 확인 후 안내해 드립니다.	O ID_PHONE-B O O O O O O
+연결해드릴까요?	O
+KDB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+악사손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한화손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행생명입니다.	SS_BRAND-B
+어떤내용이신가요?	O
+처브라이프보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+SGI서울보증보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+AIG손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한화생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+동양생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+라이나생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+동부화재해상보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+DGB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+The-K손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+IBK연금보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+삼성화재해상보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+흥국생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+SGI서울보증보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 ?	O O O
+한국산업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+광주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+광주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+수협입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+토스뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+경남은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+수협입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+하나은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+대구은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+수협입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+씨티은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+경남은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+전북은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+신한은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+농협입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O
+국민은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+케이뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+중소기업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국산업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+한국산업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+중소기업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국스탠다드차타드은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+신한은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+중소기업은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+카카오뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+제주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+카카오뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+농협은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국스탠다드차타드은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+전북은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+제주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국스탠다드차타드은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+케이뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+제주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+부산은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+케이뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+제주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+카카오뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+대구은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+기업은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+국민은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+수협입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+제주은행입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+카카오뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+토스뱅크입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한국은행입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+새마을금고입니다.	O
+무엇을 도와드릴까요 고객님?	O O O
+NH농협생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+AIA생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+한화손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+미래에셋생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+에이스손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+KDB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+신한라이프(구신한생명)보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+삼성화재해상보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+AIG손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+MG손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+에이스손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+메리츠화재해상보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+하나생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+신한라이프(구오렌지라이프)보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+롯데손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+BNP파리바카디프손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+미래에셋생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+MG손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+푸르덴셜생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+IBK연금보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+KB손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+DB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+하나생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+SGI서울보증보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+동양생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+ABL생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+ABL생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+SGI서울보증보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+MG손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+DB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+현대해상화재보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+교보라이프플래닛보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+ABL생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+KDB생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+The-K손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+교보생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+교보생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+미래에셋생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+SGI서울보증보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+BNP파리바카디프손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+현대해상화재보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+IBK연금보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+NH농협생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+KB손해보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+메트라이프생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+하나생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+삼성화재해상보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+라이나생명보험입니다.	SS_BRAND-B
+무엇을 도와드릴까요 고객님?	O O O
+토스뱅크 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+경남은행 보안카드 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+광주은행 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+케이뱅크 통장 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+경남은행 보안카드 분실한 것 같습니다.	SS_BRAND-B O O O O
+어떻게 대처 해야 합니까?	O O O O
+또박 또박 발음해 보겠습니다.	O O O O
+휴대폰 번호 4자리는 2005번 입니다.	O O O ID_PHONE-B O
+번호는 5965-9489이고 이름은 황보성은입니다.	O ID_PHONE-B O O
+꼭 연락주세요.	SS_NAME-B O
+생년월일을 말씀 드리겠습니다.	O O O
+940802 이에요.	ID_INUM-B O
+생년월일을 말씀 드리겠습니다.	O O O
+1961년12월19일 이에요.	ID_INUM-B O
+생년월일을 말씀 드리겠습니다.	O O O
+1990년04월01일 이에요.	ID_INUM-B O
+또박 또박 발음해 보겠습니다.	O O O O
+휴대폰 번호 4자리는 1289번 으로 되어있어요.	O O O ID_PHONE-B O O
+안녕하세요.	O
+광주은행 홈페이지에 접속이 안됩니다.	SS_BRAND-B O O O
+네, 이름은 풍경환이고 전화번호는 017-5435-3375이에요.	O O SS_NAME-B O ID_PHONE-B
+잘 남겨 두세요.	O O O
+이름은 예성수이구요.	O SS_NAME-B
+전화번호는 010-2584-4981입니다.	O ID_PHONE-B
+이름은 예성수이구요.	O SS_NAME-B
+전화번호는 010-9597-7757입니다.	O ID_PHONE-B
+경남은행 통장 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+경남은행 통장 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+토스뱅크 통장 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+제주은행 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+우리은행 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+한국산업은행 보안카드 어디있는지 못찾겠어요.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 대처 해야 하나요?	O O O O O O O
+경남은행 보안카드 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+대구은행 보안카드 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+하나은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+경남은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+광주은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+한국스탠다드차타드은행 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+광주은행 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+케이뱅크 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+토스뱅크 통장 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+경남은행 통장 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+수협 통장 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+우리은행 통장 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+중소기업은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+우리은행 통장 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+제주은행 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+중소기업은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+신한은행 보안카드 어디있는지 못찾겠어요.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 대처 해야 하나요?	O O O O O O O
+하나은행 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+농협 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+중소기업은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+토스뱅크토스뱅크 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+중소기업은행 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+경남은행 통장 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+신한은행 통장 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+신한은행 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+광주은행 보안카드 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+경남은행 보안카드 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+수협 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+신한은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+한국산업은행 보안카드 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+한국스탠다드차타드은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+국민은행 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+전북은행 통장 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+국민은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+부산은행 보안카드 분실하였습니다.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 대처 해야 합니까?	O O O O O O O
+하나은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+수협 보안카드 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+대구은행 통장 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+대구은행 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+우리은행 통장 어디있는지 못찾겠어요.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 대처 해야 하나요?	O O O O O O O
+중소기업은행 통장 분실한 것 같습니다.	SS_BRAND-B O O O O
+어떻게 대처 해야 합니까?	O O O O
+수협 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+대구은행 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+한국스탠다드차타드은행 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+경남은행 보안카드 분실한 것 같습니다.	SS_BRAND-B O O O O
+어떻게 대처 해야 합니까?	O O O O
+제주은행 통장 어디있는지 못찾겠어요.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 대처 해야 하나요?	O O O O O O O
+우리은행 보안카드 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+케이뱅크케이뱅크 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+한국산업은행 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+경남은행 통장 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+국민은행 통장 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+부산은행 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+대구은행 통장 분실한 것 같습니다.	SS_BRAND-B O O O O
+어떻게 대처 해야 합니까?	O O O O
+농협농협 통장 없어진 것 같아요.	SS_BRAND-B O O O O
+어떻게 해야 하나요?	O O O
+한국산업은행 통장 어디있는지 못찾겠어요.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 대처 해야 하나요?	O O O O O O O
+농협농협 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+수협 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+광주은행 보안카드 분실한 것 같아요.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+농협농협 통장 어디있는지 못찾겠습니다.	SS_BRAND-B O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+중소기업은행 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+케이뱅크 보안카드 분실하였는데요.	SS_BRAND-B O O
+어떻게 대처 해야 하나요?	O O O O
+경남은행 보안카드 없어진 것 같습니다.	SS_BRAND-B O O O O
+다시 발급 받을려면 어떻게 해야 합니까?	O O O O O O
+우리은행 보안카드 잃어버렸습니다.	SS_BRAND-B O O
+어떻게 해야 하나요?	O O O
+수협 보안카드 잃어버렸는데요.	SS_BRAND-B O O
+다시 발급 받을려면 어떻게 해야 하나요?	O O O O O O
+안녕하세요.	O
+우리은행에 맞게 전화 걸것 맞습니까?	SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+대구은행입니다.	SS_BRAND-B
+기억 나네요.	O O
+케이뱅크이에요.	SS_BRAND-B
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+한국스탠다드차타드은행입니다.	SS_BRAND-B
+하나은행 상담원입니다.	SS_BRAND-B O
+맞게 전화 주셨습니다.	O O O
+잠시만 기다려 주세요.	O O O
+한번 찾아보고요.	O O
+아 우리은행이네요.	O SS_BRAND-B
+발음이 정확하지 않아서 다시 여쭈어 보겠습니다.	O O O O O O
+국민은행 홈페이지에 접속 하시는 것이 불가능 하다는 말씀이 맞으십니까?	SS_BRAND-B O O O O O O O O
+안녕하십니까	O
+동부화재해상보험입니다.	SS_BRAND-B
+안녕하세요.	O
+토스뱅크에 맞게 전화 걸것 맞나요?	SS_BRAND-B O O O O
+안녕하세요.	O
+토스뱅크 홈페이지에 접속이 안됩니다.	SS_BRAND-B O O O
+함께하는 농협입니다.	O SS_BRAND-B
+어떤 업무를 도와드리면 되겠습니까?	O O O O
+국민은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+고객님	O
+농협 상담원입니다.	SS_BRAND-B O
+맞게 전화 주셨습니다.	O O O
+한국산업은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+고객님	O
+반갑습니니다.	O
+삼성화재해상보험입니다.	SS_BRAND-B
+안녕하십니까	O
+메트라이프생명보험입니다.	SS_BRAND-B
+안녕하십니까	O
+ABL생명보험입니다.	SS_BRAND-B
+광주은행 상담원입니다.	SS_BRAND-B O
+맞게 전화 주셨습니다.	O O O
+안녕하세요.	O
+하나은행 홈페이지에 들어가지지 않습니다.	SS_BRAND-B O O O
+하나은행으로 보낸 것 맞아요.	SS_BRAND-B O O O
+기억났다.	O
+안녕하세요.	O
+경남은행에 전화 걸은 것이 맞아요?	SS_BRAND-B O O O O
+농협에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+고객님	O
+안녕하세요.	O
+제가 제주은행에 맞게 전화 건것이 맞습니까?	O SS_BRAND-B O O O O
+신한은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+고객님	O
+잠시만 기다려 주세요.	O O O
+한번 찾아보고요.	O O
+아 우리은행이네요.	O SS_BRAND-B
+함께하는 경남은행입니다.	O SS_BRAND-B
+어떤 업무를 도와드리면 되겠습니까?	O O O O
+안녕하세요.	O
+제주은행 홈페이지에 들어가지지 않아요.	SS_BRAND-B O O O
+잠시만 기다려 주세요.	O O O
+한번 찾아보고요.	O O
+아 한국스탠다드차타드은행이네요.	O SS_BRAND-B
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+하나은행입니다.	SS_BRAND-B
+한국스탠다드차타드은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+고객님	O
+환영합니다.	O
+신한은행에 맞게 전화 주신 것이 맞습니다.	SS_BRAND-B O O O O O
+잠시만 기다려 주세요.	O O O
+한번 찾아보고요.	O O
+아 경남은행이네요.	O SS_BRAND-B
+함께하는 중소기업은행입니다.	O SS_BRAND-B
+어떤 업무를 도와드리면 되겠습니까?	O O O O
+안녕하세요.	O
+전북은행 홈페이지에 접속이 불가능해요.	SS_BRAND-B O O O
+발음이 명확하지 않습니다.	O O O
+보다 나은 서비스를 위하여 다시 질문 드리겠습니다.	O O O O O O O
+토스뱅크 홈페이지에 접속이 불가능 하다는 말씀 맞으십니까?	SS_BRAND-B O O O O O O
+기억 나네요.	O O
+광주은행 입니다.	SS_BRAND-B O
+환영합니다.	O
+중소기업은행에 맞게 전화 주신 것이 맞습니다.	SS_BRAND-B O O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+우리은행입니다.	SS_BRAND-B
+아주 만족스러운 서비스입니다.	O O O
+농협 자주 이용해야 겠습니다.	SS_BRAND-B O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+경남은행입니다.	SS_BRAND-B
+안녕하세요.	O
+광주은행 홈페이지에 들어가지지 않습니다.	SS_BRAND-B O O O
+잠시만 기다려 주세요.	O O O
+한번 찾아보고요.	O O
+아 대구은행이네요.	O SS_BRAND-B
+안녕하세요.	O
+제가 국민은행에 맞게 전화 건것이 맞습니까?	O SS_BRAND-B O O O O
+고객님께서 정확하게 전화 주신 것이 맞습니다.	O O O O O O
+우리은행입니다.	SS_BRAND-B
+함께하는 한국산업은행입니다.	O SS_BRAND-B
+어떤 업무를 도와드리면 되겠습니까?	O O O O
+수고하십니다	O
+제가 대구은행국민카드를 잃어버렸어요	O SS_BRAND-B O
+대구은행입니다.	SS_BRAND-B
+네 고객님 재발급원하시나요?	O O O
+안녕하세요	O
+제주은행이죠	SS_BRAND-B
+안녕하세요	O
+우리은행 고객센터죠?	SS_BRAND-B O
+고객님 죄송합니다.	O O
+대구은행과 외한은행이 통합데면서 시스템이 오류가 있었습니다.	SS_BRAND-B O O O O O
+얼릉해주세요	O
+카드사용도 카카오뱅크이니깐요?	O SS_BRAND-B
+안녕하세요	SS_BRAND-B
+전북은행이죠?	O
+제카드가 복제가 된거 같은데요?	O O O
+전북은행 이용중인데요	SS_BRAND-B O
+해킹이 된 것 같아요.	O O O O
+남궁성하이구요	SS_NAME-B
+840710 입니다.	ID_INUM-B O
+정형기인데요.	SS_NAME-B
+461128-1706656인데요.	ID_INUM-B
+제 이름은 사공우주이구요	O O SS_NAME-B
+820326-4340980	ID_INUM-B
+팩스가 편하겠네요.	O O
+번호 부탁해요.	O O
+177-7619입니다	ID_PHONE-B
+서류 보내시고 한번더 전화주시면 감사하겠습니다.	O O O O O
+풍경현 입니다.	SS_NAME-B O
+전번은 3255-2057입니다.	O ID_PHONE-B
+고객님 주소 확인 부탁 드립니다.	O O O O AD_ADDRESS-B
+전북 완주시 광산구 다음 주소가 어떻게 되시나요?	AD_ADDRESS-I AD_ADDRESS-I O O O O
+그 다음입니다.	O O
+상대방 계좌의 계좌번호가 어떻게 되는지 말씀해 주실 수 있으신지요?	O O O O O O O O O
+다음 질문 입니다.	O O O
+잘 못 이체 하신 계좌번호가 어떻게 되어 있는지 말씀해 주실 수 있나요?	O O O O O O O O O O O O
+준비하고 있었습니다.	O O
+876019번 입니다.	ID_ACCOUNT-B O
+잠시만요 다시 찾아볼께요.	O O O
+찾았습니다.	O
+831입니다.	ID_ACCOUNT-B
+준비하고 있었습니다.	O O
+473778번 입니다.	ID_ACCOUNT-B O
+다음 질문 입니다.	O O O
+잘 못 이체 하신 계좌번호가 어떻게 되어 있는지 말씀해 주실 수 있나요?	O O O O O O O O O O O O
+잠시만 기다려 주세요.	O O O
+빨리 찾아볼께요.	O O
+802-907-802입니다.	ID_ACCOUNT-B
+준비하고 있었습니다.	O O
+354751번 입니다.	ID_ACCOUNT-B O
+준비하고 있었습니다.	O O
+466842번 입니다.	ID_ACCOUNT-B O
+다음 순서입니다.	O O
+절차 상 고객님의 생년월일을 여쭈어봐야 합니다.	O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O
+말씀 드려야지요.	O O
+19460613 이에요.	ID_INUM-B O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+선생님의 생년월일이 어떻게 되십니까?	O O O O
+다음입니다.	O
+절차 상 고객님의 생년월일을 여쭈어봐야 합니다.	O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+말씀 드려야지요.	O O
+1982년6월21일 이에요.	O O
+생년월일이 어떻게 되십니까?	O O O
+년도는 4자리 모두 불러주셔야 합니다.	O O O O O
+생년월일이 어떻게 되십니까?	O O O
+예를 들어서 45년도 생이시면, 1945으로 말씀 해주셔야 합니다.	O O O O O O O O
+그럼 다음으로 넘어가도록 하겠습니다.	O O O O
+고객님의 생년월일이 어떻게 되십니까?	O O O O
+년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O
+다음, 절차 상 고객님의 생년월일을 여쭈어봐야 합니다.	O O O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년도는 4자리 모두 불러주셔야 합니다.	O O O O O
+생년월일이 어떻게 되십니까?	O O O
+년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+본인의 출생월일이 무엇인가요?	O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+선생님의 출생월일이 어떻게 되십니까?	O O O O
+생년월일을 알아야 합니다.	O O O
+어떻게 되십니까?	O O
+말씀 드려야지요.	O O
+350810 이에요.	ID_INUM-B O
+생년월일을 말씀해 주시겠습니까?	O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+다음 순서입니다.	O O
+생년월일을 알아야 합니다.	O O O
+어떻게 되십니까?	O O
+예를 들어서 89년도 생이시면, 1989으로 말씀 해주셔야 합니다.	O O O O O O O O
+다음 순서입니다.	O O
+고객님의 생년월일을 말씀해 주실수 있으시겠습니까?	O O O O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+다음 절차입니다.	O O
+고객님의 생년월일을 말씀해 주실수 있으시겠습니까?	O O O O O
+년도는 4자리 모두 불러주셔야 합니다.	O O O O O
+그럼 다음으로 넘어가도록 하겠습니다.	O O O O
+생년월일을 말씀해 주시겠습니까?	O O O
+다음 절차입니다.	O O
+생년월일을 알아야 합니다.	O O O
+어떻게 되십니까?	O O
+년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O
+고객님의 생년월일을 말씀해 주실수 있으시겠습니까?	O O O O O
+년도는 4자리 모두 불러주셔야 합니다.	O O O O O
+생년월일을 말씀해 주시겠습니까?	O O O
+예를 들어서 19년도 생이시면, 2019으로 말씀 해주셔야 합니다.	O O O O O O O O
+다음 절차입니다.	O O
+생년월일을 말씀해 주시겠습니까?	O O O
+예를 들어서 10년도 생이시면, 2010으로 말씀 해주셔야 합니다.	O O O O O O O O
+그럼 다음으로 넘어가도록 하겠습니다.	O O O O
+고객님의 생년월일을 말씀해 주실수 있으시겠습니까?	O O O O O
+다음 절차입니다.	O O
+생년월일을 말씀해 주시겠습니까?	O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+고객님의 생년월일6자리 또는 8자리가 어떻게 되십니까?	O O O O O O
+다음입니다.	O
+생년월일을 말씀해 주시겠습니까?	O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+고객님의 생년월일6자리 또는 8자리가 어떻게 되시나요?	O O O O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+고객님의 생년월일이 무엇입니까?	O O O
+다음 순서입니다.	O O
+고객님의 생년월일을 말씀해 주실수 있으시겠습니까?	O O O O O
+생년월일을 알아야 합니다.	O O O
+어떻게 되십니까?	O O
+예를 들어서 68년도 생이시면, 1968으로 말씀 해주셔야 합니다.	O O O O O O O O
+개인정보를 최대한 보호하며 도와드리겠습니다.	O O O O
+본인의 생년월일이 무엇입니까?	O O O
+일단 카드 정지부터 진행하겠습니다.	O O O O
+고객님 생년월일 앞 여섯자리 불러주십시오.	O O O O O
+다음 순서입니다.	O O
+고객님의 출생년도를 말씀 해주실 수 있으시겠습니까?	O O O O O O
+임병옥이구요, 050763366입니다.	SS_NAME-B ID_PHONE-B
+주소는 영주시 연제구 충인1로 1310-1번지입니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I
+번호는 0386-1777이고 이름은 임재숙입니다.	O ID_PHONE-B O O
+꼭 연락주세요.	SS_NAME-B O
+손인석에 017-8497-3567번 입니다.	SS_NAME-B ID_PHONE-B O
+연락 안주면 화낼껍니다.	O O O
+준비하고 있었습니다.	O O
+200186번 입니다.	ID_ACCOUNT-B O
+다음 정보를 물어보도록 하겠습니다.	O O O O
+고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O
+적어둔 것 찾아보구요.	O O O
+잠시만요. 여깄네요.	O O
+0148734입니다.	ID_ACCOUNT-B
+0945에 249642입니다.	ID_ACCOUNT-B ID_ACCOUNT-I
+이거 맞을 거라고 생각해요.	O O O O
+그 다음입니다.	O O
+잘못 송금 하신 계좌의 번호가 어떻게 되십니까?	O O O O O O O
+잠시만 기다려 주세요.	O O O
+빨리 찾아볼께요.	O O
+788-131-403입니다.	ID_ACCOUNT-B
+다음 정보를 물어보도록 하겠습니다.	O O O O
+고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O
+2678에 573802입니다.	ID_ACCOUNT-B ID_ACCOUNT-I
+이거 맞을 거라고 생각해요.	O O O O
+다음 정보를 여쭈어 보도록 하겠습니다.	O O O O O
+상대방 계좌의 번호가 어떻게 되십니까?	O O O O O
+준비하고 있었습니다.	O O
+660037번 입니다.	ID_ACCOUNT-B O
+너에게 쓴다	O O
+/ 천양희	O SS_NAME-B
+티아라에서 류화영이란 멤버가 있었어?	O SS_NAME-B O O
+나 오늘 첨 알았네	O O O O
+-_-;;	O
+정재승, 진중권이 다시 뭉쳤다!	SS_NAME-B SS_NAME-B O O
+:)	O
+제니퍼 로렌스는 이제 미친여자의 연기력의 탑이라 해도 손색이 없겠더라고요!	SS_NAME-B SS_NAME-I O O O O O O O
+*_*	O
+역시 이승기 노래 들으면 기분좋아져! ㅋㅋㅋㅋ	O SS_NAME-B O O O O
+아니...꼭 굳이 내가 아이렌이라서가 아니라 ...ㅋ.......ㅋㅋ....	O O O O O O
+유병훈 의사쌤 감사합니다	SS_NAME-B O O
+꾸벅꾸벅 ㅋㅋㅋㅋㅋㅋㅋㅋ 전 이제 밤샘공부의 길로 ☞0∇0☞	O O O O O O O
+컨퉐븨 유수민언니랑 불닭볶음면 머그러 펴니점 옴	O SS_NAME-B O O O O
+올ㅋ 기대된당 걱정된당 룰루	O O O O
+잘함주의❗ 김주영	O SS_NAME-B
+``서버값과 개발비는 별도인가요?	O O O
+그냥 진석씨 서버를 쓰면 안되나요?``	O SS_NAME-B O O O
+자꾸 용환이가 스우시 따라하라고 하는데 어케 하는지 모르겠다	O SS_NAME-B O O O O O O
+구요!!	
+특별상은 박해원 광주전남 미스코리아 美 문수인 2017 광주전남 미스코리아 善 김지윤 오소이 양과 정지현 양 중 과연 미스코리아 진은 누가 될까?	O SS_NAME-B O O O SS_NAME-B O O O O SS_NAME-B SS_NAME-B O SS_NAME-B O O O O O O O
+2017 광주전남 미스코리아 眞 정지현 2017년 광주전남을 대표할 미인들...전국 대회와 세계대회에서도 광주전남의 미모를 마음껏 발산하시길...	O O O O SS_NAME-B O O O O O O O O O O
+안녕하세요~	O
+달려라포티 입니다!	SS_NAME-B O
+꿀단지야 건강하게 잘 자라렴❤	SS_NAME-B O O O
+민승이가 생일파티 해줘서 엄마한테 고맙습니다..	SS_NAME-B O O O O
+인사하더라구요..	
+뀨뀨의 고생을 잘 알고 있다며 무조건 도와주고 잘해주라는데...	SS_NAME-B O O O O O O O
+으음.	
+안녕하세요!	O
+라영짱이에요	SS_NAME-B
+:-)	O
+안녕하세요	O
+퍼스널컬러 봄브라이트 채루비예요	O O SS_NAME-B
+안녕하세요	O
+lee군입니다.	SS_NAME-B
+재희 디자이너샘과 남자디자이너샘 이름은 모르겠는데..	SS_NAME-B O O O O
+암튼 두분께...	O
+지난해 12월엔가?	O O
+강진에서 또 다른 락의 제왕 김경호 공연을 봤는데, 오늘 박완규까지...	O O O O O SS_NAME-B O O O SS_NAME-B
+김꼬들님도 정신없이 드셔주셔서 너무 행복합니다♥	SS_NAME-B O O O O
+요미 생일은 6월 초인데 깜빡 잊고있다가, 아맞다!	SS_NAME-B O O O O O O
+요미 생일! 하고 급하게 주문한 요미의 생일 케이크.	SS_NAME-B O O O O SS_NAME-B O O
+마흔셋에 출산한 아이가 지금은 다섯 살이 됐다	SS_AGE-B O O O SS_AGE-B SS_AGE-I O
+고.	
+민승이보구...	SS_NAME-B
+군대가기전엔 선생님 보자고 했더니.. 9살인 지금...이제 2년마다 오면 될것 같다고 하시면서	O O O O SS_AGE-B O O O O O O
+이미 고양이로써 17년째 살고있으니 암걸린다고 고춧가루 빼고 먹는 누구네 95세 할머니 짝은 나지 말아야겠지만 굳이 여기 누울 필요도 없다!!	O O O O O O O O O SS_AGE-B O O O O O O O O O
+마리 밥먹는 소리가 내가 젤 흐뭇한 소리.	O O O O O O O
+이렇게 쉬운원리라..	O O
+우리 4살 꼬맹이님도..아주 잘하심	SS_AGE-B O O
+외모는 원래 특출났지만 30이 되면서 예전같은 어린 소년의 느낌은 아니고 아무리 날고기는 스타도 조금씩 나이를 먹는구나	O O O SS_AGE-B O O O O O O O O O O O O
+정도..	O
+66kg입니다.....	SS_WEIGHT-B
+🐷	
+마흔셋에 출산한 아이가 지금은 다섯 살이 됐다	SS_AGE-B O O O SS_AGE-B SS_AGE-I O
+고.	
+아마 그가 39살 때 쯤 씀	O O O O O O
+/ 20대부터 문학적 성공.	O O O O
+그러니까 지금부터 50살만 더살아죠 ◟◞	O O O O O
+거기에 꼽힌 25살 ,, 내년엔 하나더 바뀌겟지 ㅠ	O O SS_AGE-B O O O O O
+_ㅠ	
+올해 다섯살이라 어린이집에서도 숫자 익히거든요	O SS_AGE-B O O O
+그래서 5미만의 숫자는 잘알고 있던지라	O O O O O
+우리에게 반오십이라며 `우리언니들 늙었다	O O O O
+며....^^` 슬퍼하던게 엊그제같은뎈ㅋㅋㅋ 너희 27살이다? ^	O O O SS_AGE-B O
+_^	
+18살인가?	SS_AGE-B
+ㄸㅏ고	O
+20살 먹고 이런거 찾아다니네요 ㅜㅜ..	SS_AGE-B O O O O
+알바도 2시간 일찍 끝나서..ㅋㅋㅋ	O O O
+임신과 출산을 맞는 30살이 됐음	O O O SS_AGE-B O
+좋겟네요 ㅋㅋㅋㅋ	O O
+그리고 수능시험에서 53위를 하여 서울대 법대로 진학했고, 법대 3학년에 재학 중이던 1987년 사법고시 최연소 합격의 영예를 누렸다.	O O O O O O O O O O O O O O O O O
+이때가 만 20세다.	O SS_AGE-B SS_AGE-I
+현재 23살 이학년이구요	O SS_AGE-B O
+군댄 다녀왓습니다	O O
+와 23살이다	O SS_AGE-B
+현타온다 ~~~~~	O O
+권휴민, 23세, 김여니 엄마_♥	SS_NAME-B SS_AGE-B SS_NAME-B O
+이냉치냉 좋다	O O
+이거보다 맛있는 녹차빙수 19살 인생 본적없다	O O O SS_AGE-B O O
+넘치는사랑 받은 28살 생일 행복했따..	O O SS_AGE-B O O
+♥ (나이들수록 초는 날짜로 하는거라며)	O O O O
+자기爱♥ 쩌는애 ( 26세 / 학생 )	O O O SS_AGE-B O O O
+나 21세야 ~~~~	O SS_AGE-B O
+00년에 사람이 태어나다	O O O
+니.,,,,넘 신기하다 !	O O
+화련빈님! 반모하실래요!!?? ㅈ	SS_NAME-B O O
+저는 01년생이에요!	SS_AGE-B
+포셔 17살인데 바사니오씨발새끼 26살이잖아!	SS_NAME-B SS_AGE-B SS_NAME-B SS_AGE-B
+개새끼야!	O
+스물아홉이 됐지만 마음은 스무살이다	SS_AGE-B O O O
+정말ㅋ	O
+끄앙 43kg대로 진입했당!	O SS_WEIGHT-B O
+행복하구만ㅋ	O
+PT20회받고 2키로 그람이 늘었다	O SS_WEIGHT-B SS_WEIGHT-I O
+네 ...에헤라디야..(근육량은 0.3kg 지방은 1.7kg...)	O SS_WEIGHT-B O SS_WEIGHT-B
+체중감량이 안되니 예민해졌다..	O O O
+지금 92.40kg이고 목표는 10kg는 더 빼야한다.	O SS_WEIGHT-B O O O O
+드디어 여기까지 내려왔다!	O O O
+82.30kg	SS_WEIGHT-B
+단지는 21개월이고 몸무게는 10킬로라서 M사이즈를 주문했어요~	SS_NAME-B SS_AGE-B O SS_WEIGHT-B O O
+M사이즈는 8~13kg이 권장 몸무게이니까 참고하세요!	O O O O O
+꿀단지가 입은 모습 보여드릴게요!	O O O O
+1살 10kg!	SS_AGE-B SS_WEIGHT-B
+신병 갔다 왔는데 바지가 작아졌어욬ㅋㅋㅋ 178/ 60이였는데 지금 64키로인데 드블코 넘 꽉끼고 ㅜ..이제 사이즈 한 29로 가야할까요?...	O O O O O SS_LENGTH-B SS_WEIGHT-B O SS_WEIGHT-B O O O O O O O O
+전역하면 다시 살 빠질지..ㅋㅋ 슬랙스도 다 작아졌곸ㅋ…	O O O O O O
+사이즈 안맞아서 버리나요?ㅋㅋ	O O O
+56키로였는데 지금 군대온지 3달됬는데 65키로 됨;;	SS_WEIGHT-B O O O SS_WEIGHT-B O
+임호우 키 179 골격근량 33.6 입니다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ	SS_NAME-B O SS_LENGTH-B O SS_WEIGHT-B O O
+몸무게는 묻지마세요	O O
+돼지니깐ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 깐족깐족	O
+한 몇일전에 여친집에서 쟀는데 56키로 나와서 당황했거든요...	O O O O SS_WEIGHT-B O O
+불과 몇달전까지만해도 57~58이였는데 근 60가까이도 됬구요...	O O O SS_WEIGHT O
+마른편이긴한데..	O
+요새 먹는것도 엄청먹고 하는데...56키로나와서 여친집 무게재는게 고장났다고하고 지금 밥먹고 쟀는데...	O O SS_WEIGHT-B O O O O O O
+178cm / 58kg 정도라 보통 바지S 아님	SS_LENGTH-B O SS_WEIGHT-B O O O O
+44 입는데	O O
+▶공복몸무게 55.3 였는데!!!!!!	O SS_WEIGHT-B O
+나 70키로되면 저얼굴될거같음..	O SS_WEIGHT-B O
+너무두려움	
+지금은 52키로고 목표가 46키로임	O SS_WEIGHT-B O O
+아나 ㅋㅋ	O O
+"우혜림은 ""임신 초반 몸무게가 48kg이다.	SS_NAME-B O O O SS_WEIGHT-B
+정확히 20kg이 늘었다""며 경악했다."	O O O O
+꺄. 이게 웬일이래요.	O O O
+54킬로라니.	SS_WEIGHT-B
+꿈에 그리던 몸무게.	O O O
+4년을 촬영하니까 연기가 늘었다.	O O O O
+80kg에서 108kg까지 쪘다.	SS_WEIGHT-B SS_WEIGHT-B O
+살을 엄청 뺐다.	O O O
+작품 역할 때문에 51kg까지 뺐다.	O O O SS_WEIGHT-B O
+(2021년 기준) 초등학교 6학년 천하장사를 꿈꾸는 정선우라고 한다.	O O O O O O SS_NAME-B O
+몸무게는 120kg, 키는 183cm다.	O SS_WEIGHT-B O SS_LENGTH-B
+오늘 아침에 드디어 몸무게가 50kg 밑으로 내려갔다.	O O O O O O O
+근데 49.9kg이다.	O SS_WEIGHT-B
+안녕하세요	O
+저는 180 입니다	O SS_LENGTH-B O
+179면서 자꾸 작다	SS_LENGTH-B O O
+고..	
+머 159임	O SS_LENGTH-B
+작지?	O
+아담아담 가오	O O
+아니거든!!!	O
+적어도 160은 넘거든!!	O SS_LENGTH-B O
+올라가는 2월 11일이 제 생일이에요	O SS_BIRTH-B SS_BIRTH-I O O
+여러분ㅎㅎ	O
+090101 개범쓰 생일이었어요	SS_BIRTH-B SS_NAME-B O
+단호박 케이크 만들어서 냠냠 했지요~	O O O O O
+제 생일은 2월 2일입니다ㅠㅠ	O O SS_BIRTH-B SS_BIRTH-I
+축하해주셔서 감사해요!!	O O
+6/22 미노님 생일! 미리 축하합니다~~	SS_BIRTH-B SS_NAME-B O O O
+착한 기부금으로 선물 뿅뿅!	O O O O
+베니 올해 생일 7월 19일에 팬들이 직접 만나서 생일축하한다고 노래 불러준거 부러워죽겠네	SS_NAME-B O O SS_BIRTH-B SS_BIRTH-I O O O O O O O
+쥬금.	O
+근대 음력 11월25일이라 생일은 아니었지만 감사합니다.	O O SS_BIRTH-B O O O
+생일 축하해주신 폐친분들에게 감사합니다.	O O O
+민승,민호 9월 20일인데..	SS_NAME-B SS_BIRTH-B SS_BIRTH-I
+생파 하고 싶다고 한 민승이는	O O O O SS_NAME-B
+제발 도와주세요...	O O
+티켓팅... 12월26일 인터파크 8시... 선예매... 제발.. 저날 나생일이야..ㅜㅠㅠㅠㅠㅠㅠㅠㅠㅜ	O SS_BIRTH-B O O O O O O
+저는 6월 1일생입니다~	O SS_BIRTH-B SS_BIRTH-I
+제 행복은 여러분과 함께 하고 싶네요! ^	O O O O O O O
+-^	
+드디어! 내일모레!! 7월2일 일요일에 공연을합니다~~	O O O O O
+백석예대17학번 동기들과 동덕여대 기악친구와 함께공연하니 많이들와주셔서 재미지게놀다가 가자구욤~ 예매문의는 저에게 혹은두번째 포스터의 번호로 연락주세요~~	SS_BRAND-B O SS_BRAND-B O O O O O O O O O O O
+오늘 밤 9시 ! 근처 제비다방에서 스테레오버블 공연합니다!	O O O O O SS_BRAND-B O O
+놀러오세유!	O
+저의 제자이자 절친인 김영흠 군이 서울예대 수시 보컬 1차에 합격했습니다!!!	O O O SS_NAME-B O SS_BRAND-B O O O O
+아주아주 뿌듯하고 기분이좋구만요~~~ㅎㅅㅎ	O O O
+최나리 우린 아비꼬를 넘 사랑했지	SS_NAME-B O SS_BRAND-B O O
+큭큭! 보고팡 ♥	O O O
+서울예대 동문특강에서 라미란언니와 함께~❤	SS_BRAND-B O SS_NAME-B O
+가격 괜찮음	O O
+에어비앤비 ㅋㅋ 대구니까 좀 더 싸지 않을까 ?	SS_BRAND-B O O O O O O O
+갤러리아백화점도 있네	SS_BRAND-B O
+광교에	O
+구로한정식집으로 강추해요!!	SS_BRAND-B O
+TEL: 02) 2028-4500	O ID_PHONE-B ID_PHONE-I
+병산서원은 화산의 동쪽 기슭에, 하회마을은 그 반대쪽에 있다.	AD_DETAIL-B O O O LC_OTHERS-B O O O
+병산서원 문의 번호 054) 858-5929	AD_DETAIL-B O O ID_PHONE-B ID_PHONE-I
+남구 용호2동 212-2번지 백운포에 있는 진주횟집을 소개합니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O
+전화는 010-2533-6552	O ID_PHONE-B
+4/1 생일인데..	SS_BIRTH-B O
+선물은 4/20 쩝...	O O O
+밀리언에어 오빠생일임	O O
+0312	SS_BIRTH-B
+생일 알려줘봐	O O
+내가 링크 모아서 줄게	O O O O
+진국쓰생일이 언제였지??	SS_NAME-B O
+6월 10일?	SS_BIRTH-B SS_BIRTH-I
+오! 생일이 언제야??	O O O
+그때 하면 되겠넹!	O O O
+음력 4월 몇일이야???	O O O
+아예 여기다 다 적어줭 ㅋㅋㅋ	O O O O O
+나는 음력으루 해서 매일 바껴 ㅠ	O O O O O O
+음력 12월29일 ㅎㅎ 거의 설날 전전날	O SS_BIRTH-B O O O O
+재진오빠랑 생일이 같다	SS_NAME-B O O
+고 ?	O
+명훈이 천칭자리 맞죠?	SS_NAME-B O O
+명훈이 별자리 궁금하대요.	SS_NAME-B O O
+생일이 언제에요. 12월	O O O
+인호 혹쉬~~ 7월 12일 엄마 생일 알고 오는건가	SS_NAME-B O SS_BIRTH-B SS_BIRTH-I O O O O
+혹쉬~~	O
+유이는 현재 49.8kg이다.	SS_NAME-B O SS_WEIGHT-B
+프로필상 키가 173cm라는 점을 고려할 때 유이는 늘씬한 몸매를 자랑한다.	O O SS_LENGTH-B O O O SS_NAME-B O O O
+175센티에요	SS_LENGTH-B
+진짜!!	O
+아, 나 살빠짐 서진쑤	O O O SS_NAME-B
+지금 46kg이야	O SS_WEIGHT-B
+원래 58kg이었대	O SS_WEIGHT-B
+화이팅해라	O
+ㅇㅇ ^^ 살좀 빼서 내려갈께 ㅋㅋㅋ	O O O O O O
+나 63kg 충격받아서 다요트 시작했어	O SS_WEIGHT-B O O O
+지금 61키로 나가..	O SS_WEIGHT-B O
+오빠 172랬나?	O SS_LENGTH-B
+173이라고 해줘 나 155야 오빠한테만 말해주는 거야	SS_LENGTH-B O O SS_LENGTH-B O O O
+딴 사람한테는 비밀이야	O O O
+나도 160.9됐음	O SS_LENGTH-B
+1센치 컸어	O O
+168나오네 ㅇㅇ	SS_LENGTH-B O
+몇센치 차이 안나네	O O O
+79년생 43일거야	SS_AGE-B SS_AGE-B
+아마 올해	O O
+다친 나를 데리고 겜하신다....	O O O O
+99년생;;;;;	SS_AGE-B
+근데 걔도 진짜 이게 뭔가 싶었을거야	O O O O O O
+96년생인데 19학번이라니	SS_AGE-B O
+너 82년생이야?	O SS_AGE-B
+왜 화욜에 가	O O O
+공식적으로 잰 게 221.6cm이다.	O O O SS_LENGTH-B
+아침에 잰 키다.	O O O
+몸무게는 151kg다.	O SS_WEIGHT-B
+선수 때도 지금도 같다	O O O O
+이분이 164센치라네여	O SS_LENGTH-B
+저 165인데	O SS_LENGTH-B
+그 로난을 좋아햇어여	O O O
+신장이 196센치였나	O SS_LENGTH-B
+그랫던거같아여	O
+네, 확인 감사합니다.	O O O
+배송 받으셨던 주소가 경기 용인시 처인구 한터로 이하 주소 말씀 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 나예원이었습니다.	O SS_NAME-B
+감사합니다.	O
+그러시군요.	O
+배송 받았던 주소가 경기도 고양시 일산서구 경의로 확인되는데 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O
+네, 반품 처리되었습니다.	O O O
+표은혜였습니다.	SS_NAME-B
+감사합니다.	O
+안타깝지만 반품 접수 진행해드렸습니다.	O O O O
+회수 주소지는 서울 노원구 공릉로 59길 25 청솔아파트 몇 동 몇 호세요?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+네, 양도현이었습니다.	O SS_NAME-B
+감사합니다.	O
+안녕하십니까.	O
+롯데쇼핑 황태희입니다.	SS_BRAND-B SS_NAME-B
+기다려 주셔서 감사합니다.	O O O
+상품 배송 받으셨던 주소지 대구 달서구 한실로 6길 이하 주소 확인 부탁 드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+반품 처리 되었습니다.	O O O
+저는 롯데쇼핑 황태희였습니다.	O SS_BRAND-B SS_NAME-B
+네. 안녕하세요.	O O
+반갑습니다.	O
+여은혜입니다.	SS_NAME-B
+원피스 이거 옷이 작네요.	O O O O
+반품 처리되었습니다.	O O
+노소민이었습니다.	SS_NAME-B
+확인해 주셔서 감사합니다.	O O O
+수거할 주소는 배송 받으셨던 경남 창원시 원미구 이하 주소 확인 부탁드립니다.	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS O O O O
+반품 접수되었습니다.	O O
+지금까지 롯데쇼핑 주재연이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+네, 확인해 주셔서 감사합니다.	O O O O
+수거할 주소지는 배송 받으셨던 충청남도 청송군 안덕면 성재리 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+고객님 반품 진행하겠습니다.	O O O
+배송 받으신 주소가 서울 양천구 목동로 월평2길 이하 주소 말씀 부탁 드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+감사합니다.	O
+상담사 조영진이었습니다.	O SS_NAME-B
+네 고객님 기다려 주셔서 너무 감사합니다.	O O O O O O
+회수할 주소는 서울 강서구 응암 1동 738 현대1차아파트 이하 나머지 주소 확인 부탁 드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O O
+네 반품 처리되었습니다.	O O O
+저는 서정란이었습니다.	O O
+네, 정보 확인 후 도와드리겠습니다.	O O O O O
+성함과 전화번호 확인 부탁드립니다.	O O O O
+네, 반품 처리되었습니다.	O O O
+노정은이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+회수할 주소가 서울 동대문구 나운3동 롯데4차아파트 이하 주소 말씀 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+예, 류수민이었습니다.	O SS_NAME-B
+감사합니다.	O
+네, 교환 처리에서 반품 처리로 도와드리겠습니다.	O O O O O O
+배송 받으셨던 주소가 전남 여수시 터진목로 20번길 시화공단2마아파트 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네, 반품 처리되었습니다.	O O O
+강다영이었습니다.	SS_NAME-B
+감사합니다.	O
+위정남고객님이시구요.	SS_NAME-B
+그럼 배송 받으신 거를 교환 처리하셨다	O O O O O O
+라는 거예요?	O
+반품 처리 잘 되었구요.	O O O O
+반품 주소 다시 한번 확인하겠습니다.	O O O O O
+부산 진구 해안남로 1184번길 42 다시 3 우미오션빌아파트 몇호세요?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네. 고객님. 반품 접수 되었습니다.	O O O O O
+유정훈이었습니다.	SS_NAME-B
+네. 예. 불편 드려 죄송합니다.	O O O O O
+수거할 주소는 배송 받으셨던 경기 포천시 주례2동 27 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+반품 처리되었습니다.	O O
+정민석이었습니다.	SS_NAME-B
+안녕하십니까?	O
+홈앤쇼핑 지주형입니다.	O SS_BRAND-B
+무엇을 도와드릴까요?	SS_NAME-B O
+네, 확인 감사합니다.	O O O
+회수지는 금천구 가좌동 맞습니까?	O AD_ADDRESS-B AD_ADDRESS-I O
+네, 감사합니다.	O O
+지에스쇼핑 여영식이었습니다.	SS_BRAND-B SS_NAME-B
+저는 권선영이었습니다.	O SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+신세계쇼핑 김태호입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 감사합니다.	O O
+롯데원쇼핑 고도연이었습니다.	SS_BRAND-B SS_NAME-B
+네, 반품 처리되었습니다.	O O O
+김영진이었습니다.	SS_NAME-B
+감사합니다.	O
+반품 처리되었습니다.	O O
+전정식이었습니다.	SS_NAME-B
+감사합니다.	O
+상담사 금동윤 이었습니다.	O SS_NAME-B O
+네, 확인 감사합니다.	O O O
+회수할 주소가 경남 김해시 완산구 평화동1가 이하 주소 확인 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 반품 처리되었습니다.	O O O
+전유진이었습니다.	SS_NAME-B
+감사합니다.	O
+주소 확인하겠습니다.	O O
+인천 남동구 고소동 동서대로 1327번길 24 부영아파트 이하 주소 확인 부탁 드립니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O O
+감사합니다.	O
+상담사 윤미찬이었습니다.	O SS_NAME-B
+롯데온쇼핑 민지아입니다.	SS_BRAND-B SS_NAME-B
+고객님. 무엇을 도와드릴까요?	O O O
+예. 네. 불편 드려 정말 죄송합니다.	O O O O O O
+제가 심재서고객님으로 정정 도와드렸습니다.	O SS_NAME-B O O
+반품이 되었습니다.	O O
+이요성이었습니다.	SS_NAME-B
+엔에스홈쇼핑 국수경입니다.	SS_BRAND-B SS_NAME-B
+고객님 무엇을 도와드릴까요?	O O O
+기다려 주셔서 감사합니다.	O O O
+수거할 주소는 배송받으셨던 대구 달서구 상도1동 이하 주소 말씀 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+그럼 반품 처리 도와드리겠습니다.	O O O O
+회수하는 주소는 기존에 배송 받으셨던 경북 부여군 장암면 이하 주소 말씀 부탁드립니다.	O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+다시 확인하겠습니다.	O O
+1255 054 892147 맞습니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+반품 접수되었습니다.	O O
+김지연이었습니다.	SS_NAME-B
+지금까지 지에스홈쇼핑 고유준이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+반품 처리되었습니다.	O O
+상담사 박유연이었습니다.	O SS_NAME-B
+예 감사합니다.	O O
+상담사 강수은이었습니다.	O SS_NAME-B
+반품 처리되었습니다.	O O
+송동철이었습니다.	SS_NAME-B
+지금까지 신세계쇼핑 최예연이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+고객님 확인 감사합니다.	O O O
+반품 처리 도움 드리겠습니다.	O O O O
+배송받으셨던 경기도 안양시 동안구 합정동 이하 주소 확인해 주시겠습니까?	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+아 네 확인해 주셔서 감사합니다.	O O O O O
+그러면 택배 기사가 방문해서 수거할 예정인데요	O O O O O O
+네 배송 받으셨던 서울 강서구 중부대로 에서 진행을 해드리면 될까요?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+확인해 주셔서 감사합니다.	O O O
+수거할 주소는 배송받으셨던 경기 하남시 달서구 외릉로 5번길 74입니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I
+감사합니다.	O
+롯데홈쇼핑 강민하였습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+현대홈쇼핑 강지하입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인해 주셔서 감사합니다.	O O O O
+상품 수거할 주소가 강원도 강릉시 노원동2가 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+롯데쇼핑 박서경이었습니다.	SS_BRAND-B SS_NAME-B
+네, 기다려 주셔서 감사합니다.	O O O O
+회수할 주소가 서울 성동구 근남면 구산리 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 김소원이었습니다.	O SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+농산물홈쇼핑 서해하입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 감사합니다.	O O
+현대홈쇼핑 황예원이었습니다.	SS_BRAND-B SS_NAME-B
+네 확인 감사합니다.	O O O
+저희 제품 회수할 주소지는 제품 수령하셨던 인천 서구 신암1동 589 번지 맞습니까?	O O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+감사합니다.	O
+저는 서동준이었습니다.	O SS_NAME-B
+확인해 주셔서 감사합니다.	O O O
+회수되는 주소가 경기 의왕시 이하 주소 확인 부탁드립니다.	O O O O O O O O
+지금까지 홈앤쇼핑 송사연이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+주문 정보 확인 감사합니다.	O O O O
+임요태님이신가요?	SS_NAME-B
+아 박보서님 반갑습니다.	O SS_NAME-B O
+어 옷이라고 하셨어요?	O O O
+네 확인 감사합니다.	O O O
+반품 처리 도움 드리겠습니다.	O O O O
+상품 회수는 경북 상주 대동면에서 할까요?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네 반품되었습니다.	O O
+심하연이었습니다.	SS_NAME-B
+감사합니다.	O
+김채미였습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+받으셨던 주소가 인천 남동구 십정1동 394 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품이 되었습니다.	O O O
+나지원이었습니다.	SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+저는 홍하은이었습니다.	O SS_NAME-B
+네, 장기석고객님되시구요.	O SS_NAME-B
+반품하시고자 하는 상품명 말씀 부탁드립니다.	O O O O O
+안녕하십니까?	O
+공영홈쇼핑 김하미입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+아, 그러십니까?	O O
+그러시면 회수할 주소지는 배송받으셨던 서울시 구로구 384 번지 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+공영홈쇼핑 마예숙이었습니다.	SS_BRAND-B SS_NAME-B
+네, 반품 처리되었습니다.	O O O
+이은경이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 접수 되었습니다.	O O O
+이성우였습니다.	SS_NAME-B
+안녕하십니까?	O
+공영홈쇼핑 김도경입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인해 주셔서 감사합니다.	O O O O
+배송받았던 주소지 경기 평택시 압량면 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+롯데쇼핑 남하연이었습니다.	SS_BRAND-B SS_NAME-B
+감사합니다.	O
+저는 한유석이었습니다.	O SS_NAME-B
+네 확인해 주셔서 감사합니다.	O O O O
+배송지는 경기 안산시 단원구 금천면 월산리 오방로 쌍용아진3차단지 아파트 이하 주소 확인 부탁 드리겠습니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O O O
+네, 반품 처리되었습니다.	O O O
+김동건이었습니다.	SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+공영홈쇼핑 권유하입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인 감사 드립니다.	O O O O
+회수할 주소는 대구 광역시 달서구 위례광장로 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+롯데홈쇼핑 김희찬이었습니다.	SS_BRAND-B SS_NAME-B
+공영홈쇼핑입니다.	SS_BRAND-B
+무엇을 도와드릴까요?	O O
+반품 접수해 드렸습니다.	O O O
+엔에스홈쇼핑 이유은이었습니다.	SS_BRAND-B SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+전지연이었습니다.	SS_NAME-B
+상품 회수 주소 확인 도와드릴텐데요.	O O O O O
+대전 서구 주중로 26번길 이하 주소 말씀 부탁드립니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 처리 되었습니다.	O O O
+저는 상담사 유승민이었습니다.	O O SS_NAME-B
+감사합니다.	O
+상담사 문건욱이었습니다.	O SS_NAME-B
+네 확인 감사합니다.	O O O
+상품 수거할 주소 충남 아산시 전원1길 이하 주소 확인 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 처리되었습니다.	O O
+엔에스홈쇼핑 윤도원이었습니다.	SS_BRAND-B SS_NAME-B
+네 확인 감사합니다.	O O O
+수거는 고객님께서 배송 받으셨던 화성시 효자3동 760 으로 진행을 해드릴까요?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O
+네, 확인 감사합니다.	O O O
+반품으로 도와드리겠습니다.	O O
+수거할 주소는 경남 함안군 서화면 천도로81번길 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+김지욱이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+수거할 주소가 광주 광산구 대정읍 516로 183번길 56 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+오성석이었습니다.	SS_NAME-B
+감사합니다.	O
+네 확인 감사합니다.	O O O
+배송 받으셨던 주소지 서울 관악구 명동7길 이하 주소 확인 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 접수 되었습니다.	O O O
+롯데쇼핑 서상연이었습니다.	SS_BRAND-B SS_NAME-B
+네 확인해 주셔서 감사합니다.	O O O O
+네 처리 도와드리겠습니다.	O O O
+회수는 울산 중구 연수동 이하 주소 확인 부탁 드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 엔에스홈쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 확인해 주셔서 감사합니다.	O O O O
+교환 주소는 배송 받으셨던 경기도 부천시 철산2동 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+반품 접수 완료되었습니다.	O O O
+늘 최선을 다하겠습니다.	O O O
+이지우였습니다	SS_NAME-B
+네 기다려주셔서 감사합니다	O O O
+회수지는 서울 은평구 대덕대로 전포대로216번길 이하 주소 말씀 부탁 드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 감사합니다.	O O
+상담사 이병옥이었습니다.	O SS_NAME-B
+네 확인 감사합니다.	O O O
+상품 수거할 주소 부산 사상구 석정동 이하 주소 말씀 부탁 드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+감사합니다.	O
+저는 강재민이었습니다.	O SS_NAME-B
+회수하는 주소가 대구 북구 고산자로54길 확인됩니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+이하 주소 말씀 부탁 드립니다.	O O O O O
+네 접수 되었습니다.	O O O
+이성민이었습니다.	SS_NAME-B
+네 감사합니다.	O O
+저는 권서연이고요.	O SS_NAME-B
+네 확인해 주셔서 감사합니다.	O O O O
+지금 그러면 반품 접수 도움 드릴 텐데 회수는 광주 광역시 남구 독산3동 이하 주소 확인 부탁 드리겠습니다.	O O O O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 반품 처리되었습니다.	O O O
+저는 한상헌이었습니다.	O SS_NAME-B
+그러십니까?	O
+기존 수령하셨던 주소 경기 구리시 용상동 이하 주소 확인 부탁 드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+환불 계좌 번호 등록하겠습니다.	O O O O
+이전에 등록하신게 카카오 뱅크 맞습니까?	O O SS_BRAND-B SS_BRAND-I O
+감사합니다.	O
+정태진이었습니다.	SS_NAME-B
+반품 접수되었습니다.	O O
+엔에스홈쇼핑 이찬원이었습니다.	SS_BRAND-B SS_NAME-B
+감사합니다.	O
+기업 은행이요.	SS_BRAND-B SS_BRAND-I
+아 잠시만요 다른 은행도 상관은 없나요?	O O O O O O
+네, 반품 처리되었습니다.	O O O
+강승권이었습니다.	SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+저는 송병원이었습니다.	O SS_NAME-B
+네 소중한 정보 확인 감사합니다.	O O O O O
+고객님 지에스홈쇼핑에 주문한 거 맞습니까?	O SS_BRAND-B O O O
+네 반품 처리되었습니다.	O O O
+저는 김준현이었습니다.	O SS_NAME-B
+네 씨제이오쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 기다려 주셔서 감사합니다.	O O O O
+회수는 부산 휴천2동 이하 주소 확인 부탁 드립니다.	O O O O O O O O
+네 반품 처리되었습니다.	O O O
+저는 박승윤이었습니다.	O SS_NAME-B
+네, 반품 도와드렸습니다.	O O O
+류주하였습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+배송 받으셨던 주소가 서울 관악구 근화동 천혜로5길 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+김하은이었습니다.	SS_NAME-B
+감사합니다.	O
+확인 감사합니다.	O O
+고객님 상품 회수할 주소가 서울 송파구 은천동 롯데캐슬피렌체아파트 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+감사합니다.	O
+황윤은이었습니다.	SS_NAME-B
+농협이구요.	SS_BRAND-B
+936 399267 01 842.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+상품 수거지 확인하겠습니다.	O O O
+경북 의성군 생초면 월곡리 발산로 678번길 54 몇 번지세요?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O
+안녕하십니까?	O
+천성윤고객님 맞으신가요?	SS_NAME-B O
+고객님 반품 접수 완료되었습니다.	O O O O
+감사합니다.	O
+이동민이었습니다.	SS_NAME-B
+네, 주소 확인하겠습니다.	O O O
+서울시 서대문구 파장동 신천대로 65번길 이하 주소 말씀 부탁드립니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+예, 늘 최선을 다 하겠습니다.	O O O O O
+김영숙이었습니다.	SS_NAME-B
+기다려 주셔서 감사합니다.	O O O
+회수는 강원 속초시 용산구 석촌동 망양로 329번길 중산마을12단지아파트 이하 주소 말씀 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+예, 알겠습니다.	O O
+임규식이었습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+수거할 주소는 기존에 받으셨던 서울 성북구 석촌동 와룡로 45길 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+김가경이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다.	O O O
+곽지한이었습니다.	SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+지에스홈쇼핑 김미정입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인 감사합니다.	O O O
+처리 도와드리겠습니다.	O O
+회수는 경기도 하남시 지행동 맞습니까?	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+지에스홈쇼핑 최지영이었습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+엔에스홈쇼핑 추이경입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+예, 그럼 반품으로 도와드리겠습니다.	O O O O
+주소지는 충남 천안시 동남구 643번지 코오롱동신아파트 동일합니까?	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네, 감사합니다.	O O
+씨제이오쇼핑 마하연이었습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+현대홈쇼핑 윤소원입니다.	O SS_BRAND-B
+무엇을 도와드릴까요?	SS_NAME-B O
+네, 확인 감사합니다.	O O O
+안타깝지만 반품 처리하겠습니다.	O O O
+주소 확인해 드리겠습니다.	O O O
+경북 경주시 상장동 우림라이온스밸리2차맨션 맞습니까?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네, 감사합니다.	O O
+지에스홈쇼핑 안수진이었습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+씨제이오쇼핑 권지나입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 감사합니다.	O O
+씨제이오쇼핑 최나원이었습니다.	SS_BRAND-B SS_NAME-B
+네, 상품 받으셨던 주소 확인하겠습니다.	O O O O O
+대구 북구 득량동 송림8길 우방1차 아파트 몇 동 몇 호입니까?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O O
+안녕하십니까?	O
+홈앤쇼핑 신동주입니다.	SS_BRAND-B SS_NAME-B
+네, 확인 감사합니다.	O O O
+상품 수거는 배송받으셨던 경기도 하남시 서구 성정2동맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I
+네, 감사합니다.	O O
+홈앤쇼핑 황민현이었습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+엔에스쇼핑 김다미입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인해 주셔서 감사합니다.	O O O O
+회수는 경기 부천시 황성동 맞습니까?	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+엔에스쇼핑 유휘준이었습니다.	SS_BRAND-B SS_NAME-B
+반갑습니다.	O
+엔에스홈쇼핑입니다.	SS_BRAND-B
+네 감사합니다.	O O
+저는 상담사 최유원이었습니다.	O O SS_NAME-B
+안녕하십니까?	O
+현대홈쇼핑 김주원입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 반품 처리 도와드리겠습니다.	O O O O
+수거 주소지는 고객님께서 배송받으셨던 경기 파주시 하안1동으로 진행을 해드릴까요?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O
+네, 감사합니다.	O O
+홈앤쇼핑 이준석이었습니다.	SS_BRAND-B SS_NAME-B
+안녕하십니까?	O
+현대홈쇼핑 강예경입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+기다려주셔서 감사합니다.	O O
+회수 주소지는 경기 의정부시 거제면 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+농산물홈쇼핑 최승한이었습니다.	SS_BRAND-B SS_NAME-B
+반품 접수되었습니다.	O O
+허지연이었습니다.	SS_NAME-B
+안녕하십니까?	O
+현대홈쇼핑 김하원입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+확인해 주셔서 감사합니다.	O O O
+배송받으셨던 주소가 경기 안산시 서호동 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+공영홈쇼핑 백지연이었습니다.	SS_BRAND-B SS_NAME-B
+네, 이규관이었습니다.	O SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+씨제이오쇼핑 김세지입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 확인해 주셔서 감사합니다.	O O O O
+회수 주소지는 충북 청주시 청원구 에덴동산아파트 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네, 감사합니다.	O O
+홈앤쇼핑 신다영이었습니다.	SS_BRAND-B SS_NAME-B
+받으셨던 주소 확인하겠습니다.	O O O
+인천 동구 서봉로 이하 주소 말씀하시겠습니까?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O
+네 반품 접수되었습니다.	O O O
+최병찬이었습니다.	SS_NAME-B
+네, 반품 처리되었습니다.	O O O
+심원준이었습니다.	SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+홈앤쇼핑 오수미입니다.	SS_BRAND-B SS_NAME-B
+소중한 정보 확인 감사합니다.	O O O O
+임수하 고객님 반갑습니다.	SS_NAME-B O O
+상품명 확인 부탁드립니다.	O O O
+기다려주셔서 감사합니다.	O O
+회수 주소지는 충북 충주시 문화1동 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+롯데홈쇼핑 강효선이었습니다.	SS_BRAND-B SS_NAME-B
+반품 처리되었습니다.	O O
+최조균이었습니다.	SS_NAME-B
+예 알겠습니다.	O O
+네 고객님 받으셨던 주소 좀 확인하겠습니다	O O O O O O
+부평구 번2동 이하 주소 말씀하시겠습니까?	AD_ADDRESS-B AD_ADDRESS-I O O O
+네 감사합니다.	O O
+은예은이었습니다.	SS_NAME-B
+안녕하십니까?	O
+롯데홈쇼핑 최새연입니다.	SS_BRAND-B SS_NAME-B
+네, 확인 감사합니다.	O O O
+수거 주소지는 고객님 배송받으셨던 충북 음성 이원면으로 진행을 해드릴까요?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O
+네, 감사합니다.	O O
+지에스홈쇼핑 김현석이었습니다.	SS_BRAND-B SS_NAME-B
+홈앤쇼핑입니다.	SS_BRAND-B
+네 고객님 무엇을 도와드릴까요?	O O O O
+감사합니다.	O
+회수할 주소는 경남 사천시 송악읍 은빛마을11단지 아파트 동 호수도 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O
+반품 처리되었습니다.	O O
+이예하였습니다.	SS_NAME-B
+안녕하십니까?	O
+씨제이오쇼핑 이유은입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 감사합니다.	O O
+홈앤쇼핑 강하연이었습니다.	SS_BRAND-B SS_NAME-B
+감사합니다.	O
+박희번이었습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+회수 받을 주소가 경북 김천시 의창구 태복산로31번길 84 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+김수연이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+수거할 주소가 경기 부천시 권선구 권선동 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 접수되었습니다.	O O O
+윤이상이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+회수할 주소는 강원 속초시 완산구 백제대로 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+이예연이었습니다.	SS_NAME-B
+감사합니다.	O
+노지하이고요.	SS_NAME-B
+전화 번호는 016 027 1014입니다.	O O ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네, 반품 처리되었습니다.	O O O
+정수인이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다.	O O O
+신세연이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 기다려 주셔서 감사합니다.	O O O O
+회수는 경기도 하남시 ㅇㅇㅇ ㅇㅇㅇㅇ ㅇㅇㅇㅇ아파트 이하 주소 말씀 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+네, 반품 처리되었습니다.	O O O
+손해윤이었습니다.	SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+네 문지석이었습니다.	O SS_NAME-B
+네 감사합니다.	O O
+저는 박연숙이었습니다.	O SS_NAME-B
+CJ오쇼핑입니다.	SS_BRAND-B
+네 고객님 무엇을 도와드릴까요?	O O O O
+네 반품 처리되었습니다.	O O O
+저는 문관성이었습니다.	O SS_NAME-B
+고객님 수거지는 서울 도봉구 학산로7번길 확인됩니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+고객님 몇번지입니까?	O O
+네, 반품 접수되었습니다.	O O O
+김대완이었습니다.	SS_NAME-B
+감사합니다.	O
+반품 처리 도움 드리도록 하겠습니다.	O O O O O
+상품 수거할 주소가 배송 받으셨던 경상남도 창원시 소룡동 1580 맞습니까?	O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+접수 되었습니다.	O O
+김세원이었습니다.	SS_NAME-B
+기다려 주셔서 감사합니다.	O O O
+회수는 경기 성남시 분당구 동탄지성로 이하 주소 확인 부탁 드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 반품 처리되었습니다.	O O O
+저는 박시하였습니다.	O SS_NAME-B
+아 사이즈가 안 맞으셨어요?	O O O O
+알겠습니다.	O
+고객님 상품 저희가 회수할 주소는 고객님께서 배송 받으셨던 대구 동구 당감3동 산50 맞으십니까?	O O O O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+아 그렇습니까?	O O
+그러면 반품하시는 분은 심소연고객님 본인이실까요?	O O O SS_NAME-B O
+네 처리 완료되었습니다.	O O O
+저는 김경섭이었습니다.	O SS_NAME-B
+GS홈쇼핑입니다.	SS_BRAND-B
+네 고객님 무엇을 도와드릴까요?	O O O O
+네 확인해 주셔서 감사합니다.	O O O O
+그러면 지금 회수는 지금 광주 광산구 신길7동 이하 주소 확인 부탁 드리겠습니다.	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+반품 처리되었습니다.	O O
+박주안이었습니다.	SS_NAME-B
+네 지에스홈쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 소중한 정보 확인 감사합니다.	O O O O O
+문채윤고객님 반갑습니다.	SS_NAME-B O
+문의하시는 상품 확인 부탁 드립니다.	O O O O O
+네 기다려주셔서 감사합니다.	O O O
+회수는 울산 북구 효자동1가 이하 주소 확인 부탁 드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 고객님 삼십사 사이즈 반품 처리되었습니다.	O O O O O O
+저는 한성준이었습니다.	O SS_NAME-B
+네 확인해 주셔서 감사합니다.	O O O O
+고객님 4626호로 회수 도와드리겠습니다.	O AD_DETAIL-B O O
+다시 한번 말씀 드리겠습니다.	O O O O
+656305 48 290504 맞습니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+네 반품 처리되었습니다.	O O O
+저는 임초연이었습니다.	O SS_NAME-B
+주소지 확인해 보겠습니다.	O O O
+택배 받으신 서울 광진구 우1동 1414 이하 주소 확인 부탁 드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+감사합니다.	O
+저는 김보원이었습니다.	O SS_NAME-B
+네, 확인 감사합니다.	O O O
+회수할 주소가 배송 받으셨던 경북 상주시 진량읍 금박로 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 고태연이었습니다.	O SS_NAME-B
+감사합니다.	O
+네 NS홈쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네, 기다려 주셔서 감사합니다.	O O O O
+회수할 주소는 배송 받으셨던 강원 춘천시 법원읍 대능2리 이하 주소 말씀 부탁드립니다.	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 반품 접수되었습니다.	O O O
+최상욱이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다.	O O O
+배주완이었습니다.	SS_NAME-B
+감사합니다.	O
+예 감사합니다	O O
+회수할 주소지가 광주 광산구 항호2길 36 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+예 안내 드려보겠습니다.	O O O
+887 30 22552 2맞습니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+네 일단 알겠습니다.	O O O
+김영연이었습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+회수할 주소는 경기 김포시 밀머리로 1번길 56 이하 주소 말씀 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 반품 처리되었습니다.	O O O
+이예진이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+양하은고객님 맞습니까?	O SS_NAME-B
+네, 반품 처리되었습니다.	O O O
+김병균이었습니다.	SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+저는 윤다린이었습니다.	O SS_NAME-B
+네, 알겠습니다.	O O
+회수할 주소는 경북 안동시 금촌1동 10 이하 주소 확인 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 유성운이었습니다.	O SS_NAME-B
+감사합니다.	O
+네 소중한 정보 확인 감사합니다.	O O O O O
+강예양고객님 반갑습니다.	SS_NAME-B O
+고객님 상품이 어느 상품이신가요?	O O O O
+네 알겠습니다.	O O
+그러면 수거할 주소는 배송 받으셨던 서울 서초구 주안2동 1450 아파트 몇 동 몇 호입니까?	O O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O O
+감사합니다.	O
+저는 ㅇㅇㅇ이었습니다.	O SS_NAME-B
+확인 감사합니다.	O O
+회수할 주소지는 배송받으셨던 서울 광진구 충장로3길 56 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+지금까지 NS홈쇼핑 정은진이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+지금까지 NS홈쇼핑 김세한이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+지금까지 공영홈쇼핑 유승찬이었습니다.	O SS_BRAND-B SS_NAME-B
+감사합니다.	O
+너무 죄송합니다.	O O
+반품 접수하겠습니다.	O O
+회수하는 주소가 전남 장흥군 춘양면 확인됩니다	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+더 좋은 상품으로 찾아뵙겠습니다.	O O O O
+이무원이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다. ㅇㅇㅇ	O O O SS_NAME-B
+이었습니다. 감사합니다.	O
+네. 확인해 주셔서 감사합니다.	O O O O
+처리 도움 드리겠습니다.	O O O
+상품 회수 주소는 서울 강서구 백옥대로 64 52길 광평푸르지오 2차아파트입니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I
+네. 반품 처리되었습니다.	O O O
+정규윤이었습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+수거할 주소지는 배송 받으셨던 경기 남양주시 곤지암읍 하열미길	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I
+네, 반품 처리되었습니다.	O O O
+조유민이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다.	O O O
+신주원이었습니다.	SS_NAME-B
+감사합니다.	O
+감사합니다.	O
+저는 정하연이었습니다.	O SS_NAME-B
+네. 송소애고객님 소중한 정보 확인 감사합니다.	O SS_NAME-B O O O O
+반품하시는 상품이 어떤 건가요?	O O O O
+네 확인해주셔서 감사합니다.	O O O
+배송받으셨던 주소 강원도 교원동 무학자이아파트 이하 주소 확인 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_DETAIL-B O O O O
+네 확인해드리겠습니다.	O O
+우체국 166653 10 410810 맞습니까?	SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+감사합니다.	O
+이유하였습니다.	SS_NAME-B
+확인 감사합니다.	O O
+회수는 경북 문경시 세교동 436 이하 나머지 주소 확인 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+감사합니다.	O
+저는 조유은이었습니다.	O SS_NAME-B
+확인해 주셔서 감사합니다.	O O O
+김승은고객님 반갑습니다.	SS_NAME-B O
+반품 접수 되었습니다.	O O O
+신다원이었습니다.	SS_NAME-B
+예 반품 처리되었습니다.	O O O
+변도연이었습니다.	SS_NAME-B
+네 씨제이오쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 반품 처리 되었습니다.	O O O O
+저는 이성준이었습니다.	O SS_NAME-B
+네 감사합니다.	O O
+저는 한희용이었습니다.	O SS_NAME-B
+네, 확인 감사합니다.	O O O
+상품 수거할 주소 경기도 화성시 만안구 태평로 이하 주소 확인 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 고객님 기다려 주셔서 감사합니다.	O O O O O
+회수는 배송 받으셨던 제주시 한경면 신정로 동양아파트 몇 동 몇 호십니까	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+네, 확인 감사합니다.	O O O
+회수할 주소가 경기 수원시 권선구 흥선로 168번길 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+윤성석이었습니다.	SS_NAME-B
+감사합니다.	O
+예, 기다려 주셔서 감사합니다.	O O O O
+회수할 주소는 경북 구미시 오량동 증산로 나머지 주소 확인 부탁드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+네, 반품 처리되었습니다.	O O O
+오소원이었습니다.	SS_NAME-B
+감사합니다.	O
+확인 감사합니다.	O O
+안타깝지만 바로 반품 접수 도와드리겠습니다.	O O O O O
+배송 받으신 주소 부산시 남구 북촌로 확인되는데 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O
+네, 확인 감사합니다.	O O O
+회수지는 수원시 장안구 이하 주소 확인 부탁드립니다.	O O O O O O O
+네, 확인 감사합니다.	O O O
+인수자분은 신승비고객님 본인 맞습니까?	O SS_NAME-B O O
+네, 반품 처리되었습니다.	O O O
+정이운이었습니다.	SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+지에스홈쇼핑 이기하입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+기다려주셔서 감사합니다.	O O
+수거할 주소는 배송받으셨던 서울 동대문구 쪽구름2길 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 감사합니다.	O O
+현대홈쇼핑 강전하였습니다.	SS_BRAND-B SS_NAME-B
+현대홈쇼핑입니다.	SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 고객님 감사합니다.	O O O
+저는 최예원이었습니다.	O SS_NAME-B
+네 확인 감사합니다.	O O O
+상품 회수하실 주소는 대전 서구 야음동 장안초원 아파트 몇 동 몇 호입니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O O
+네 감사합니다.	O O
+저는 김영청이었습니다.	O SS_NAME-B
+네, 확인해 주셔서 감사합니다.	O O O O
+반품하실 주소 경기도 고양시 이하 주소 확인 부탁드립니다.	O O O O O O O O
+공영홈쇼핑 김태하입니다.	SS_BRAND-B SS_NAME-B
+고객님 무엇을 도와드릴까요?	O O O
+반품 처리되었습니다.	O O
+김성당이었습니다.	SS_NAME-B
+고객님 안타깝지만 반품으로 도와 드리겠습니다.	O O O O O
+배송지가 울산 북산면 청평1리 맞습니까?	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+반품 처리되었습니다.	O O
+상담사 한효연이었습니다.	O SS_NAME-B
+네, 확인 감사합니다.	O O O
+배송 받으셨던 주소가 대구 서구 황금1동 965 선우4차아파트 이하 주소 말씀 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+네, 늘 최선을 다 하겠습니다.	O O O O O
+김채원이었습니다.	SS_NAME-B
+감사합니다.	O
+처리 도와드리겠습니다.	O O
+회수는 배송 받으셨던 서울 강동구 송월동 이하 주소 확인 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 처리되었습니다.	O O
+지미연이었습니다.	SS_NAME-B
+네, 확인 감사합니다.	O O O
+회수할 주소는 강원도 원주시 서동로16길 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 이미영이었습니다.	SS_NAME-B O
+감사합니다.	O
+반품 처리되었습니다.	O O
+늘 최선을 다 하겠습니다.	O O O O
+공수원이었습니다.	SS_NAME-B
+반품 접수되었습니다.	O O
+이재준이었습니다.	SS_NAME-B
+그러셨군요.	O
+확인해 주셔서 감사합니다.	O O O
+배송 받으셨던 주소는 서울시 마포구 남부순환로267나길 84 동일하이빌 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+반품 처리되었습니다.	O O
+늘 함께 하겠습니다.	O O O
+김호영이었습니다.	SS_NAME-B
+늘 최선을 다 하겠습니다.	O O O O
+남채연이었습니다.	SS_NAME-B
+감사합니다.	O
+확인해 주셔서 감사합니다.	O O O
+회수할 주소는 배송 받으셨던 인천 서구 삼성1동 이하 주소 확인 부탁드립니다.	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+늘 최선을 다 하겠습니다.	O O O O
+신찬욱이었습니다.	SS_NAME-B
+감사합니다.	O
+다시 한번 확인해 드리겠습니다.	O O O O
+국민 은행 397121 29 33756 맞습니까?	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+더 좋은 상품으로 찾아뵙겠습니다.	O O O O
+문유연이었습니다.	SS_NAME-B
+감사합니다.	O
+반품 처리되었습니다.	O O
+늘 최선을 다하겠습니다.	O O O
+서태한이었습니다.	SS_NAME-B
+지금 바로 반품 접수 도와드리겠습니다.	O O O O O
+배송 받으신 주소가 서울시 영등포구 양평동5가 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+다시 한번 확인하겠습니다.	O O O
+116 687 7985 맞습니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+늘 최선을 다 하겠습니다.	O O O O
+정보령이었습니다.	SS_NAME-B
+늘 최선을 다 하겠습니다.	O O O O
+이병권이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 반품 처리되었습니다.	O O O
+김서연이었습니다.	SS_NAME-B
+감사합니다.	O
+네, 엄서연이었습니다.	O SS_NAME-B
+감사합니다.	O
+네 홈앤쇼핑쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 확인해 주셔서 감사합니다.	O O O O
+반품하실 주소는 배송받으셨던 경남 김해시 미양면 이하 주소 확인 부탁 드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O
+네 감사합니다.	O O
+저는 정나연이었습니다.	O SS_NAME-B
+네 반품 처리되었습니다.	O O O
+저는 윤보라였습니다.	O SS_NAME-B
+네 씨제이오쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 감사합니다.	O O
+저는 안주란이었습니다.	O O
+확인 감사합니다.	O O
+안타깝지만 바로 반품 접수 도와드리겠습니다.	O O O O O
+배송받으신 주소가 강원도 횡성군으로 확인됩니다.	O O AD_ADDRESS-B AD_ADDRESS-I O
+이하 주소 말씀해 주십시오.	O O O O
+반품 접수되었습니다.	O O
+감사합니다.	O
+한주은이었습니다.	O
+상품 금액 육만 구천원이구요.	O O O O
+배송 받을 주소지는 서울 은평구 팔야산단로 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네 현대홈쇼핑입니다.	O SS_BRAND-B
+무엇을 도와 드릴까요?	O O O
+네 감사합니다.	O O
+저는 엄주연이었습니다.	O SS_NAME-B
+네 저는 김하정이었습니다.	O O O
+감사합니다.	SS_NAME-B
+주소 확인해 보겠습니다.	O O O
+인천 서구 동래구 명장로 47번길 삼환아파트 몇 동 몇 호입니까?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O
+반품 접수 완료되었습니다.	O O O
+현대홈쇼핑 김지현이었습니다.	SS_BRAND-B SS_NAME-B
+네 반품 처리 되었습니다.	O O O O
+저는 임서민이었습니다.	O SS_NAME-B
+네, 권지원이었습니다.	O SS_NAME-B
+감사합니다.	O
+네, 확인 감사합니다.	O O O
+회수할 주소는 울산 동구 연산4동 교보생명빌딩 맞습니까?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O
+네, 반품 처리되었습니다.	O O O
+유현승이었습니다.	SS_NAME-B
+감사합니다.	O
+고객님 확인 감사합니다.	O O O
+상품 회수는 경남 창원시 진해구 독정이로99번길에서 진행할까요?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+감사합니다.	O
+엔에스홈쇼핑 김경한입니다.	SS_BRAND-B SS_NAME-B
+네, 확인 감사합니다.	O O O
+배송 받으셨던 주소가 인천 계양구 목천읍 맞습니까?	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+네, 반품 처리되었습니다.	O O O
+홍나연이었습니다.	SS_NAME-B
+감사합니다.	O
+네 확인 감사합니다.	O O O
+배송 받으셨던 서울 특별시 성동구 금호산2길 17 삼익2차 아파트 몇 동 몇 호이신가요?	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I O O O O
+감사합니다.	O
+홍재아였습니다.	SS_NAME-B
+저희가 회수 접수해드리겠습니다.	O O O
+회수할 주소는 배송받으셨던 대전 동구 문화북4길 32 주공아파트 이하 주소 다시 한번 확인 부탁드립니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O O O O
+감사합니다.	O
+롯데홈쇼핑 구미지입니다.	SS_BRAND-B SS_NAME-B
+네, 확인해 주셔서 감사합니다.	O O O O
+주소는 부산 서구 득량동 다음 주소 확인 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+GS홈쇼핑 정유선입니다.	SS_BRAND-B SS_NAME-B
+고객님 무엇을 도와드릴까요?	O O O
+반품 처리되었습니다.	O O
+배미주였습니다.	SS_NAME-B
+감사합니다.	O
+안녕하십니까?	O
+엔에스홈쇼핑 김성도입니다.	SS_BRAND-B SS_NAME-B
+무엇을 도와드릴까요?	O O
+네, 잘못 표기되어 있더라고요.	O O O O
+김주하에요.	SS_NAME-B
+아, 그러십니까?	O O
+이호주로 잘못 등록이 되어있는데 바로 변경하겠습니다.	SS_NAME-B O O O O O
+회수지 주소 확인하겠습니다.	O O O
+대구 중구 계백로 1630번길로 해드리면 되겠습니까?	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O
+네, 감사합니다.	O O
+CJ오쇼핑 길다미였습니다.	SS_BRAND-B SS_NAME-B
+네 맞아요.	O O
+계좌 번호는 239 341 643387.	O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
+확인해 주셔서 감사합니다.	O O O
+배송 받으셨던 주소가 대전 서구 소펄길로 되어 있습니다.	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O
+나머지 이하 주소 확인 부탁 드립니다.	O O O O O O
+예 감사합니다.	O O
+강남연이었습니다.	SS_NAME-B
+GS홈쇼핑입니다.	SS_BRAND-B
+고객님 무엇을 도와드릴까요?	O O O
+기다려주셔서 감사합니다.	O O
+회수는 서울시 중량구 삼양로 59길 이하 주소 확인 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 처리되었습니다.	O O
+엔에스홈쇼핑 윤승운이었습니다.	SS_BRAND-B SS_NAME-B
+감사합니다.	O
+네 알겠습니다.	O O
+고객님 주소 확인하겠습니다.	O O O
+주소가 서울 동대문구 용산동 2가 이하 주소 말씀 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+반품 처리되었습니다.	O O
+장용주였습니다.	SS_NAME-B
+감사합니다.	O
+이수지구요.	SS_NAME-B
+010 0619 3396요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+배송 받으셨던 주소지 먼저 확인하겠습니다.	O O O O O
+경기 안양시 만안구 태평2동 346 이하 주소 확인 부탁드립니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+우리은행이구요.	SS_BRAND-B
+068 099017 10 580요.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+고객님 다시 한 번 확인하겠습니다.	O O O O O
+우리은행, 671 024221 64 633.	SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+감사합니다.	O
+백지은이었습니다.	SS_NAME-B
+지에스홈쇼핑입니다.	SS_BRAND-B
+무엇을 도와드릴까요?	O O
+네 확인해 주셔서 감사합니다	O O O O
+고객님 회수는 서울 동작구 온천장로 125번안길 이하 주소 확인 부탁 드립니다.	O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O O
+아닙니다.	O
+저는 상담사 김승진이었습니다.	O O SS_NAME-B
+네, 확인해 주셔서 감사합니다.	O O O O
+회수는 경기 시흥시 신북읍 천전리 이하 주소 말씀 부탁드립니다.	O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O O O O
+감사합니다.	O
+저는 지에스홈쇼핑 한동우였습니다.	O SS_BRAND-B SS_NAME-B
+반품으로 접수되었습니다.	O O
+권미나였습니다.	SS_NAME-B
+배송 받으신 주소 확인하겠습니다.	O O O O
+경기도 수원시 영통구 구성1길로 확인됩니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I O
+이하 주소 말씀 부탁드리겠습니다.	O O O O
+우리은행이고요.	SS_BRAND-B
+계좌 번호 잠깐만 기다려주세요.	O O O O
+네, 다시 한 번 확인하겠습니다.	O O O O O
+우리은행 388 044226 65 388 맞습니까?	SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+기다려 주셔서 감사합니다.	O O O
+제품 회수는 배송 받으셨던 경기도 부천시 안양7동 맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O
+반품 처리되었습니다.	O O
+장윤하였습니다.	SS_NAME-B
+반품 처리되었습니다.	O O
+박경규였습니다.	SS_NAME-B
+확인해 주셔서 감사합니다.	O O O
+수거할 주소가 배송 받으셨던 서울 영등포구 효창원로 8길 64맞습니까?	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I
+늘 최선을 다 하겠습니다.	O O O O
+윤시경이었습니다.	SS_NAME-B
+확인해 주셔서 감사합니다.	O O O
+회수 주소는 배송 받으셨던 대구 북구 만촌3동 이하 주소 말씀 부탁드립니다.	O O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O
+롯데 카드, 1124 3220 3342 0414 이에요.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+이 카드로 결제해 주세요.	O O O O
+롯데 카드구요.	SS_BRAND-B SS_BRAND-I
+1111 0024 4440 1411요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네, 카드번호 재확인 도와드리겠습니다.	O O O O
+0312 4443 3111 0243맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네. ㅇㅇㅇ 고객님 카드 번호 확인 하겠습니다.	O SS_NAME-B O O O O O
+4141 4330 0004 4313맞으십니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 번호 불러드릴게요.	O O O
+국민 카드고, 2414 1414 2020 3031입니다.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네, 4233 2232 2103 2313입니다.	O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+근데 삼성카드 되나요?	O SS_BRAND-B O
+현대카드구요.	SS_BRAND-B
+4041 3340 0410 4442.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+0142 2012 4111 3300 맞으시지요?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+결제 카드 유효 기간 확인 부탁드립니다.	O O O O O O
+신한카드이구요	SS_BRAND-B
+1142 3011 0012 1310	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 신한카드구요.	O SS_BRAND-B
+1432 1313 3021 4322.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+예, 카드 번호 확인하겠습니다.	O O O O
+삼성카드 1102 3302 2232 3321 맞습니까?	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+다시 확인하겠습니다.	O O
+말씀해 주신 카드 번호 3110 4104 2340 4232 맞습니까?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+국민 카드구요.	SS_BRAND-B SS_BRAND-I
+4032 2401 2421 3232	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 카드 번호 확인하겠습니다.	O O O O
+신한카드 4404 3413 2412 0414 맞습니까?	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+다시 한번 더 확인해 드리겠습니다.	O O O O O
+카드 번호 4013 4324 2201 1302 맞습니까?	O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+다시 한번 확인 하겠습니다.	O O O O
+농협 카드 3424 3344 2333 0321 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+다시 한번 확인 하겠습니다.	O O O O
+비씨 카드 0021 3020 1222 1300 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+농협 카드구요.	SS_BRAND-B SS_BRAND-I
+3320 4002 0032 0243입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+3001 0001 4123 0042번으로 확인되셨습니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+카드유효기간 확인 부탁 드립니다.	O O O O
+국민 카드 시구요.	SS_BRAND-B SS_BRAND-I O
+2111 1313 1131 4430 맞으세요?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+전체 확인하겠습니다.	O O
+말씀해 주신 카드 번호 1122 3120 2433 0323 맞습니까?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+다시 한 번 확인해드리겠습니다	O O O O
+삼성카드 2203 4414 1100 2333 맞습니까?	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+삼성 카드구요.	SS_BRAND-B SS_BRAND-I
+3141 3221 4233 2431이요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 번호 다시 한번 확인 하겠습니다.	O O O O O O
+비씨 카드 2341 0024 2140 4131 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+네 다시 한번 확인하겠습니다.	O O O O
+롯데 카드 0213 3040 0414 4421 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+네, 3044 0421 4100 1003이구요.	O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+유효기간은 4424입니다.	O O
+1334 3210 4124 2403입니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+제가 방금 전에도 동일하게 입력을 했는데 카드 번호가 정확치않다	O O O O O O O O O
+라고 나와서 등록이 안 되는데요.	O O O O O
+지금 카드를 보고 계신게 맞습니까?	O O O O
+네, 카드번호 다시 확인하겠습니다.	O O O O
+0022 2203 0240 2300맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네, 카드명은 신한 카드 입니다.	O O SS_BRAND-B SS_BRAND-I O
+카드 번호는 1041 0230 2110 4122 이에요.	O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+네, 우리은행 카드이구요.	O SS_BRAND-B SS_BRAND-I
+0234 0002 0044 0300입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+예 국민 카드입니다.	O SS_BRAND-B SS_BRAND-I
+3233 3220 0322 0224	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 하나 카드 구요	O SS_BRAND-B SS_BRAND-I O
+번호는 0310 1312 4414 4241에요.	O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 번호 확인하겠습니다.	O O O
+1212 4114 1234 3112 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+0133 3224 4143 0244입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 말고 계좌이체 했으면 해요	O O O O O
+제가 다시 한번 확인 하겠습니다.	O O O O O
+국민 카드 2043 3044 3110 2420 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+3313 0412 1120 1330입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+체크 카드인데 가능하죠?	O O O
+카드 번호 확인해 드릴게요.	O O O O
+1414 3334 1432 4313 맞으신가요?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+어 삼성카드이구요	O SS_BRAND-B
+3202 1213 3123 0302	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+그래요?	O
+롯데 카드고요, 4123 2241 1411 4221.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 번호 다 불러야 하죠?	O O O O O
+3402 3334 1432 0113이요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네. 삼성카드구요.	O SS_BRAND-B
+2420 0211 0240 4440입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네. 고객님. 카드 번호 확인 부탁드립니다.	O O O O O O
+3332 3444 2232 1410 맞으십니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+고객님 다시 한번 번호 확인하겠습니다.	O O O O O
+케이비 카드 3402 0020 3401 2401 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+1410 2330 1003 2220 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+어느 카드죠?	O O
+아 신한카드로 해주시고요.	O SS_BRAND-B O
+2122 0120 3411 4010예요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+현대카드이구요.	SS_BRAND-B
+3430 2410 3312 2011입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 ㅇㅇㅇ 고객님 한번 더 확인해 드리겠습니다	O SS_NAME-B O O O O O
+3242 1140 1001 1213맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+카드 번호 확인하겠습니다.	O O O
+케이비 카드 0034 0401 2242 2213 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+네, 한번 확인해 드리겠습니다.	O O O O
+3104 2002 4114 2044맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+다시 한번 확인하겠습니다.	O O O
+4240 3303 4044 0243 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+확인하겠습니다.	O
+1033 0231 0424 2331 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+실례지만 제가 카드 번호 다시 한번 불러볼게요.	O O O O O O O
+4120 3300 0240 2300 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+2201 0340 3202 2411, 맞으시죠?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+유효 기간 말씀 부탁드립니다.	O O O O
+네. ㅇㅇㅇ 고객님. 다시 한번 더 확인해 드리겠습니다.	O SS_NAME-B O O O O O O
+카드 번호가 1010 3124 2142 3432가 맞습니까?	O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+아 그래요.	O O
+그럼 우리 카드 3304 2243 0121 4323.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 신한 카드고요.	O SS_BRAND-B SS_BRAND-I
+번호는 0441 4034 0430 3434이요.	O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+현대카드예요.	SS_BRAND-B
+0021 1321 3234 1130	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+예 저기 신한 카드구요.	O O SS_BRAND-B SS_BRAND-I
+3200 2131 2400 1040.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+롯데 카드구요.	SS_BRAND-B SS_BRAND-I
+4414 4111 4401 2430.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+0331 0212 0321 2123 맞나요?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+네, 현대카드 확인됩니다.	O SS_BRAND-B O
+고객님 본인 카드 맞습니까?	O O O O
+4014 4213 1313 0132, 3340 이요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I O
+삼성 카드 무이자 할부 되나요?	SS_BRAND-B SS_BRAND-I O O O
+여의도 메리어트호텔 1층에 있어요	AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O
+- 트리로 예쁘게 장식된 입구부터 마음에 쏙 들었던 공간입니당	O O O O O O O O O
+♡	
