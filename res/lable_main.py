@@ -45,15 +45,13 @@ def init_paramater():
     pattern = '[0Ooㅇ]{3,}동'
     return lable, new, pattern
 
-
-with open(result, "r", encoding="utf-8") as file, open(out_file, "w", encoding="utf-8") as edited_file:
+with open(all_intergrated, "r", encoding="utf-8") as file, open(out_file, "w", encoding="utf-8") as edited_file:
     cnt = 0
     i = 0
     changed = ''
     lable_set = set()
-    while True:
-        line = file.readline()
-        if not line : break
+    raw_lable_set = set()
+    for line in file:
         i += 1
         # lable, new, pattern = init_paramater()
         # old = re.compile(pattern).search(line)
@@ -65,12 +63,15 @@ with open(result, "r", encoding="utf-8") as file, open(out_file, "w", encoding="
         #     print(log[:-1])
         #     changed += log
         tokens, lables = splitTokenAndLable(line)
-        # lableExclude(lables, ['ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B'])
+        remain_lables = ['SS_AGE-B', 'SS_BRAND-B', 'SS_WEIGHT-B', 'SS_BIRTH-B', 'SS_LENGTH-B', 'SS_NAME-B', 'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B']
+        for e in lables:
+            raw_lable_set.add(e)
         is_valid_lable(lables, tokens)
+        lableExclude(lables, remain_lables)
         for e in lables:
             lable_set.add(e)
-        # line = ' '.join(tokens) + '\t' + ' '.join(lables) + '\n'
         # edited_file.write(line)
-        # edited_file.write(insertTab(line))
-    print(list(lable_set))
+        edited_file.write(insertTab(line))
+    print(sorted(list(lable_set)))
+    print('excluded lables: ', sorted(list(raw_lable_set - lable_set)))
     print(cnt)
