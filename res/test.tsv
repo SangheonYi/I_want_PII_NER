@@ -1,895 +1,1151 @@
-여자아이인데도 남자아이성향이 강한 원이!	O O O SS_NAME-B
-네 감사합니다. 저는 안주란이었습니다.	O O O O
-5226동 185호입니다.	O O
-해외이용 고객센터 번호는 5225-9735입니다.	O O O ID_PHONE-B
-예 하나카드로 할게요. 4111 3202 0424 0202	O SS_BRAND-B O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-2217549요.	ID_INUM-B
-나중에 결혼을 해서 아이를 낳으면 6살 이전에 꼭 뭔가 한 두개씩 가르쳐보려구요.	O O O O O O O O O O O O
-끄앙 43kg대로 진입했당! 행복하구만ㅋ	O SS_WEIGHT-B O O
-안녕하십니까 고객님 제주은행 상담원입니다.	O O SS_BRAND-B O
-이렇게 쉬운원리라..우리 4살 꼬맹이님도..아주 잘하심	O O SS_AGE-B O O
-한화2단지아파트 201동 4371호요.	O O O
-616호.	O
 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-6901 입니다.	ID_PHONE-B O
-1599-1312	ID_PHONE-B
-1995년 03월 19입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-남궁성하이구요 840710 입니다.	SS_NAME-B ID_INUM-B O
-네, 반품이 되었습니다. 나지원이었습니다. 감사합니다.	O O O SS_NAME-B O
-113동 4552호입니다.	O O
-6세 이전에 무언갈 배우는 게 나중에 그것을 꾸준히 하게 된다면 아주 큰 도움이 된다고 하더라구요.	O O O O O O O O O O O O O O O
-그럼 다음으로 넘어가도록 하겠습니다. 고객님의 생년월일이 어떻게 되십니까? 년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O O O O O O O O O
-오늘 딱 14개월접어선 린이 몸무게 11kg	O O SS_AGE-B SS_NAME-B O SS_WEIGHT-B
-말씀해 주신 카드 번호가 4322 1111 2123 1233맞습니까?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-가입자분 주민등록번호 뒷자리 어떻게 되시죠?	O O O O O
-고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
-생년월일을 알아야 합니다. 어떻게 되십니까? 예를 들어서 68년도 생이시면, 1968으로 말씀 해주셔야 합니다.	O O O O O O O O O O O O O
-성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
-이름은 표수아, 010-1757-3114입니다.	O SS_NAME-B ID_PHONE-B
-우리은행이구요. 068 099017 10 580요.	SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
-홈페이지에서 조회가 불가하신 경우는 고객콜센터에서 확인하실 수 있습니다.	O O O O O O O O
-본 은행인국민은행이 맞으신가요?	O SS_BRAND-B O
-동천동 지점으로 가셔서 상담받으시면 됩니다.	O O O O O
-삼십대 내내 진행, 아니 더 걸릴지도 모르겠다	O O O O O O O
-네 기업 은행이고요.	O SS_BRAND-B SS_BRAND-I
-993-10-662480 입니다.	ID_ACCOUNT-B O
-네, 확인 감사합니다. 회수할 주소가 서울 동대문구 나운3동 롯데4차아파트 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O O
-울민호 넘 좋아했어요~^^	SS_NAME-B O O
-네, 김태민인데요.	O SS_NAME-B
-키 182cm 몸무게 89킬로 지향중	O SS_LENGTH-B O SS_WEIGHT-B O
-네 지금 계신곳에서 가장 가까운 하나은행은 청담동 중소기업은행 청담점입니다.	O O O O O SS_BRAND-B O O O
-다시 한번 확인 하겠습니다. 비씨 카드 0021 3020 1222 1300 맞습니까?	O O O O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-확인 감사합니다. 회수할 주소지는 배송받으셨던 서울 광진구 충장로3길 56 맞습니까?	O O O O O O O O O O
-저희 광주은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
-내 나이 82세는 아직 미달되는 나이 지만...	O O SS_AGE-B O O O O
-네 저는 박서진이었습니다.	O O SS_NAME-B
-민주평화당 김 호 산 후보입니다.	O SS_NAME-B SS_NAME-I SS_NAME-I O
-농협 홈페이지에 안들어가집니다.	SS_BRAND-B O O
-4635510 입니다.	ID_INUM-B O
-전쟁터에 동행할 만큼 샤 자한에게 사랑받았던 뭄타즈는 38세의 나이에 출산중 사망합니다.	O O O SS_NAME-B SS_NAME-I O SS_NAME-B SS_AGE-B O O O
-안녕하세요 저는 180 입니다	O O SS_LENGTH-B O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-대구은행이요.	SS_BRAND-B
-185cm의 장신과 긴 머리가 트레이드 마크인 단정 한 얼굴 생김새를 한 꽃미남이다.	SS_LENGTH-B O O O O O O O O O O O
-반품 접수되었습니다. 허지연이었습니다.	O O SS_NAME-B
-이성비이고요.	SS_NAME-B
-저희 은행인 한국스탠다드차타드은행의 계좌가 맞나요?	O O SS_BRAND-B O O
-다시 한번 확인하겠습니다. 4240 3303 4044 0243 맞습니까?	O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-스칼렛 요한슨 프로필 출생: 1984년 11월 22일, 미국 신체: 160cm, 57kg	SS_NAME-B SS_NAME-I O O ID_INUM-B ID_INUM-I ID_INUM-I O O SS_LENGTH-B SS_WEIGHT-B
-93년생 누나가 먼저 사과하니까 받아줄게 ^____^	SS_AGE-B O O O O O
-도은난	SS_NAME-B
-4832-8890또는 02-5236-5965 문의하시면 됩니다.	ID_PHONE-B ID_PHONE-B O O
-2006년 07월 02입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-000114입니다.	ID_INUM-B
-배송 받으셨던 주소 강원 강릉시 만부로 6번 길 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O
-5647-7584 제주은행카드 고객센터 전화하셔서 2번, 8번, 1번 누르시면 분실신고 가능합니다.	ID_PHONE-B SS_BRAND-B O O O O O O O O
-홈앤쇼핑 홍정하입니다.	SS_BRAND-B SS_NAME-B
-7805-2428으로 전화주시면 됩니다.	ID_PHONE-B O O
-이날 수다떨기에 나선 아이엠피터님, 미디어몽구님, 최규문님, 섬농부님 그리고 저 김용택입니다.	O O O SS_NAME-B SS_NAME-B SS_NAME-B SS_NAME-B O O SS_NAME-B
-이 재 명 성남시장의 민주주의 수호를 위해	SS_NAME-B SS_NAME-I SS_NAME-I O O O O
-3001292 입니다.	ID_INUM-B O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-기다려 주셔서 감사합니다. 회수는 강원 속초시 용산구 석촌동 망양로 329번길 중산마을12단지아파트 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O O O O
-불금에 달고나 만들면서 투닥거리는 27살 남성 세 분..	O O O O SS_AGE-B O O O
-제 휴대폰 번호 마지막 자리는 9078번 으로 되어있어요.	O O O O O ID_PHONE-B O O
-동양생명통합보험이 확인되십니다	SS_BRAND-B O
-이제 힘찬이가 태어났으니	O SS_NAME-B O
-오혜성과 홍병식 교수가 공동으로 진행할 이 행사 총 상금은 200만원으로 1등은 강한나 에서 후원한 100만원 상당 건강식품이 지급된다.	SS_NAME-B SS_NAME-B O O O O O O O O O O O O O O O O
-김생민씨가 광고하고 그레잇!!! 왜치면서 인정하는 곳이지요~	SS_NAME-B O O O O O
-발급받은 번호는 +82-2-3416-7010 이거였습니다!	O O ID_PHONE-B O
-로버트 알드리치 감독의 <특공대작전>	SS_NAME-B SS_NAME-I O O
-040130입니다.	ID_INUM-B
-피부나이 23세 ㅋㅋㅋㅋㅋㅋㅋ	O SS_AGE-B O
-"""""""우혜림은 """"""""임신 초반 몸무게가 48kg이다. 정확히 20kg이 늘었다""""""""며 경악했다."""""""	SS_NAME-B O O O SS_WEIGHT-B O O O O
-안녕하십니까? 롯데홈쇼핑 최새연입니다.	O SS_BRAND-B SS_NAME-B
-시청문의 1877-5926	O ID_PHONE-B
-저희 중소기업은행을 대표해 말씀 드리는 것입니다.	O SS_BRAND-B O O O O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-롯데 카드이고요. 2313 2112 2441 3330.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-까페에서 레고를 조립하는 방년 26세 두 여자.	O O O O SS_AGE-B O O
-모델 시절에는 키가 188cm인데 68kg를 유지했었다.	O O O SS_LENGTH-B SS_WEIGHT-B O
-"""""""임신 초에는 56kg이었다가 만삭 때는 75kg으로 증가했다""""""""고 위로했다."""""""	O O SS_WEIGHT-B O O SS_WEIGHT-B O O
-가입시 남겨주신 경남은행계좌로 자동이체 됩니다.	O O SS_BRAND-B O O
-무튼..우리 5살 꼬맹이도 잘 걸어다닐정도의..코스라..	O SS_AGE-B O O O
-전북은행영업접에서 서면신고하시거나 전화로 신고가능합니다.	SS_BRAND-B O O O
-343동1261호입니다.	O
-네 아세아타워빌딩 196동 4411호요.	O O O O
-강은선이요.	SS_NAME-B
-1984년 08월 24입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
-예. 삼성카드고요. 1032 3230 2313 2442.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-김진욱 두산 감독 전격경질.	SS_NAME-B O O O
-롯데온쇼핑 민지아입니다. 고객님. 무엇을 도와드릴까요?	SS_BRAND-B SS_NAME-B O O O
-4236-795-5956입니다	ID_PHONE-B
-성함과 주민번호 앞자리 부탁드려요?	O O O O
-금정역 회식 장소로 추천하는 유가네양꼬치에 다녀왔어요^^	O O O O O O
-15세 여학생이 엄마와 함께 진료실을 찾았다.	SS_AGE-B O O O O O
-그럼, 고객님의 출생월일이 어떻게 됩니까?	O O O O O
-주인공은 20대 아들 수현(지윤호)을 둔 50대 여성 미경(배종옥)이다.	O O O SS_NAME-B O O O SS_NAME-B
-El Diablo (Jay Hernandez)	SS_NAME-B SS_NAME-I SS_NAME-B SS_NAME-I
-1998년03월14일 입니다.	ID_INUM-B O
-홍석현 김무성의 ``알까기``!	SS_NAME-B SS_NAME-I O
-한화생명보험 안내서비스 번호를 알고 싶어요	SS_BRAND-B O O O O
-씨제이오쇼핑 황희미입니다.	SS_BRAND-B SS_NAME-B
-서예지, 010 3412 9384.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-고객님 생년월일 알려주시겠습니까?	O O O
-네 고객님 기다려 주셔서 너무 감사합니다. 회수할 주소는 서울 강서구 응암 1동 738 현대1차아파트 이하 나머지 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O O O O O O O O
-여전히 85kg 늪에서 헤어나오질 못하는 있는 중 T-T	O SS_WEIGHT-B O O O O O O
-하나은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
-6월 22일 82.4kg	O O SS_WEIGHT-B
-오성남, 181102-3727043입니다	SS_NAME-B ID_INUM-B
-010 7347 8865입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-최동철입니다.	SS_NAME-B
-자택 전화번호 뒷자리는 어떻게 되십니까?	O O O O O
-9242 37 4719 718 입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
-홈앤쇼핑 김채리였습니다.	SS_BRAND-B SS_NAME-B
-예랑이 / 슬이짱 / 김여사 / 언니 / 아버지 / 형부	O O SS_NAME-B O SS_NAME-B O O O O O O
-NS홈쇼핑입니다.	SS_BRAND-B
-하병호이구요, 2001년02월,12일입니다	SS_NAME-B ID_INUM-B
-그렇다면, 선생님의 생년월일이 어떻게 되십니까?	O O O O O
-번호 4자리는 6991가 맞아요.	O O ID_PHONE-B O
-네, 엄서연이었습니다. 감사합니다.	O SS_NAME-B O
-유정이 아들 낮잠자는 시간에 스피드하게~~	SS_NAME-B O O O O
-사시는곳 동호수 말씀해 주시겠어요?	O O O O
-유규하 입니다.	SS_NAME-B O
-2718222입니다.	ID_INUM-B
-동구 동호동 대구동호상록아파트 410호 입니다.	O O O O O
-1차 문안 :용호동 유시회 오찬 27일(수) 13시 용호동 통뼈감자탕 (전화 051-612-3392), 김영길회원	O O O O O O O O O O ID_PHONE-B SS_NAME-B
-네 반품 접수되었습니다. 최병찬이었습니다.	O O O SS_NAME-B
-부산 망미동 카페 프루토프루타	O O O O
-장소 : 용호2동 오가네돼지국밥 (010-7416-2332, 용호2동 529-22 수구리보리밥 앞)	O O O O ID_PHONE-B O O O O
-안녕하십니까? 현대홈쇼핑 강예경입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
-본 은행인하나은행이 맞습니까?	O SS_BRAND-B O
-MG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-325-77-739408 입니다.	ID_ACCOUNT-B O
-710704입니다.	ID_INUM-B
-그리고 수능시험에서 53위를 하여 서울대 법대로 진학했고, 법대 3학년에 재학 중이던 1987년 사법고시 최연소 합격의 영예를 누렸다. 이때가 만 20세다.	O O O O O O O O O O O O O O O O O O SS_AGE-B SS_AGE-I
-저희 은행인 한국산업은행이 맞습니까?	O O SS_BRAND-B O
-충청남도 서천군 종천면 지석리 9번지.	O O O O O
-생년월일이 어떻게 되십니까? 년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O O O O
-힐스테이트아파트 371동7990호입니다.	O O
-주민번호 앞6자리 말씀해 주시겠어요?	O O O O
-네 신한카드이구요, 4223 1001 0012 3113 입니다.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-먼저 불온한 당신은 1945년생 ‘바지씨’(레즈비언이라는 용어가 등장하기 전, 여성 동성애자를 뜻하던 은어) 이묵을 가리킨다.	O O O SS_AGE-B O O O O O O O O SS_NAME-B O
-용문면(면장 허회웅)은 2019년 김학동군수님과의 새해 간담회를 1월 23일 11시에 가졌습니다.	O SS_NAME-B O SS_NAME-B O O O O O O
-예, 배송 받으셨던 주소가 경기 고양시 일산 동구 삼각산동 650 무궁화아파트 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O O O O
-내가 166에 5센치 구두 신었는데	O SS_LENGTH-B O O O
-용인시 청담동 입니다.	O O O
-고객님께서 정확하게 전화 주신 것이 맞습니다. 한국스탠다드차타드은행입니다.	O O O O O O SS_BRAND-B
-저의 생년월일은 630430이에요.	O O ID_INUM-B
-네 가까운 토스뱅크 지점을 방문해주시면 됩니다. 가시기 전에 해당 지점에 전화로 서류를 확인하시고 가면 됩니다.	O O SS_BRAND-B O O O O O O O O O O O O
-동부이촌동 카페C의 크레이프 케이크도	O O O O
-성함을 말씀해 주시겠습니까?	O O O
-네 양유리, 011 4117 7754입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-제 휴대폰 번호 마지막 4자리는 4708번 입니다.	O O O O O ID_PHONE-B O
-466동 2567호.	O O
-223동 4037호요.	O O
-성지빌딩 108동 1159호요.	O O O
-피케티 교수가 제대로 지적했다.	SS_NAME-B O O O
-꼭 마흔 살이 아니더라도.	O SS_AGE-B SS_AGE-I O
-유어면 가항리 방성리대교산과내아파트 90동 2132호 입니다.	O O O O O O
-현 거주지를 알려주시면 가까운 경남은행을 안내해드리겠습니다.	O O O O SS_BRAND-B O
-세종은 47살 눈이 잘 안 보이는 와중에도 한글을 창제하였다	SS_NAME-B SS_AGE-B O O O O O O O
-데시앙아파트 183동9929호입니다	O O
-25살인데 정석 정작은 없거든요..	SS_AGE-B O O O
-안녕하십니까? 엔에스홈쇼핑 김성도입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
-전북은행 홈페이지에 접속할 수 없어요.	SS_BRAND-B O O O O
-연지쌤 이벤트도 찍어왔어요~	SS_NAME-B O O
-이 철 전 의원님의 글을 올려 봅니다	SS_NAME-B SS_NAME-I O O O O O
-김소월 시집 `진달래꽃` 1925년 초판을 선물받았네요.	SS_NAME-B O O O O O
-서울특별시 관악구 신림로 330 PODO Mall	O O O O O O
-제가 166cm인데,	O SS_LENGTH-B
-우리카드고요. 3300 1114 0213 1121이요.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-이곳을 보고 싶은 사람들이 과장하자면 줄을 섯다는 것인데, 강진에서 18년간 유배생활을 한 다산 정약용도 그중 한사람으로 백운동 별서정원을 50세가 되던 해인 1812년 음력 9월 12일 제자들과 함께 월출산 등반을 마친 후 찾았다고 한다.	O O O O O O O O O O O O SS_NAME-B SS_NAME-I O O O O SS_AGE-B O O O O O O O O O O O O O O
-요미 생일은 6월 초인데 깜빡 잊고있다가, 아맞다! 요미 생일! 하고 급하게 주문한 요미의 생일 케이크.	SS_NAME-B O O O O O O SS_NAME-B O O O O SS_NAME-B O O
-그래서 요요가 오더라도 일단 정상은 아니더라도 80 kg까지는 빼보려고 합니다.	O O O O O O SS_WEIGHT-B SS_WEIGHT-I O O
-480819-4416018입니다.	ID_INUM-B
-생년월일 말씀해 주시겠어요?	O O O
-12월2일 장윤이 생일	SS_BIRTH-B SS_NAME-B O
-네, 기다려 주셔서 감사합니다. 회수는 경기도 하남시 ㅇㅇㅇ ㅇㅇㅇㅇ ㅇㅇㅇㅇ아파트 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O O O
-네, 김은원이구요.	O SS_NAME-B
-고객님 선생님의 출생월일6자리 또는 8자리가 어떻게 되십니까?	O O O O O O O
-SGI서울보증사 어플을 통해 업로드 해주시면됩니다	SS_BRAND-B O O O O
-우리은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
-추유원 100517입니다.	SS_NAME-B ID_INUM-B
-4819366 입니다.	ID_INUM-B O
-그녀는 ``나는 열세 살이라는 어린 나이에 매춘부만을 연기하고 있었다``라고 말할 정도로 남성의 시각에서 그려진 여성캐릭터를 연기하는데 신물이 나, 자신이 직접 카메라를 들어 16편 이상의 작품을 만든 인물이다.	O O SS_AGE-B O O O O O O O O O O O O O O O O O O O O O O O O
-경기도 파주시 문경면위브아파트 396동4795호입니다.	O O O O
-성함과 생년월일 부탁드립니다.	O O O
-처음에 8살 큰아이가 생일선물로 사달라고 했던 키난빌 반짝커	O SS_AGE-B O O O O O O
-이어 169.2cm의 큰 키를 자랑, 자연스러운 포즈를 취하고 있는 모습은 일상도 화보로 만들었다.	O SS_LENGTH-B O O O O O O O O O O O
-지에스홈쇼핑 강정재입니다.	SS_BRAND-B SS_NAME-B
-반품 처리되었습니다. 박경규였습니다.	O O SS_NAME-B
-말씀 드려야지요. 1982년6월21일 이에요.	O O O O
-제 생년월일은 730628이에요.	O O ID_INUM-B
-곧 아빠생일??	O O
-20살짜리 남동생이 지 옷사는데 따라가달라네요	SS_AGE-B O O O O
-1959484입니다.	ID_INUM-B
-네 저는 신가원이었습니다.	O O SS_NAME-B
-부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-어 삼성카드이구요 3202 1213 3123 0302	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-휴대전화 마지막 번호는 9022이에요.	O O O ID_PHONE-B
-경상남도 양산시 상북면 반회서3길 1944호 입니다.	O O O O O O
-어차피 이병헌이가 새 제품 들고나와서 NEX-3F도 이제 가격떨어지고 메리트 떨어지겠지,	O SS_NAME-B O O O O O O O O
-631105-4924816입니다.	ID_INUM-B
-비자카드 확인되십니다. 맞으신가요?	SS_BRAND-B O O
-010 8041 9303.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-사3동 올림픽선수촌아파트 2001호예요.	O O O
-마지막 4자리는 2596이에요.	O O ID_PHONE-B
-롯데캐슬아파트 965동0452호입니다.	O O
-롯데카드구요 4400 2140 3210 4414입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
-부산은행 고객센터 접속하셔서 공인인증서 로그인 후 사고/분실 신고하기 코너에서 신청하시면 됩니다.	SS_BRAND-B O O O O O O O O O O
-GS홈쇼핑입니다.	SS_BRAND-B
-휴대폰 번호는 010 6478 5332입니다.	O O ID_PHONE-B ID_PHONE-I ID_PHONE-I
-대구은행 신용카드예요	SS_BRAND-B O
-본 은행인중소기업은행의 계좌가 맞나요?	O SS_BRAND-B O O
-류승룡 오랜만에 잘 어울리는 역할 맡은거 같았다.	SS_NAME-B O O O O O O
-NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-주소: 서울 송파구 잠실동 40 갤러리아팰리스 지하104호 전화번호: 010-7622-2843, 2144-6332	O O O O O O O O ID_PHONE-B ID_PHONE-B
-1974년 07월 03입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-2371280 입니다.	ID_INUM-B O
-확인해 주셔서 감사합니다. 배송 받으셨던 주소가 대전 서구 소펄길로 되어 있습니다. 나머지 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O O O O O
-더플래티넘아파트 347동6730호입니다.	O O
-여보세요. 대구은행 홈페이지에 안들어가집니다.	O SS_BRAND-B O O
-광안리 메인 카페거리에서 조금 올라가면 정원해물탕 맞은편에 “SoSo카페”가 있다!	O O O O O O O O O
-저희 한국산업은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
-어린이교통카드 사용시기는 만 6세부터에요.	O O O O
-고객님 성함과 생년월일을 말씀해주시겠어요?	O O O O
-잠시만 기다려 주세요. 빨리 찾아볼께요. 788-131-403입니다.	O O O O O ID_ACCOUNT-B
-근데 강린씨 생일은 9월 3일이야 ㅠㅠ	O SS_NAME-B O SS_BIRTH-B SS_BIRTH-I O
-앗 근데, 다시 또 들었는데, 그 분이 92년생이라서..	O O O O O O O SS_AGE-B
-네, 농협 은행 입금은 칠만 팔천원 확인되었습니다.	O SS_BRAND-B SS_BRAND-I O O O O
-그럼 158이라 생각할게	O SS_LENGTH-B O
-제 생년월일은 061122이에요.	O O ID_INUM-B
-제일 날씬하고 여리여리할때에 53kg였는데..	O O O SS_WEIGHT-B
-고객님 주소가 9063동 다음 무엇인가요?	O O O O O
-네, 반품 처리되었습니다. 전유진이었습니다. 감사합니다.	O O O SS_NAME-B O
-청도군 풍각면 송서리 입니다.	O O O O
-한현민입니다.	SS_NAME-B
-네, 신한 은행이고요.	O SS_BRAND-B SS_BRAND-I
-지방이 15KG이니 조금만 줄여보도록 하죠.	O SS_WEIGHT-B O O O
-서울특별시 노량진1동 강변유원아파트 정문 이예요.	O O O O O
-새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
-‘은유 작가의 글쓰기 고민 상담소’	SS_NAME-B O O O O
-스무 살 한은솔입니다!	SS_AGE-B SS_AGE-I SS_NAME-B
-신세계쇼핑 나강희입니다.	SS_BRAND-B SS_NAME-B
-전화번호가 뭔가요?	O O
-황민현 (25/개신교)의 솔로앨범 적극 응원합니다.	SS_NAME-B SS_AGE-B O O O
-신체: 183cm	O SS_LENGTH-B
-장순남	SS_NAME-B
-쉰여섯이 되면 좋을 거라고 생각했던 것은	SS_AGE-B O O O O O
-현대홈쇼핑 정이영입니다.	SS_BRAND-B SS_NAME-B
-반품 접수되었습니다. 김지연이었습니다.	O O SS_NAME-B
-네 삼성카드 4342 3111 4200 1434	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-(오센의 아오이 유우..	O SS_NAME-B SS_NAME-I
-자이아파트 97동 62호입니다.	O O O
-카드 사용 이력이 없는데 현대카드라고 하면서 승인 확인요청 문자가 계속와요.	O O O O SS_BRAND-B O O O O O
-서지윤이고 010 8119 4338이요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-하늘채아파트 679동 1745호 입니다.	O O O O
-12/11일은 내 생일!	SS_BIRTH-B O O
-7살 유치원생은 앞으로 3발 나가세요!	SS_AGE-B O O O O
-2509030 입니다.	ID_INUM-B O
-토스뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-동탄 북광장 지하공영주차장옆에 있으며, 번호는 1577-1000이다.	O O O O O ID_PHONE-B
-51세의 젊은 나이로 안타까운	SS_AGE-B O O O
-안대회 성균관대 한문학과 교수의 새 책 <천년 벗과의 대화>는 우리 고전 속 문장들을 통해 이름이 잘 알려지지 않은 옛 저자를	SS_NAME-B SS_BRAND-B O O O O O O O O O O O O O O O O O O
-네, 나예원이었습니다. 감사합니다.	O SS_NAME-B O
-PT20회받고 2키로 그람이 늘었다네 ...에헤라디야..(근육량은 0.3kg 지방은 1.7kg...)	O SS_WEIGHT-B SS_WEIGHT-I O O SS_WEIGHT-B O SS_WEIGHT-B
-1599-8562로 문의 가능합니다.	ID_PHONE-B O O
-어제 병원에서 간만에 재 봤더니, 몸무게는 10.5kg / 신장 73cm...	O O O O O O SS_WEIGHT-B O O SS_LENGTH-B
-헐 내일 50키로 찍겟는데	O O SS_WEIGHT-B O
-0041 1204 4133 0400이고요 유효기간은 1142.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O
-용호동오찬유사회 29일(수) 13시 해월정삼계탕-이전 새집 (611-1911) 참석요망 배수태유사	O O O SS_BRAND-B O ID_PHONE-B O SS_NAME-B
-네 반품 처리되었습니다. 저는 김준현이었습니다.	O O O O SS_NAME-B
-예 그 카카오 뱅크 카드구요 0000 4421 0401 2133	O O SS_BRAND-B SS_BRAND-I SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-우리은행이고요. 계좌 번호 잠깐만 기다려주세요.	SS_BRAND-B O O O O
-네 감사합니다. 저는 정나연이었습니다.	O O O SS_NAME-B
-2637745 입니다.	ID_INUM-B O
-1984년 01월 03입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-지금 체중이 145kg인데 이렇게 더 찌면 큰일 날 것 같다는 생각에 다이어트 전문 기업의 도움을 받아 체중 감량을 하기로 결심했다.	O O SS_WEIGHT-B O O O O O O O O O O O O O O O O O
-중소기업은행 카드 문의 가능하죠?	SS_BRAND-B O O O
-네 최태영, 010 8982 6283입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-카카오뱅크입니다.	SS_BRAND-B
-네, 확인해 주셔서 감사합니다. 반품하실 주소 경기도 고양시 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O
-네 박도숙, 010 6051 8681입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-카드 번호가 3024 2311 1140 1301 맞습니까?	O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-일산 장항동 라페스타E동에	O O O
-177/ 59	SS_LENGTH-B SS_WEIGHT-B
-저희 부산은행을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
-그리고 바로 복학후 졸업하면 25이 되겠군요 3년제이니 그동안 알바하면서 돈좀 모아서 그돈으로 워홀 호주로 가려고하는데	O O O O SS_AGE-B O O O O O O O O O O
-채가연이고요. 010 7725 3422요	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-329 다시 341요.	O O O
-이름은 홍미르이고 000531이요.	O SS_NAME-B ID_INUM-B
-우리는 5살 조서채양과 나는 300m 코스..	O SS_AGE-B SS_NAME-B O O O
-카메론 디아즈 프로필 출생: 1972년 8월 30일, 미국 신체: 174cm, 53kg	SS_NAME-B SS_NAME-I O O ID_INUM-B ID_INUM-I ID_INUM-I O O SS_LENGTH-B SS_WEIGHT-B
-010 0353 9738.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-안녕하십니까? 씨제이오쇼핑 김세지입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
-보냈던 제 계좌번호는 660609-2220758 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
-햇빛에 지친 해바라기가 가는 목을 담장에 기대고 잠시 쉴 즈음, 깨어보니 스물네살이었다.	O O O O O O O O O O O SS_AGE-B
-전화: +1 671 649 9878	O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I
-세종특별자치시 만안구 남천2동 다음주소가 어떻게되시죠?	O O O O O
-본인 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
-주소 확인할계요?	O O
-2005년 05월 30입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
-본인의 생년월일6자리 또는 8자리가 어떻게 되시나요?	O O O O O O
-신한은행 전화번호는 항상 이 전화번호 입니다.	SS_BRAND-B O O O O O
-이지연, 010 4121 2723요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-아빠랑 키 재 봐서 151센치 나왔어요	O O O O SS_LENGTH-B O
-1994년 05월 18입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-함성미이고 010 8773 1172요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-행복에 겨워 강아지를 사랑스러운 표정으로 만지고 있는 학교 동생 (22. 내일 군대감)	O O O O O O O O O SS_AGE-B O O
-카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-e편한세상아파트 656동4331호입니다.	O O
-저희 은행인 토스뱅크이 맞으신가요?	O O SS_BRAND-B O
-035 39 98114 61 39 입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
-0331 0212 0321 2123 맞나요? 네, 현대카드 확인됩니다. 고객님 본인 카드 맞습니까?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O SS_BRAND-B O O O O O
-수술 전 몸무게는 67.6kg 였고 수술 후 몸무게는 66.3kg입니다.	O O O SS_WEIGHT-B O O O O SS_WEIGHT-B
-서울특별시 서초구 방배천로2안길 27 2층	O O O O O
-계림1동 입니다.	O O
-슬기X신비X청하X소연 - Wow Thing	SS_NAME-B O O O
-저는 올해 21살 빠른 93이구 옆에 남자친구는 신현재! 92년생 22살이에요~	O O SS_AGE-B SS_AGE-B SS_AGE-I O O SS_NAME-B SS_AGE-B SS_AGE-B
-미래에셋생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-LG 트윈스 봉중근 선수의 친누님이신 대외협력실 봉미선 박사께 받은 친필싸인~	SS_BRAND-B SS_BRAND-I SS_NAME-B O O O SS_NAME-B O O O
-1619동 645호 입니다.	O O O
-이름은 김재경, 전화번호는 010-9725-7938입니다.	O SS_NAME-B O ID_PHONE-B
-지난 주 여든여덟 생신 맞으신 할머니 옆에서 만든 송편~	O O SS_AGE-B O O O O O O
-네 팩스번호 721-9237번입니다	O O ID_PHONE-B
-GS쇼핑입니다.	SS_BRAND-B
-2792380입니다.	ID_INUM-B
-수협 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
-지한이는 2017년 8월 28일에 태어난 10개월 남자아이에요	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O SS_AGE-B O
-다음입니다. 절차 상 고객님의 생년월일을 여쭈어봐야 합니다. 생년월일이 어떻게 되십니까? 년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O O O O O O O O O O O
-구반포역 3번 출구에서 Om 정도 직진 하시면 구반포지점이 있습니다.	O O O O O O O O O
-수원 : LG 켈리 VS KT 알칸타라	O O O SS_NAME-B O O SS_NAME-B
-김하연이고 019 1327 7094이요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-고객님 주소지는요?	O O
-상품 수거할 주소가 배송 받으셨던 서울 강북구 자양4동 맞습니까?	O O O O O O O O O
-린이는 지원이언니 옆자리에 탑승!	SS_NAME-B SS_NAME-B O O
-그래요? 롯데 카드고요, 4123 2241 1411 4221.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-저희 하나은행이 맞으신가요?	O SS_BRAND-B O
-반품 처리되었습니다. 김성당이었습니다.	O O SS_NAME-B
-1998년생인 너도 안맞았을겨	SS_AGE-B O O
-네 확인 감사합니다. 수거는 고객님께서 배송 받으셨던 화성시 효자3동 760 으로 진행을 해드릴까요?	O O O O O O O O O O O O O
-행복을 전하는 CJ오쇼핑입니다.	O O SS_BRAND-B
-삼성 카드 4301 0021 0342 1104.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-"""""""홈페이지 하단 """"""""휴면보험금"""""""" 버튼을 통해 생명보험협회로 연결되어 휴면보험금을 확인하실 수 있습니다. - 콜센터 (9771-6581)로 전화하시면 본인 확인 후 안내해 드립니다. """""""	O O O O O O O O O O O O O ID_PHONE-B O O O O O O O
-네, 반품 처리되었습니다. 신주원이었습니다. 감사합니다.	O O O SS_NAME-B O
-코오롱동신아파트 1234동 4686호예요.	O O O
-말씀해주신 카드 번호가 1120 2230 3331 0421 맞습니까?	O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-2222502요.	ID_INUM-B
-반품 처리되었습니다. 늘 최선을 다하겠습니다. 서태한이었습니다.	O O O O O SS_NAME-B
-본 은행인경남은행이 맞습니까?	O SS_BRAND-B O
-열두 살 어린 막내를 두고 어떻게 가실 수가 있었을까?​	SS_AGE-B SS_AGE-I O O O O O O O
-고려대 강수돌교수님이 쓰신 책입니다	SS_BRAND-B SS_NAME-B O O
-수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-수연 만24세 태어나서 처음으로 곱창을 맛있다고 느낌	SS_NAME-B SS_AGE-B O O O O O
-1993년10월03일 입니다.	ID_INUM-B O
-BC카드에서 회원 및 가맹점 등의 귀책사유, 과실의 여부 등을 심사한 후 보상금액을 확정하여 통보해드립니다.	O O O O O O O O O O O O O O
-현경이 머드스콘 줄라고 바로 여의도로 이동	SS_NAME-B O O O O O
-계약자님 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
-선미와 마찬가지로 JYP를 나온 후 좋은 음악을 보여주고 있는 정진운의 새 싱글.	SS_NAME-B O O O O O O O O SS_NAME-B O O
-위브아파트 87동 03호	O O O
-974 93 31476 5요.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
-35세라는 시기, 그리고 1억이라는 스노우볼링을 위한 목돈.	SS_AGE-B O O O O O O
-4일차가 되서 간신히 68kg진입!	O O O SS_WEIGHT-B
-전평리 둔촌푸르지오아파트 2100동 1920호요.	O O O O
-네, 확인 감사합니다. 회수할 주소가 배송 받으셨던 경북 상주시 진량읍 금박로 맞습니까?	O O O O O O O O O O O O
-양력 7월 7일은 뀨뀨의 생일!!	O SS_BIRTH-B SS_BIRTH-I SS_NAME-B O
-이름은 서동연, 010-6989-3388입니다.	O SS_NAME-B ID_PHONE-B
-저희 부산은행이 맞습니까?	O SS_BRAND-B O
-부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-조지연, 010 3530 2830.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-BNP파리바카디프손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-162.5센티에 102키로인 여성 주인공이닷	SS_LENGTH-B SS_WEIGHT-B O O
-청기면 행전길 성원빌라 4층 401호요.	O O O O O
-확인이 되면 보험회사에서 80% 하나은행에서20% 부담해서 보상진행됩니다.	O O O O SS_BRAND-B O O
-네 씨제이오쇼핑입니다. 무엇을 도와 드릴까요?	O SS_BRAND-B O O O
-제 휴대폰 번호 마지막 4자리는 8274이에요.	O O O O O ID_PHONE-B
-엇 내 생일 12/6일거 암?	O O O SS_BIRTH-B O
-승리투수는 광주사회인야구 살아있는 전설 김종석 (57세)	O O O O SS_NAME-B SS_AGE-B
-권휴민, 23세, 김여니 엄마_♥️	SS_NAME-B SS_AGE-B SS_NAME-B O
-19세미만 관람불가인 영화라 그런지 잔인한 장면들이 나온다.	O O O O O O O
-한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
-서광해인로즈빌아파트 515동 241호요.	O O O
-생년월일6자리 말씀해 주시겠어요?	O O O
-현아의 몸무게는 41.3kg으로 지난 3월 공개한 44.1kg에서 2.8kg이나 빠져 있었다.	SS_NAME-B O SS_WEIGHT-B O O O SS_WEIGHT-B O O O
-30대 중반 나이에? 핑크색이라 정신병원서 탈출한줄 ㅋㅋㅋㅋ	O O O O O O O
-생일도 4월 18일인데?	O SS_BIRTH-B SS_BIRTH-I
-김지원. 016 741 0368요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-입장권 문의는 1599-7572	O O ID_PHONE-B
-말씀 드려야지요. 19460613 이에요.	O O ID_INUM-B O
-570동 612호요.	O O
-019 733 4320.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-1987년 10월 16입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
-생일은 10월 21일이었지만 ㅋㅋ 사진이 마음에 들어서♥+영린오빠	O SS_BIRTH-B SS_BIRTH-I O O O O
-수거하는 주소가 배송 받으셨던 부산 강서구 남산로 맞습니까?	O O O O O O O O
-팩스번호 부탁해요.	O O
-나 키 188cm라고 말씀드리자	O O SS_LENGTH-B O
-다음으로는 고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O O
-안녕하십니까? 현대홈쇼핑 김하원입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
-주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
-카드 번호 확인하겠습니다. 케이비 카드 0034 0401 2242 2213 맞습니까?	O O O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-회수는 배송 받으셨던 주소 전북 익산시 강변로 맞습니까?	O O O O O O O O
-자전거로 75kg = 15:00 분 페이스 정도.	O SS_WEIGHT-B O O O O O
-호반베르디움아파트 581동8031호입니다.	O O
-제 생년월일은 310206이에요.	O O ID_INUM-B
-카드번호나 주민번호 알려주시면 조회해보겠습니다.	O O O O
-서울특별시 용산구 신흥로 41-1	O O O O
-팩스번호가 뭐에요?	O O
-김예윤, 010 7754 1061요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-창원시 중랑구 서2동다음주소가 어떻게되십니까?	O O O O
-1974년 11월 28입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
-전북은행 통장 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
-아 농협이구 916 78 46545 요.	O SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+상품 회수는 전남 순천시 천현동 이하 주소 확인 부탁드립니다.	O O O O O O O O O
+씨제이오쇼핑입니다.	SS_BRAND-B
+엔에스홈쇼핑 김승하입니다.	SS_BRAND-B SS_NAME-B
+덴.다 13일찬데 아직도 45kg대라니....	O O O SS_WEIGHT-B
+농협 통장 어디있는지 못찾겠습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O
+얼릉해주세요 카드사용도 카카오뱅크이니깐요?	O O SS_BRAND-B
+선생님의 생년월일6자리 또는 8자리가 어떻게 되십니까?	O O O O O O
+신한 은행이고요. 5578 83 178 414 입니다.	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+농협은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+410702입니다.	ID_INUM-B
+홈앤쇼핑 이유비입니다.	SS_BRAND-B SS_NAME-B
+팩스번호는 9980-3651번입니다	O ID_PHONE-B
+네, 반품 처리되었습니다. 김하은이었습니다. 감사합니다.	O O O SS_NAME-B O
+네 새마을 금고 3012 1332 0120 1202	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+3238077입니다.	ID_INUM-B
+이름은 유하훈, 1972년 03월 19일입니다.	O SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
+애들이 이제 나보고 서른이라고	O O O SS_AGE-B
+나주시 미추홀구 은기동 다음주소가 어떻게되십니까?	O O O O O
+fax 406-2002-5554입니다.	O ID_PHONE-B
+10월 8일이 생일이야...	SS_BIRTH-B SS_BIRTH-I O
 장소 : 해월정 (용호1동, 전화 010-7830-7610)	O O O O O ID_PHONE-B
-한 165 /45?	O SS_LENGTH-B SS_WEIGHT-B
-회수할 주소는 서울 용산구 하오개길121번길 원우엔리치빌아파트 동 호수 한번 말씀 부탁드립니다.	O O O O O O O O O O O
-SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-스물 아홉, 졸업 후 한 직업만 꾸준히 했다면 경력도 꽤 되었을 거고 연봉도 꽤 될 나이라는 것도 안다.	SS_AGE-B SS_AGE-I O O O O O O O O O O O O O O O O
-체중이 84.05kg가 나왔다.	O SS_WEIGHT-B O
-흥국생명보험 확인되십니다.	SS_BRAND-B O
-부산 은행이요.	SS_BRAND-B SS_BRAND-I
-현성호, 010 8896 6208.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-9583입니다	ID_PHONE-B
-가장 기억에 남았던 마킹은 ``강민호 네살 축하해`` 였다.	O O O O SS_NAME-B SS_AGE-B O O
-20대 초반때부터 천주교신자가 되고싶었던 나는	O O O O O
-국민 은행 이구요.	SS_BRAND-B SS_BRAND-I O
-네, 우리은행 카드이구요. 0234 0002 0044 0300입니다.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-안용태이구요, 1930년03월,21일입니다	SS_NAME-B ID_INUM-B
-경기도 군포시 산본로323번길 16-29 청송프라자	O O O O O
-네. 삼성카드구요. 2420 0211 0240 4440입니다.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-서울특별시 강남구 언주로172길 59 B1층	O O O O O
-이천시 서초구 교1동 다음주소가 어떻게되십니까?	O O O O O
-저희 은행인 하나은행의 계좌가 맞나요?	O O SS_BRAND-B O O
-이런 감동쓰.... 7월 20일여!!ㅋㅋ	O O SS_BIRTH-B SS_BIRTH-I
-207동 3545호요.	O O
-천재지변은 물론 백성들이 20·30세가 지나도 결혼하지 못하는 것 역시 음양의 부조화로 인식했기 때문이죠	O O O O O O O O O O O O O
-황시하.	SS_NAME-B
-네, 확인 감사합니다. 회수 받을 주소가 경북 김천시 의창구 태복산로31번길 84 맞습니까?	O O O O O O O O O O O O
-제가 송금한 계좌번호는 910807-2189996 입니다.	O O O ID_ACCOUNT-B O
-실제로 3살 정도 돼 보이는 여자아이가 놀고 있는데 어찌나 귀여운지~	O O O O O O O O O O
-주민번호 앞6자리 말씀해 주시겠어요?	O O O O
-티엠아) 제 생일 0414	O O O SS_BIRTH-B
-주민번호 눌러주시겠습니까??	O O
-부산광역시 중구 내손1동 새벽시장로 푸르지오아파트 246동5720호 입니다	O O O O O O O
-성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-롯데홈쇼핑 김도윤입니다.	SS_BRAND-B SS_NAME-B
-011 6451 3649요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-안녕하세요. 광주은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
-변용환요.	SS_NAME-B
-네 황윤리이고요. 010 2038 1332입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-609동 607호 입니다.	O O O
-콜센타번호가 뭔가요?	O O
-확인해 주셔서 감사합니다. 배송받으셨던 주소가 경기 안산시 서호동 맞습니까?	O O O O O O O O O
-2240234입니다.	ID_INUM-B
-경기도 안양시 동안구 동편로183번길 10 명재빌딩	O O O O O O
-무지개마을제일아파트 102동 301호입니다.	O O O
-마지막 4자리는 2708입니다.	O O ID_PHONE-B
-아사꼬와 나는 세 번 만났다.	SS_NAME-B O O O O
-농수산홈쇼핑 소혜민입니다.	SS_BRAND-B SS_NAME-B
-송영빈, 970516-2889030입니다.	SS_NAME-B ID_INUM-B
-아뇨. 분실신고 후 7일동안 기존 등록된 카드를 삼성페이로 이용할 수 있습니다.	O O O O O O O SS_BRAND-B O O O
-병재 이제 만 19세야	SS_NAME-B O SS_AGE-B SS_AGE-I
-창원시 성북구 용담1동 다음주소가 어떻게되시죠?	O O O O O
-마지막 4자리는 6739가 확실합니다.	O O ID_PHONE-B O
-고객님 주민등록번호 뒷자리 어떻게되시죠?	O O O O
-생년월일을 말해주시겠습니까?	O O
-정은이와 트럼프를	SS_NAME-B SS_NAME-B
-핸드폰번호 뒤 4자리 말씀해 주시겠습니까?	O O O O O
-제 생년월일은 821226이에요.	O O ID_INUM-B
-네 가입자분 성함이랑 생년월일 .	O O O O O
-우아 집에서 멀지않은 판교현대백화점에 음식이 진짜 다양하다 ^^	O O O SS_BRAND-B O O O O
-지에스홈쇼핑입니다.	SS_NAME-B
-홈앤쇼핑 박유연입니다.	SS_BRAND-B SS_NAME-B
-이상은님 178이라는데 김보라 감독님도 비슷해보였다	SS_NAME-B SS_LENGTH-B SS_NAME-B O O
-잠시만요. 찾아보니 케이뱅크 이네요.	O O SS_BRAND-B O
-정규재 실장님의 ``경제가 민주화의 대상인가``	SS_NAME-B O O O O
-넌 10살이고, 아지는 2살이잖아	O SS_AGE-B SS_NAME-B SS_AGE-B
-590531 입니다.	ID_INUM-B O
-카카오뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-탁혜빈 650108 입니다.	SS_NAME-B ID_INUM-B O
-핸드폰번호 뒤 4자리 말씀해 주시겠습니까?	O O O O O
-1231동 1691호요.	O O
-생년월일6자리 말씀해 주시겠어요?	O O O
-이고은이었습니다.	SS_NAME-B
-제일 나이 많은 분은 33살!	O O O O SS_AGE-B
-2304-8556 입니다.	ID_PHONE-B O
-해제는 각 금융기관에 문의해주시기 바라며, 수협은 신분증 준비하신 후 영업점 방문해주셔야 합니다.	O O O O O SS_BRAND-B O O O O O O
-네, 반품 처리되었습니다. 김가경이었습니다. 감사합니다.	O O O SS_NAME-B O
-이름 손지연이요.	O SS_NAME-B
-데시앙아파트 403동0655호입니다.	O O
-막둥이의 6살 크리스마스는 이렇게 지나갑니당.	O SS_AGE-B O O O
-4942620입니다.	ID_INUM-B
-``서버값과 개발비는 별도인가요? 그냥 진석씨 서버를 쓰면 안되나요?``	O O O O SS_NAME-B O O O
-(나도 이동진 멘토님처럼 그런 여행을 하고 싶다.)	O SS_NAME-B O O O O O
-072-1947-7251-90입니다.	ID_ACCOUNT-B
-네, 삼천세경아파트 601동 313호요.	O O O O
-고객님께서 정확하게 전화 주신 것이 맞습니다. 경남은행입니다.	O O O O O O SS_BRAND-B
-생년월일을 말씀해 주시겠어요?	O O O
-아도르노 생일이 9월 11일이었구나	SS_NAME-B O SS_BIRTH-B SS_BIRTH-I
-한화포레나아파트 427동5076호입니다.	O O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-제 생년월일은 190814이에요.	O O ID_INUM-B
-331216입니다.	ID_INUM-B
-지에스홈쇼핑입니다. 무엇을 도와드릴까요?	SS_BRAND-B O O
-권승재, 017 779 1841요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-기억이… 아 카카오뱅크 입니다.	O O SS_BRAND-B O
-본 은행인카카오뱅크의 계좌가 맞나요?	O SS_BRAND-B O O
-키 180이라 해도 아무도 안 믿어주는 이유는?	O SS_LENGTH-B O O O O O
-800821요.	ID_INUM-B
-체중 46.7kg -> 47.3kg (+0.6kg) 골격근량 18.9kg -> 19.5kg (+0.6kg) 체지방률 23.6% -> 22.8% (-0.8%)	O SS_WEIGHT-B O SS_WEIGHT-B O O SS_WEIGHT-B O SS_WEIGHT-B O O O O O O
-오늘 밤 9시 ! 근처 제비다방에서 스테레오버블 공연합니다! 놀러오세유!	O O O O O SS_BRAND-B O O O
-네, 반품 도와드렸습니다. 류주하였습니다. 감사합니다.	O O O SS_NAME-B O
-네, 알겠습니다. 회수할 주소는 경북 안동시 금촌1동 10 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O
-87.5kg이었던 몸무게, 2주간 매일 달렸더니	SS_WEIGHT-B O O O O
-회수할 주소가 충남 당진시 남양읍 장덕북길146번길 맞습니까?	O O O O O O O
-네 홈앤쇼핑입니다.	O SS_BRAND-B
-요즘 채아 재우기 전에 양치시키는 용도로 쓰는데, 진짜 좋은듯 :)	O SS_NAME-B O O O O O O O O
-단지는 21개월이고 몸무게는 10킬로라서 M사이즈를 주문했어요~ M사이즈는 8~13kg이 권장 몸무게이니까 참고하세요!	SS_NAME-B SS_AGE-B O SS_WEIGHT-B O O O O O O O
-전체 확인하겠습니다. 말씀해 주신 카드 번호 1122 3120 2433 0323 맞습니까?	O O O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-지금까지 상담사 박상준이었습니다.	O O SS_NAME-B
-6/28 태림 생일	SS_BIRTH-B SS_NAME-B O
-그러나 윤석민 끝내기패	O SS_NAME-B O
-인천광역시 미추홀구 매소홀로 618	O O O O
-GS홈쇼핑입니다. 네 고객님 무엇을 도와드릴까요?	SS_BRAND-B O O O O
-수거할 주소는 배송 받으셨던 경기 화성시 기장군 철마면 곡천길 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O O
-184남 만나로간당 키큰남자 좋아	SS_LENGTH-B O O O
-주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
-임병옥이구요, 050763366입니다. 주소는 영주시 연제구 충인1로 1310-1번지입니다.	SS_NAME-B ID_PHONE-B O O O O O
-고객님의 생년월일을 말씀해 주실수 있으시겠습니까? 년도는 4자리 모두 불러주셔야 합니다.	O O O O O O O O O O
-종현의 마지막 공연이라 하네요.	SS_NAME-B O O O
-핸드폰 번호 알려주시겠어요?	O O O
-네 카드 번호 확인하겠습니다. 신한카드 4404 3413 2412 0414 맞습니까?	O O O O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-네 비씨 카드 4321 2411 4222 0432.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-경기도 파주시 광탄면 보광로 787 카페787	O O O O O O
-제 생년월일은 901101이에요.	O O ID_INUM-B
-4697650입니다.	ID_INUM-B
-MG손해보험과 현대라이프생명보험있으신데 맞으신가요?	SS_BRAND-B SS_BRAND-B O
-네, 삼성 카드, 0000 3243 4144 3231 이요.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-1956년 10월 21입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
-두번째로는 잘 못 이체 하신 계좌번호가 어떻게 되어 있는지 말씀해 주실 수 있나요?	O O O O O O O O O O O O O
-예, 카드 번호 확인하겠습니다. 삼성카드 1102 3302 2232 3321 맞습니까?	O O O O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-네 신한 은행이고요.	O SS_BRAND-B SS_BRAND-I
-내나이 19살.	O SS_AGE-B
-친구의 첫 결혼 우리 모두 서른살! 행복하게 살기	O O O O O SS_AGE-B O O
-1957년 05월 17입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-1984년 03월 18입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-국민은행 상담센터 1588-9999 -> 상담원 9번 -> 상담원 0번	SS_BRAND-B O ID_PHONE-B O O O O O O
-김주원 멘토님 사진은 찍지 못 해서 미리 설명하자면	SS_NAME-B O O O O O O O
-네 지에스홈쇼핑입니다.	O SS_BRAND-B
-거주하고 계신곳의 주소가 서울시 강서구 마곡동 그다음이 어떻게 되시나요?	O O O O O O O O O
-내 지인도 93년생 2월생이니까	O O SS_AGE-B O
-주소가 하남시 강북구 교1동 다음 어떻게되십니까?	O O O O O O
-4049073입니다.	ID_INUM-B
-등록되잇는 핸드폰번호 뒤 4자리 말씀해 주시겠어요?	O O O O O O
-표예원이고 010 4680 1450이요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-본 은행인우리은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
-다친 나를 데리고 겜하신다.... 99년생;;;;;	O O O O SS_AGE-B
-팩스번호 알려주실래요?	O O
-성함이 어떻게 되시나요?	O O O
-예. 김영수, 010 8265 0512요.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-성서무지개타운 102동이요.	O O
-018 703 1615이구요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-019 248 0634입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-성함말씀해 주시겠어요?	O O
-서현 공항패션으로도 이미 유명한 선글라스였어용..ㅋ	SS_NAME-B O O O O
-네, 회수는 배송 받으셨던 서울 마포구 문의면 괴곡안길 맞습니까?	O O O O O O O O O
-행복을 전하는 씨제이오쇼핑, 이동우입니다.	O O SS_BRAND-B SS_NAME-B
-599호.	O
-4146826 입니다.	ID_INUM-B O
-박광석고객님 맞으시죠?	SS_NAME-B O
-공영홈쇼핑 편재훈입니다.	SS_BRAND-B SS_NAME-B
-011 7554 0265요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-제 번호는 2334가 맞아요.	O O ID_PHONE-B O
-서울특별시 서대문구 홍제동 330-226	O O O O
-시골 귀족 계급이었지만 그리 넉넉하지 않았고 전통적인 영국의 상속제도와 신분제도에 대한 여성으로 선택할 수 밖에 없는 폭 넓지 않은 몇가지의 길중 제일 하층민인 노처녀로 스스로 선택한 삶을 살며 지적이며 활력넘치고 개성이 강해 풍자에 능한 작가로써 주변 사람들의 어리석음과 속물주의를 비판하고 조소하는데에는 데 망설임없는 작가로 살다가 41세 원인불명의 병으로 세상을 떠났다...	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O SS_AGE-B O O O O
-그래서 저희 KB생명은 1095만원을, 타 보험사는 405만원을 지급해드립니다.	O O SS_BRAND-B O O O O O
+우리할머니 45년생인데	O SS_AGE-B
+기다려 주셔서 감사합니다. 회수는 경기 성남시 분당구 동탄지성로 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O
+장소 : 안산문화광장	O O O
+스위첸아파트 528동5813호입니다.	O O
+말씀 드려야지요. 350810 이에요.	O O ID_INUM-B O
+힘찬이의 팔 다리가 차가워서	SS_NAME-B O O O
+4/1 생일인데.. 선물은 4/20 쩝...	SS_BIRTH-B O O O O
+KDB생명보험 확인되십니다.	SS_BRAND-B O
+466동 2567호.	O O
+네, 확인 감사합니다. 수거 주소지는 고객님 배송받으셨던 충북 음성 이원면으로 진행을 해드릴까요?	O O O O O O O O O O O O
+서울특별시 중구 명동길 43 신한금융센터 1~4층	O O O O O O
+네, 반품 접수되었습니다. 김대완이었습니다. 감사합니다.	O O O SS_NAME-B O
+전화번호 뒷 4자리는 어떻게 되어 있습니까?	O O O O O O
+다시한번 청주 영민이형, 콩이양 두분의 결혼식 진심으로 축하드리며	O O SS_NAME-B SS_NAME-B O O O O
 168언니가 찍어준 155 날씨가 다했던 날	SS_LENGTH-B O SS_LENGTH-B O O O
-대구은행입니다. 네 고객님 재발급원하시나요?	SS_BRAND-B O O O
-우리은행 통장 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
-154 / 88 인데	SS_LENGTH-B O SS_WEIGHT-B O
-공영홈쇼핑 박주미입니다.	SS_BRAND-B SS_NAME-B
-하나은행에서 발급한 하나원체크카드 맞으시죠?	SS_BRAND-B O O O
-신예미, 010 1486 8988.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-1997년05월03일입니다.	ID_INUM-B
-위생안대도 그렇고 직원수가 많은 것도, 7세 이상 어린이도 할 수 있다는 점까지	O O O O O O O O O O O O
-4746176 입니다.	ID_INUM-B O
-발음이 명확하지 않습니다. 보다 나은 서비스를 위하여 다시 질문 드리겠습니다. 토스뱅크 홈페이지에 접속이 불가능 하다는 말씀 맞으십니까?	O O O O O O O O O O SS_BRAND-B O O O O O O
-869573입니다.	ID_INUM-B
-23살 학생이고 현재 모은돈 240입니다...	SS_AGE-B O O O O
-우와	SS_LENGTH-B
-공영홈쇼핑 김태하입니다. 고객님 무엇을 도와드릴까요?	SS_BRAND-B SS_NAME-B O O O
-우리는 각각 17, 14살인 딸이 있는데 큰 애는 이번 가을에 대학생이 되었고, 작은 애는 고등학생이에요.	O O SS_AGE-B SS_AGE-I O O O O O O O O O O O
-본인의 생년월일이 어떻게 되십니까?	O O O O
-수협 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
-채소원요.	SS_NAME-B
-지에스쇼핑 심유리입니다.	SS_BRAND-B SS_NAME-B
-그토록 기다렸던 레오 까락스 감독의 <홀리 모터스>를.♡	O O SS_NAME-B SS_NAME-I O O O
-여수 돌게장 백반, 거북이 식당	O O O O O
-‘오베’는 직장에서 은퇴한 59세의 남자이다.	SS_NAME-B O O SS_AGE-B O
-자이아파트 274동8136호입니다.	O O
-차범민이고요.	SS_NAME-B
-51세의 젊은 나이로 안타까운	SS_AGE-B O O O
-저희 은행인 부산은행이 맞으신가요?	O O SS_BRAND-B O
-공유라.	SS_NAME-B
-래미안아파트 952동 338입니다.	O O O
-1027	SS_BIRTH-B
-홍태식입니다.	SS_NAME-B
-나 60.7kg	O SS_WEIGHT-B
-29살 사무실 직원은 새누리당 국회의원 낙선자 아들인데 회사 경영진에게 위로금을 주면 퇴사를 하겠다고 이메일을 보내고 이를 공개했다고 한다.	SS_AGE-B O O O O O O O O O O O O O O O O O
-생년월일 850909 맞으십니까?	O ID_INUM-B O
-콜센터 번호 좀 알려주실 수 있을까요?	O O O O O O
-이원기, 010 9269 4290요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-네, 정보 확인 후 도와드리겠습니다. 성함과 전화번호 확인 부탁드립니다.	O O O O O O O O O
-최하용이고요.	SS_NAME-B
-정준일씨의 인생노래라고도 잘 알려진 이 노래,	SS_NAME-B O O O O O
-키 137cm	O SS_LENGTH-B
-정형기인데요. 461128-1706656인데요.	SS_NAME-B ID_INUM-B
-저는 25인데	O SS_AGE-B
-광주은행 중 출금 계좌번호와 비밀번호, 보안매체, 본인인증이 필요합니다.	SS_BRAND-B O O O O O O O
-한인수 1980년 09월 04일 입니다.	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O
-2747947요.	ID_INUM-B
-717동 2796호.	O O
-25살의 철없는 어른이가 되어있다니	SS_AGE-B O O O
-유이는 현재 49.8kg이다. 프로필상 키가 173cm라는 점을 고려할 때 유이는 늘씬한 몸매를 자랑한다.	SS_NAME-B O SS_WEIGHT-B O O SS_LENGTH-B O O O SS_NAME-B O O O
-스타벅스에 있다가 4시30분에 들어온다는 곳에 가서 지금 샀어	SS_BRAND-B O O O O O O O
-940406-2750448입니다.	ID_INUM-B
-안녕하세요. 토스뱅크 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
-3704576입니다.	ID_INUM-B
-9681입니다	ID_PHONE-B
-무게가 가벼워 지면, 70kg = 14:00 분 정도 가능하려나.	O O O SS_WEIGHT-B O O O O O
-광주은행 상담원입니다. 맞게 전화 주셨습니다.	SS_BRAND-B O O O O
-20대 중반으로 보여 아까 93년생 선생님이 있다고 했는데 그 선생님이 아닐까 했습니다.	O O O O SS_AGE-B O O O O O O O
-자꾸 용환이가 스우시 따라하라고 하는데 어케 하는지 모르겠다구요!!	O SS_NAME-B O O O O O O
-네 공영홈쇼핑입니다.	O SS_BRAND-B
-센트레빌아파트 433동1297호입니다.	O O
-네 확인 감사합니다. 배송 받으셨던 주소지 서울 관악구 명동7길 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O O
-현경이 동네 온다고 해서 두부 데리고 나와서 산책	SS_NAME-B O O O O O O O
-나 173.6 나왔어 옆에 기계로	O SS_LENGTH-B O O O
-키 181 기준으로요	O SS_LENGTH-B O
-부산은행이고 계좌는87822입니다.	SS_BRAND-B ID_ACCOUNT-B
-고객님 주소가 진주시 수지구 철산1동 다음 무엇인가요?	O O O O O O O
-제 생년월일은 430509이에요.	O O ID_INUM-B
-김미현님 생년월일 말씀 부탁드립니다.	SS_NAME-B O O O
-DB생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-180 다시 7 3909호요.	O O O O
-고객님 주민등록번호뒷자리가 어떻게 되시나요?	O O O O
-ABL생명보험이 확인되십니다	SS_BRAND-B O
-네, 반품 처리되었습니다. 김수연이었습니다. 감사합니다.	O O O SS_NAME-B O
-저는 6살 때부터 피아노를 배웠고, 초등학교에 들어가면서 바이올린을 함께 배웠어요.	O O O O O O O O O O
-생년월일6자리 말씀해 주시겠어요?	O O O
-대영빌딩 99동 2787호요.	O O O
-예. 네. 불편 드려 정말 죄송합니다. 제가 심재서고객님으로 정정 도와드렸습니다.	O O O O O O O SS_NAME-B O O
-행복을 전하는 현대홈쇼핑, 손지호였습니다.	O O SS_BRAND-B SS_NAME-B
-문윤빈입니다.	SS_NAME-B
-아무리 젊다, 아니 어리다지만 (슈퍼파워 22세☆)	O O O O O SS_AGE-B
-896호.	O
-기억 나네요. 케이뱅크이에요.	O O SS_BRAND-B
-감사합니다. 저는 조유은이었습니다.	O O SS_NAME-B
-항상 다이어트를 하면 45에서 정체기가 온다.	O O O SS_WEIGHT-B O O
-본 한국스탠다드차타드은행이 맞으신가요?	O SS_BRAND-B O
-20대 초반때 대학교를 휴학하고	O O O O
-최근 몸무게는 45kg였다.	O O SS_WEIGHT-B
-영천시 동래구 상망동 다음주소가 어떻게되십니까?	O O O O O
-박경리가 <토지> 1부를 쓰기 시작한 것은 1969년, 나이 마흔 셋에 다다라	SS_NAME-B O O O O O O O SS_AGE-B SS_AGE-I O
-네, 감사합니다. 롯데홈쇼핑 김희찬이었습니다.	O O SS_BRAND-B SS_NAME-B
-고객님의 출생월일이 무엇인가요?	O O O
-저의 휴대폰 번호 자리는 7172번 으로 되어있어요.	O O O O ID_PHONE-B O O
-근데 할머니가 니생일 1월 5일인거 알고 널라셧지	O O O SS_BIRTH-B SS_BIRTH-I O O
-마흔셋에 출산한 아이가 지금은 다섯 살이 됐다고.	SS_AGE-B O O O SS_AGE-B SS_AGE-I O
-네. 28 51 43 18 6 3요.	O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
-네 이규원이고, 010 1514 0449입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-<아침몸무게 : 46.45kg>	O O SS_WEIGHT-B
-25살이고 계약직 취업한지 7개월정도 됬는데	SS_AGE-B O O O O
-체력도 외모도 나이를 먹지만 속은 30살 이후로 멈춘 것 같다.	O O O O O O O O O O
-작금엔 나이 서른네살먹은 꽝미남 1인...	O O SS_AGE-B O O
-네, 국민 은행이요.	O SS_BRAND-B SS_BRAND-I
-젊은 내가(쉰다섯이?ㅋㅋ) 어떤 역할을 해야 하는데.....	O SS_AGE-B O O O O
-잘함주의❗️ 김주영	O SS_NAME-B
-주말이라 40%할인혜택을 받기로 하고 아드쟈나와 만나기로 했다.	O O O O SS_NAME-B O O
-제 번호는 7456가 맞습니다.	O O ID_PHONE-B O
-생년월일6자리 말씀해 주시겠어요?	O O O
-고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
-아닙니다. 저는 상담사 김승진이었습니다.	O O O SS_NAME-B
-기억이… 아 대구은행 인 것 같은데요.	O O SS_BRAND-B O O O
-2022년 04월 29입니다	ID_INUM-B ID_INUM-I ID_INUM-I
-제레미 스캇의 첫번째 모스키노 향수,	SS_NAME-B SS_NAME-I O O O
-군대생활 마무리를 광주 비행장에서 했고, 아버님 고향이 하남면 장덕리 736번지라 자주 다녔던 곳입니다.	O O O O O O O O O O O O O
-나 4월 6일 한참남음~~	O SS_BIRTH-B SS_BIRTH-I O
-네, 현재 저의 NH농협생명은 메트라이프생명에 현장확인을 위탁하고 있습니다.	O O O SS_BRAND-B SS_BRAND-B O O O
-25세의 여자인데, 사실 여자 같지는 않다.	SS_AGE-B O O O O O
-가격 괜찮음 에어비앤비 ㅋㅋ 대구니까 좀 더 싸지 않을까 ?	O O SS_BRAND-B O O O O O O O
-010-536-0406으로 전화신청하시면 됩니다	ID_PHONE-B O O
-어느새 이스트우드도 아흔 살이 됐으니까.	O SS_NAME-B SS_AGE-B SS_AGE-I O
-직장주소 .	O O
-신해철의 부고를 들으며, 내 추억의 소장품을 펼쳐본다.	SS_NAME-B O O O O O O
-4468235요.	ID_INUM-B
-힘들어도 중간중간 사진도 찍고 정말 대견한 5살 원이!	O O O O O O SS_AGE-B SS_NAME-B
-주민등록번호뒷자리가 어떻게되시죠?	O O
-기다려주셔서 감사합니다. 회수 주소지는 충북 충주시 문화1동 맞습니까?	O O O O O O O O
-파프링고가 만 3세가 되었답니다	SS_NAME-B SS_AGE-B SS_AGE-I O
-8월2일은 우리 다온이 생일	SS_BIRTH-B O SS_NAME-B O
-네 GS홈쇼핑 정예연입니다.	O SS_BRAND-B SS_NAME-B
-그럼, 본인의 생년월일이 어떻게 되나요?	O O O O O
-기다려주셔서 감사합니다. 회수 주소지는 경기 의정부시 거제면 맞습니까?	O O O O O O O O
-박승수이고요.	SS_NAME-B
-6살 익살꾼 승주니와 승준아빵님의 멋진 스냅까지 구경할 수 있는!	SS_AGE-B O SS_NAME-B SS_NAME-B O O O O O
-숫자가 주는 힘. 54kg.	O O O SS_WEIGHT-B
-제 키는 170cm 입니다^^	O O SS_LENGTH-B O
-콜센터 전화가 어떻게 되죠?	O O O O
-봉호준, 871026입니다.	O ID_INUM-B
-해당 지점 전화번호는 7239-0696입니다.	O O O ID_PHONE-B
-감사합니다. 저는 홍하은이었습니다.	O O SS_NAME-B
-제주은행입니다	SS_BRAND-B
-현재 회수 주소는 배송 받으셨던 주소 경기도 안산시 상록구 선릉로 90길 맞습니까?	O O O O O O O O O O O O
-쉰일곱 살인 오를란도(프란시스코 리예스)가 그녀의 연인이다.	SS_AGE-B SS_AGE-I SS_NAME-B SS_NAME-I O O
-홈앤쇼핑 최지은입니다.	SS_BRAND-B SS_NAME-B
-송연경이고 010 0196 9067요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-1950916요.	ID_INUM-B
-전화번호 뒷 4자리는 어떻게 되나요?	O O O O O
-219동 2687호입니다.	O O
-2002년에 집어왔으니 16살.	O O SS_AGE-B
-1896년 9월 24일 미국 미네소타주 세인트폴에서 태어났다 프린스턴 대학교 재학시절 1차 세계대전이 발발하자 입대하여 육군 소위로 임관했다..	ID_INUM-B ID_INUM-I ID_INUM-I O O O O O O O O O O O O O O
-네 반품 처리되었습니다. 저는 박시하였습니다.	O O O O SS_NAME-B
-성수동 카페 대림창고	O O O
-성함과 생년월일 부탁드립니다.	O O O
-750425입니다.	ID_INUM-B
-번호 4자리는 4284가 맞습니다.	O O ID_PHONE-B O
-신동아빌라 301호요.	O O
-반품 주소는 배송 받으셨던 인천 연수구 오현로이하 주소 확인 부탁드립니다.	O O O O O O O O O O
-5455 0003 6322 0408요.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-네, 확인 감사합니다. 양하은고객님 맞습니까?	O O O O SS_NAME-B
-김진수 (178 / 60)	SS_NAME-B SS_LENGTH-B O SS_WEIGHT-B
-3038077 입니다.	ID_INUM-B O
-단지는 23개월 10킬로 아기라서	SS_NAME-B SS_AGE-B SS_WEIGHT-B O
-생일을 .	O O
-울경이가 나랑 커피 마시러 온다구 해서 뛰만모 애들 회의하는데 옆에서 얌전히 경이를 기다렸다.	SS_NAME-B O O O O O O O O O O SS_NAME-B O
-158cm 78Kg 평범한 여고생이에양	SS_LENGTH-B SS_WEIGHT-B O O
-성재리 이하 주소 확인 부탁드리겠습니다.	O O O O O
-아 예 신한 은행이고요.	O O SS_BRAND-B SS_BRAND-I
-선생님의 출생월일이 어떻게 됩니까?	O O O O
-머리가 엄청 좋은 17살이다.	O O O SS_AGE-B
-민승이보구... 군대가기전엔 선생님 보자고 했더니.. 9살인 지금...이제 2년마다 오면 될것 같다고 하시면서	SS_NAME-B O O O O SS_AGE-B O O O O O O
-케이뱅크 고객센터는 항상 이 번호로 연락주시면 됩니다.	SS_BRAND-B O O O O O O
-반품은 대한통운에서 오죠?	O SS_BRAND-B O
-김연아 선수에 대한 경외심.!	SS_NAME-B O O O
-생일이 언제더라?	O O
-팩스가 편하겠네요. 번호 부탁해요.	O O O O
-전화번호를 모르는데 좀 알려주시겠어요?	O O O O
-난 기미가 많아서ㅠㅠ(33세인데도!!! ㅠㅠ)	O O SS_AGE-B O
-그러시군요. 배송 받았던 주소가 경기도 고양시 일산서구 경의로 확인되는데 맞습니까?	O O O O O O O O O O
-경윤이형과 민규가 만들어준	SS_NAME-B SS_NAME-B O
-네 씨제이오쇼핑입니다.	O SS_BRAND-B
-푸른들판로567번길 현대아파트 1129동 2211호 입니다.	O O O O O
-서찬이 생일 11월19일	SS_NAME-B O SS_BIRTH-B
-지우네조개구이입니다.	SS_BRAND-B
-서원면 경강로요.	O O
-중소기업은행 전화번호는 항상 이 전화번호 입니다.	SS_BRAND-B O O O O O
-네, 반품 처리되었습니다. 홍나연이었습니다. 감사합니다.	O O O SS_NAME-B O
-차를 타고 이동해서 자세한 위치는 모르겠고 전번은 954- 6292란다.	O O O O O O O ID_PHONE-B ID_PHONE-I
-NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-네, 회수할 주소가 경기도 시흥시 다대롯데캐슬몰운대아파트 맞습니까?	O O O O O O O
-열네 살 소년 모모의 성장기라고 할 수 있는 이 작품을 애독한다는 말을 들으니, 그녀가 왜 열네 살 소녀 경언(이재인)을 주인공으로 한 영화 <어른도감>을 만들었는지 이해가 된다.	SS_AGE-B SS_AGE-I O SS_NAME-B O O O O O O O O O O O SS_AGE-B SS_AGE-I O SS_NAME-B O O O O O O O
-이름은 최선웅, 010-0014-7918입니다.	O SS_NAME-B ID_PHONE-B
-저희집은 5세와 9세 둘다 있어서 모든 카드를 다 섞어서 했더니	O SS_AGE-B SS_AGE-B O O O O O O O
-통장개설 지역이 어디이신가요?	O O O
-네 CJ오쇼핑쇼핑입니다.	O SS_BRAND-B
-박근혜 - 최순실을 니콜라이 2세 - 라스푸틴이 매우 비슷하더라고요.	SS_NAME-B O SS_NAME-B SS_NAME-B SS_NAME-I O SS_NAME-B O O
-대미친 풍형 89키로야??.	O SS_NAME-B SS_WEIGHT-B
-하늘채아파트 178동9291호입니다.	O O
-2315-3830입니다.	ID_PHONE-B
-부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-동문굿모닝힐아파트 875동1940호입니다.	O O
-고객콜센터 (1809-8052) 전화 하셔서 ARS 1번을 누르면 언제든지 사고접수 및 상담 가능합니다.	O ID_PHONE-B O O O O O O O O O O
-끝나지 마라 스물아홉 살	O O SS_AGE-B SS_AGE-I
-감사합니다. 저는 정하연이었습니다.	O O SS_NAME-B
-안녕하십니까? 씨제이오쇼핑 이유은입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
-ㅇㅇ 카드 4433 0111 3210 2144 맞습니까?	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
-2901836요.	ID_INUM-B
-현재 17살이지만 훌륭하고도 노련한 연주를 보여줬다.	O SS_AGE-B O O O O
-별이는 3키로 아기라서 무게가 많이 나가진 않으니 박스가 부서지진 않겠죠.	SS_NAME-B SS_WEIGHT-B O O O O O O O O
-배송 받으셨던 주소 대구 수성구 율하동 율하휴먼시아 6단지 이하 주소 말씀해주시겠습니까?	O O O O O O O O O O O
-그래서 요요가 오더라도 일단 정상은 아니더라도 80 정도까지는 빼보려고 합니다.	O O O O O O SS_WEIGHT-B O O O
-계약자님 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
-인테리어를 참고하려고 이케아에 다녀왔어요^^	O O SS_BRAND-B O
-북구 동천동 부영e그린타운 209호요.	O O O O
-보냈던 제 계좌번호는 016-7527-6254 이에요.	O O O ID_ACCOUNT-B O
-표진성고 주민번호는 691225입니다.	SS_NAME-B O ID_INUM-B
-휴대전화 번호 뒷 4자리는 어떻게 되어 있습니까?	O O O O O O O
-본 은행인농협농협의 계좌가 맞나요?	O SS_BRAND-B O O
-가입자분 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
-감사합니다. 롯데홈쇼핑 구미지입니다.	O SS_BRAND-B SS_NAME-B
-농협카드고요. 1010 1312 1034 3420	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-휴대폰 전화번호와 이름을남겨주시면 수리가 완료되는 데로 문자 또는 전화를 통하여 안내를 도와드리도록 하겠습니다.	O O O O O O O O O O O O O
-남궁현정이고 330602입니다.	SS_NAME-B ID_INUM-B
-네 확인해 주셔서 감사합니다 고객님 회수는 서울 동작구 온천장로 125번안길 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O O O
-제 생년월일은 370129이에요.	O O ID_INUM-B
-위브아파트 722동3430호입니다	O O
-22살 소정이	SS_AGE-B SS_NAME-B
-052 8358 0227이요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-3209672 입니다	ID_INUM-B O
-네 배송받으셨던 주소 경기 하남시 팽성읍 송화리 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O
-케이뱅크 통장 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
-안녕하세요. 광주은행 홈페이지에 접속이 안됩니다.	O SS_BRAND-B O O O
-광주광역시 동구 동계천로5번길 입니다.	O O O O
-CJ오쇼핑 한서현이었습니다.	SS_BRAND-B SS_NAME-B
-신길6동지점 CD기입니다.	O O
-최용수 해설위원님ㅋㅋㅋㅋㅋㅋㅋㅋ넘웃겨서	SS_NAME-B O
-921110-2707740요.	ID_INUM-B
-동양생명건강보험이 확이되십니다.	SS_BRAND-B O
-그러면 먼저 저희 지에스홈쇼핑에 등록하신 전화번호 확인 좀 부탁드립니다.	O O O SS_BRAND-B O O O O O
-백태하.	SS_NAME-B
-019-1913-8485 입니다.	ID_PHONE-B O
-안성완, 010 6488 0760.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네, 다시 한 번 확인하겠습니다. 우리은행 388 044226 65 388 맞습니까?	O O O O O SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+저의 번호는 9021입니다.	O O ID_PHONE-B
+서울특별시 서초구 서초대로75길 37	O O O O
+네, 확인 감사합니다. 회수할 주소가 배송 받으셨던 경북 상주시 진량읍 금박로 맞습니까?	O O O O O O O O O O O O
+010 8326 3362.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+휴대전화 번호 마지막 4자리는 어떻게 되나요?	O O O O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+유니클로 일하던얘 답장없어서 답답해 디지겠당><	SS_BRAND-B O O O O
+178/ 60	SS_LENGTH-B SS_WEIGHT-B
+네, 반품 처리되었습니다. 김지욱이었습니다. 감사합니다.	O O O SS_NAME-B O
+1978년 07월 02입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+광안리 민락동 카페 그레코 방문!!	O O O O O
+58키로만 나가도 좋겠다ㅠㅠ	SS_WEIGHT-B O O
+490721입니다.	ID_INUM-B
+서울여대 교정 소나무 아래에서 따뜻한5월의 어느 봄날에 태릉교회의 첫예배가 시작됩니다.	SS_BRAND-B O O O O O O SS_BRAND-B O O
+1968년 12월 13입니다	ID_INUM-B ID_INUM-I ID_INUM-I
 키 163cm에 몸무게 65kg인 '통통녀'가 알려주는 뱃살 싹 가리며	O SS_LENGTH-B O SS_WEIGHT-B O O O O O
-보냈던 저의 계좌번호는 430730-3299240 입니다.	O O O ID_ACCOUNT-B O
-2605370입니다.	ID_INUM-B
-010-701-7542번으로 보내주시면 됩니다	ID_PHONE-B O O
-제 생년월일은 200125이에요.	O O ID_INUM-B
-26세 영스타 회춘 프로젝트	SS_AGE-B SS_NAME-B O O
-예 국민 카드구요 2204 3302 3201 2113	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-무모하지만 푸르고 따갑지만 아름다웠던 내 스물 셋 여름 안녕!	O O O O O SS_AGE-B SS_AGE-I O O
-선생님의 출생월일이 무엇입니까?	O O O
-자녀분 생년월일이요?	O O
-중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-뱃속아기 모모가 건강하게 크고있어서 좋긴하지만,	O SS_NAME-B O O O
+청주대학교 석우문화체육관 1899-0042 (공연관련문의)	O O ID_PHONE-B O
+141029 입니다.	ID_INUM-B O
+직원 분 울엄마랑 동갑이야 71년생	O O O O SS_AGE-B
+010 1490 6184요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+고객님 주민등록번호뒷자리가 어떻게 되시나요?	O O O O
+가수 휘성이 태진아씨 기획사인것도,	O SS_NAME-B SS_NAME-B O
+네비게이션 주소: 경기도 시흥시 서해안로 699 시흥 프리미엄 아울렛 고객센터 : 1644-4001	O O O O O O O O O O O ID_PHONE-B
+하나 카드 3210 1211 0311 4203.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+127동 3005호요.	O O
+배송 받으셨던 서울 중랑구 자산동18길 84 이하 주소 확인 부탁 드리겠습니다.	O O O O O O O O O O O
+2동 1519호.	O O
+노동현 87년 01월 12일 입니다.	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O
+9월27일 생일인사람! 나야나~	SS_BIRTH-B O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+이강근 목사님의 페북에서 공유해 왔습니다.	SS_NAME-B O O O O
+엔에스홈쇼핑입니다.	SS_BRAND-B
+아, BC바로카드입니다.	O SS_BRAND-B
+010-965-4434번이요	ID_PHONE-B
+통일로 한밭우성아파트 256동 3039호요.	O O O O
+부산광역시 수영구 광안해변로 125 3층	O O O O O
+2017 사하라사막마라톤 출전하는 김채울입니다.	O O O SS_NAME-B
+고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
+영주시 완산구 하서동 다음주소가 어떻게되십니까?	O O O O O
+대구은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다.	SS_BRAND-B O O O O O O O O O O
+네, 반품 처리되었습니다. 노정은이었습니다. 감사합니다.	O O O SS_NAME-B O
+남궁인혁입니다.	SS_NAME-B
+감사합니다. 회수할 주소는 경남 사천시 송악읍 은빛마을11단지 아파트 동 호수도 부탁드립니다.	O O O O O O O O O O O
+네 삼성카드 4342 3111 4200 1434	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+생년월일 앞6자리 말씀해 주시겠어요?	O O O O
+로버트 알드리치 감독의 <특공대작전>	SS_NAME-B SS_NAME-I O O
+본 은행인부산은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+819호.	O
+먼저 본인확인을 위해 고객님의 성함과 생년월일 말씀해 주시겠습니까?	O O O O O O O O
+강지영, 010 6355 4815입니다.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+2300103입니다.	ID_INUM-B
+신한라이프(구신한생명)보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+씨제이오쇼핑 손영재입니다.	SS_BRAND-B SS_NAME-B
+대구은행 통장 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+6566-123-5348	ID_PHONE-B
+4051280입니다.	ID_INUM-B
+친구의 첫 결혼 우리 모두 서른살! 행복하게 살기	O O O O O SS_AGE-B O O
+우리은행 맞습니까?	SS_BRAND-B O
+신세계쇼핑 이시영입니다.	SS_BRAND-B SS_NAME-B
+울 큰아들 민승이...올해 이제 7살이구요..	O O SS_NAME-B O SS_AGE-B
+성함을 말씀해 주시겠어요?	O O O
+우리 은행 902 012 26719 맞습니까?	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+악사손해보험사는 1580-2736입니다	SS_BRAND-B ID_PHONE-B
+성재리 이하 주소 확인 부탁드리겠습니다.	O O O O O
+조지오웰의 원작!	SS_NAME-B O
+265동4699호입니다.	O
+오늘 에맥신어서 183 >_<	O O SS_LENGTH-B O
+오늘 마지막회에서 21살 현빈 진짜 귀여웠어.	O O SS_AGE-B SS_NAME-B O O
+02) 3446-7600	ID_PHONE-B ID_PHONE-I
+AIG손해보험 확인되십니다.	SS_BRAND-B O
+나의 동생이, 선희더러 `요물`이라고 했던게 기억나네...	O O SS_NAME-B O O O
+아라 생일 12/9래^^...	SS_NAME-B O SS_BIRTH-B
+고객님 가까운 수협에 방문하셔서 사고 보상신청서를 작성해주시겠습니까?	O O SS_BRAND-B O O O O
+29세 요절한 국민 가수 배호씨의 노래가 좋습니다.	SS_AGE-B O O O SS_NAME-B O O
+상품 금액 육만 구천원이구요. 배송 받을 주소지는 서울 은평구 팔야산단로 맞습니까?	O O O O O O O O O O O
+백항선교수 010-1326-9575	SS_NAME-B ID_PHONE-B
+태백시 중구 주월동 다음주소가 어떻게되십니까?	O O O O O
+유사자 : 배수태 (010-5912-3466, 010-5699-3466)	O O SS_NAME-B ID_PHONE-B ID_PHONE-B
+1997년 04월 05입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+500동 3332호 입니다.	O O O
+110609입니다.	ID_INUM-B
+경상남도 거제시 거제면 내간리요.	O O O O
+-_-; 어제 SOS잠깐 봤는데 33살 먹은 강박증 환자가 5년간 백수로 지내며 직장을 못 다니는 자기 처지를 한탄하면서 엄마를 패고 나날히 망가져가는 걸 봤다.	O O O O SS_AGE-B O O O O O O O O O O O O O O O O O O
+서울시 완산구 동군산로 벽산블루밍아파트 입니다.	O O O O O
+인천국제공항 1577-2600	SS_BRAND-B ID_PHONE-B
+본 토스뱅크의 계좌가 맞습니까?	O SS_BRAND-B O O
+함께하는 중소기업은행입니다. 어떤 업무를 도와드리면 되겠습니까?	O SS_BRAND-B O O O O
+송진옥이고 생년월일은 311023입니다.	SS_NAME-B O ID_INUM-B
+앗 근데, 다시 또 들었는데, 그 분이 92년생이라서..	O O O O O O O SS_AGE-B
+먼저 신림 다니엘옴므 매장 내부 모습입니다!	O O O O O O
+부산은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+성함말씀해 주시겠어요?	O O
+주민번호 끝자리는 0479가 맞나요?	O O ID_INUM-B O
+생년월일은 어떻게 되시나요?	O O O
+<공복몸무게 : 49.3kg>	O O SS_WEIGHT-B
+(0532)83610980	ID_PHONE-B
+정유미-나영석 부터 카카오 카풀로 인한 택시파업	SS_NAME-B O O O O O
+네, 김은원이구요.	O SS_NAME-B
 2701동 3644호요.	O O
-그러니까 지금부터 50살만 더살아죠 ◟̊◞̊	O O O O O
-010 8354 8692요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
-박지성 178센티라 저기안에 들어가요	SS_NAME-B SS_LENGTH-B O O
-우리 비씨 카드 1230 1124 2234 1230이요.	SS_BRAND-B SS_BRAND-I O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
-전화번호 마지막 4자리는 어떻게 되나요?	O O O O O
-사이즈 안맞아서 버리나요?ㅋㅋ 56키로였는데 지금 군대온지 3달됬는데 65키로 됨;;	O O O SS_WEIGHT-B O O O SS_WEIGHT-B O
-전화번호 뒷자리는 어떻게 되십니까?	O O O O
-제 국민은행 통장이 대포통장으로 쓰여서 돈이 출금됬으니 확인바란다고 합니다.	O SS_BRAND-B O O O O O O O
-삼구트리니엔아파트 201동 5층입니다.	O O O
-이름 조나은 (30/국어강사)	O SS_NAME-B SS_AGE-B
-제가 이체한 계좌번호는 010-8392-8058 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
-대구은행 224-0738-5828-04 권인성입니다..	SS_BRAND-B O SS_NAME-B
-여보세요. 중소기업은행 맞나요?	O SS_BRAND-B O
-기억이… 아 카카오뱅크 인 것 같은데요.	O O SS_BRAND-B O O O
-김해에서 여기까지 노래 배우겠다고 올라와서 열심히 하는 우리 진화~!! 아현고등학교 합격소식!!	O O O O O O O O SS_NAME-B SS_BRAND-B O
-8721-3424입니다	ID_PHONE-B
-스물아홉이 됐지만 마음은 스무살이다 정말ㅋ	SS_AGE-B O O O O
-340810입니다	ID_INUM-B
-성함과 주민번호 앞자리말씀해 주시겠습니까?	O O O O
-JTBC 손석희를 사장으로 유입할 때부터 냄새가 났지...	SS_BRAND-B SS_NAME-B O O O O O
-금님이 생일이 지난 2월 25일 이었어요.	SS_NAME-B O O SS_BIRTH-B SS_BIRTH-I O
-두아들 민승&민호가 9월20일이 생일이였어요~~	O SS_NAME-B SS_BIRTH-B O
-지에스홈쇼핑 최미지입니다.	SS_BRAND-B SS_NAME-B
-마른편이긴한데..요새 먹는것도 엄청먹고 하는데...56키로나와서 여친집 무게재는게 고장났다고하고 지금 밥먹고 쟀는데...	O O O SS_WEIGHT-B O O O O O O
-청소년은 만 13세~ 만 18세구요	O O O O O
-메트라이프생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
-ㅇㅇ ^^ 살좀 빼서 내려갈께 ㅋㅋㅋ 나 63kg 충격받아서 다요트 시작했어 지금 61키로 나가..	O O O O O O O SS_WEIGHT-B O O O O SS_WEIGHT-B O
-배방읍 공수13리 아산배방한라비발디아파트 110동 2436호입니다.	O O O O O
-기다려 주셔서 감사합니다. 수거할 주소는 배송받으셨던 대구 달서구 상도1동 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O O
-반품하실 주소 경북 구미시 그 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O
-고희석 51.03.21입니다.	SS_NAME-B ID_INUM-B
-저희 농협을 통해서 만든 계좌가 맞습니까?	O SS_BRAND-B O O O O
-남혜진요.	SS_NAME-B
+017 7869 4679요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+제 생년월일은 860826이에요.	O O ID_INUM-B
+안녕하십니까? 농산물홈쇼핑 서해하입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+오잉? 120kg로 내려갈줄 알았는데	O SS_WEIGHT-B O O
+성주군 수륜면 성리.	O O O
+카카오뱅크 입니다.	SS_BRAND-B O
+연락받으실 전화번호 확인해 주시겠어요?	O O O O
+네 기다려주셔서 감사합니다 회수지는 서울 은평구 대덕대로 전포대로216번길 이하 주소 말씀 부탁 드립니다.	O O O O O O O O O O O O O
+네. 서울 노원구 방배1동 예당호동길 902 하림아파트 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O
+농수산홈쇼핑입니다.	SS_BRAND-B
+성함과 생년월일 부탁드립니다.	O O O
+아 신한은행이네요.	O SS_BRAND-B
+903 84 642 044 입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+다경이 스물세살 생일 축하해	SS_NAME-B SS_AGE-B O O
+받으셨던 주소 확인하겠습니다. 인천 동구 서봉로 이하 주소 말씀하시겠습니까?	O O O O O O O O O
+덕진구 가재미3길 101호 입니다.	O O O O
+네 106동 2217호	O O O
+520921-3517552입니다.	ID_INUM-B
+성함을 말씀해 주시겠어요?	O O O
+고려 태조 원년(918년)에 54세의 나이로 입적하자 태조 왕건(王建)이 ` 선각(先覺) `이라는 시호(諡號)를 내리고, 탑 이름을 ` 편광탑(遍光塔) `이라 하였다고 한다.	O O O SS_AGE-B O O SS_NAME-B SS_NAME-I O O O O O O O O O O O O
+1599-1312	ID_PHONE-B
+네 롯데카드 3312 3442 2333 0111요.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+090101 개범쓰 생일이었어요 단호박 케이크 만들어서 냠냠 했지요~	SS_BIRTH-B SS_NAME-B O O O O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+잠시만 기다려 주세요. 빨리 찾아볼께요. 802-907-802입니다.	O O O O O ID_ACCOUNT-B
+이후 44kg를 감량해 화제를 모았다.	O SS_WEIGHT-B O O O
+지에스쇼핑입니다.	SS_BRAND-B
+983-0324-0130-01 입니다.	ID_ACCOUNT-B O
+우리 입맛까다로운 9살 님도..맛있다고~~	O O SS_AGE-B O
+씨제이오쇼핑입니다.	SS_BRAND-B
+키도 170cm...ㅋㅋ 다들 키가 장신이야	O SS_WEIGHT-B O O O
+주소 : 서울 중구 명동8나길 47	O O O O O O
+이제 18살..	O SS_AGE-B
+대구은행 642-42-254132으로 30만원 입금해주시면 되세요.	SS_BRAND-B ID_ACCOUNT-B O O O
+여보세요. 제가 전화한 번호가 제주은행 번호죠?	O O O O SS_BRAND-B O
+반품 접수되었습니다. 감사합니다. 한주은이었습니다.	O O O O
+함안군 가야읍 북실길요.	O O O
+광주광역시 동구 동계천로5번길 입니다.	O O O O
+대구은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+SK뷰아파트 562동 316호요.	O O O
+GS홈쇼핑 정유선입니다. 고객님 무엇을 도와드릴까요?	SS_BRAND-B SS_NAME-B O O O
+조미영, 011 5900 4845.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+788 75 389745요.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
+배우 최무성이 인생 최고 몸무게 97kg를 찍었고, 다이어트를 공개 선언했다.	O SS_NAME-B O O O SS_WEIGHT-B O O O O
+계좌번호는 010-7139-7208 로 알고 있어요.	O ID_ACCOUNT-B O O O
+한 살 더 먹고 요즘 기미 보다 더 걱정인게 있어요	O O O O O O O O O O
+물론 박유천이나 한지민이 원래 이쁘장하기도 하지만 디지털로 쏴 주는 화면은 아날로그보다 뽀샵처리가 많이 되어 있다.	O SS_NAME-B SS_NAME-B O O O O O O O O O O O O
+홈앤쇼핑 최지은입니다.	SS_BRAND-B SS_NAME-B
+158이잔어 성미야 190이면 32cm 차이	SS_LENGTH-B SS_NAME-B SS_LENGTH-B O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+010 4498 7465이요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+현대카드고요 1202 1243 3143 1231요	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+가동 502호 입니다.	O O O
+운전자보험에 가입해 계십니다.	O O O
+이유연, 018 7279 2685.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+현대홈쇼핑 김효원입니다.	SS_BRAND-B SS_NAME-B
+인천 차이나타운 주말여행 좋아요!	O O O O
+87.5kg이었던 몸무게, 2주간 매일 달렸더니	SS_WEIGHT-B O O O O
+두번째로는 잘 못 이체 하신 계좌번호가 어떻게 되어 있는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O
+사시는 곳이 서울특별시 송파구 가락본동 이하 주소가 어떻게 되시죠?	O O O O O O O O O
+안녕하세요. 하나은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+고객님 확인 감사합니다. 반품 처리 도움 드리겠습니다. 배송받으셨던 경기도 안양시 동안구 합정동 이하 주소 확인해 주시겠습니까?	O O O O O O O O O O O O O O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+마지막은 스팸메일함에서 찾아낸 34살의 india남자.	O O O SS_AGE-B O
+``서버값과 개발비는 별도인가요? 그냥 진석씨 서버를 쓰면 안되나요?``	O O O O SS_NAME-B O O O
+주지영이고 010 9452 9984이요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+송파지역 지점으로 가셔서 상담받으시면 됩니다.	O O O O O
+017 9575 0114요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+신청 홈페이지, 전화 940-5661	O O O ID_PHONE-B
+그리고 바로 복학후 졸업하면 25이 되겠군요 3년제이니 그동안 알바하면서 돈좀 모아서 그돈으로 워홀 호주로 가려고하는데	O O O O SS_AGE-B O O O O O O O O O O
+생년월일 말씀해 주시겠어요?	O O O
+성함과 주민번호를 말씀해 주세요	O O O O
+9월 29일~~	SS_BIRTH-B SS_BIRTH-I
+네 고객님 전북은행금융지원센터는 한국산업은행이 아닙니다.	O O SS_BRAND-B SS_BRAND-B O
+몸무게는 여전히 44kg대다.	O O SS_WEIGHT-B
+선생님의 출생월일이 무엇입니까?	O O O
+전화번호 뒷자리는 어떻게 되나요?	O O O O
+우미린아파트 081동1314호입니다.	O O
+010 1783 0364요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+삼척시 분당구 신암동 다음주소가 어떻게되십니까?	O O O O O
+엔에스홈쇼핑 정규석입니다.	SS_BRAND-B SS_NAME-B
+유해진, 조진웅, 이서진, 염정아, 김지수, 송하윤, 윤경호	SS_NAME-B SS_NAME-B SS_NAME-B SS_NAME-B SS_NAME-B SS_NAME-B SS_NAME-B
+6110-3086-8049입니다.	ID_PHONE-B
+고객님 주소지가 경산시 청진동 다음은요?	O O O O O
+마지막 4자리는 2596이에요.	O O ID_PHONE-B
+이름은 봉우진, 전화번호는 010-1909-4899입니다.	O SS_NAME-B O ID_PHONE-B
+충남 천안시 동남구 안서동 142-1	O O O O O
+고객님 주소가 8204-1241번지 맞으시죠?	O O O O
+28세 애늙은이 정소민을 위한 떡케이킄ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄴㅋㅋㅋㅋㅋㅋㅌㅌㅌㅌㅌㅌㅌ 취향저격 감사합니다🙏🏻	SS_AGE-B O SS_NAME-B O O O O
+동양생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+안녕하십니까? 홈앤쇼핑 신동주입니다.	O SS_BRAND-B SS_NAME-B
+894 30 272988입니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
+123 다시 7 202동 738호요.	O O O O O
+019-1652-3384 입니다	ID_PHONE-B O
+대구은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+생년월일6자리 말씀해 주시겠어요?	O O O
+생일 알려줘봐 내가 링크 모아서 줄게	O O O O O O
+신세계백화점에서 2월25일까지 신철 작가의 `With You`전이 열리고 있어요.	SS_BRAND-B O SS_NAME-B O O O O O
+네. 하나카드고요. 0224 4142 2301 3322	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+이렇게 신나게 모래퍼고 놀기는 처음인 다온이	O O O O O SS_NAME-B
+수고하십니다 제가 대구은행국민카드를 잃어버렸어요	O O SS_BRAND-B O
+남편 핸드폰으로 남겨주세요. 번호는 010-5451-7990입니다.	O O O O ID_PHONE-B
+네 농수산물홈쇼핑 이하연입니다.	O SS_BRAND-B SS_NAME-B
+한국산업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+029-3009-9179-5877 입니다	ID_ACCOUNT-B O
+육미정.	SS_NAME-B
+e편한세상아파트 721동1489호입니다.	O O
+김무성 대표가 약속합니다.	SS_NAME-B O O
+안녕하십니까? 홈앤쇼핑 지주형입니다. 무엇을 도와드릴까요?	O O SS_BRAND-B SS_NAME-B O
+유명 연예인 노홍철, 길도 마찬가지의 사유로 처벌을 받았고	O O SS_NAME-B SS_NAME-B O O O O
+선생님의 출생월일6자리 또는 8자리가 어떻게 되시나요?	O O O O O O
+체험문의 010 9607 6692입니다.	O ID_PHONE-B ID_PHONE-I ID_PHONE-I
+MG손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+본 은행인수협이 맞으신가요?	O SS_BRAND-B O
+010 8570 4168입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+아직 27살이라 틀려도 괜찮아요!	O SS_AGE-B O O
+성함말씀해 주시겠어요?	O O
+헤헤 46kg대 진입!	O SS_WEIGHT-B O
+2509030 입니다.	ID_INUM-B O
+저희 은행인 제주은행을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+한라비발디아파트 909동8761호입니다.	O O
+서울예대 동문특강에서 라미란언니와 함께~❤️	SS_BRAND-B O SS_NAME-B O
+푸르덴셜생명보험회사의 팩스 번호는 010-2810-5177입니다.	SS_BRAND-B O O ID_PHONE-B
+네, 확인 감사 드립니다. 회수할 주소는 대구 광역시 달서구 위례광장로 맞습니까?	O O O O O O O O O O O
+위무선 186 남망기 188인가	SS_NAME-B SS_LENGTH-B SS_NAME-B SS_LENGTH-B
+경상북도 포항시 북구 두호동 685-1 포항의 아침	O O O O O O O
+국민 카드 시구요. 2111 1313 1131 4430 맞으세요?	SS_BRAND-B SS_BRAND-I O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+742동 1948호요.	O O
+980901입니다.	ID_INUM-B
+최종 몸무게 68.9kg	O O SS_WEIGHT-B
+문의 좀 드리려구요 BC카드를 처음 발급 받았는데요.	O O O SS_BRAND-B O O O
+1938년 11월 17입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+나는 25살 때 일을 시작했어요.	O SS_AGE-B O O O
+이상화선수의 금메달로 이번 올림픽 프로모션에 동참한 도미노 피자를 저렴하게 먹을 수 있었어요	SS_NAME-B O O O O O O O O O O O
+저는 올해 21살 빠른 93이구 옆에 남자친구는 신현재! 92년생 22살이에요~	O O SS_AGE-B SS_AGE-B SS_AGE-I O O SS_NAME-B SS_AGE-B SS_AGE-B
+네 확인 감사합니다. 상품 수거할 주소 충남 아산시 전원1길 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O O
+앱스토어에 들어가셔서 롯데손해보험 모바일 앱설치후 직접청구 가능하십니다.	O O SS_BRAND-B O O O O
+그럼, 본인의 출생월일이 어떻게 되나요?	O O O O O
+220동2275호입니다.	O
+준비하고 있었습니다. 876019번 입니다.	O O ID_ACCOUNT-B O
+처브라이프보험 확인되십니다.	SS_BRAND-B O
+BC바로카드 확인되는데 분실카드가 맞으신가요?	SS_BRAND-B O O O
+성수동 카페 대림창고	O O O
+휴대전화 번호 뒷자리는 어떻게 되십니까?	O O O O O
+배송 받으신 주소가 서울 성동구 정왕3동 동남아파트 몇 동 몇 호 입니까?	O O O O O O O O O O O O
+열심히 색칠공부 중인 원이와 옆에서 같이하고픈 린이 ㅋㅋㅋㅋㅋ	O O O SS_NAME-B O O SS_NAME-B O
+마치 연예인 같이 늘씬한 몸매를 자랑하는 이다지의 키는 160.3cm로 알려졌다.	O O O O O O SS_NAME-B O SS_LENGTH-B O
+본 은행인중소기업은행을 통한 계좌가 맞습니까?	O SS_BRAND-B O O O
+884-3794입니다	ID_PHONE-B
+5695-2976로 전화주시면 됩니다.	ID_PHONE-B O O
+빙수가 나오니 급 졸음이 몰려오는 두달차 5살 유치원생	O O O O O O SS_AGE-B O
+경기도 파주시 광탄면 부흥로 194-42 광탄레저타운 1522-1531	O O O O O O ID_PHONE-B
+2047822입니다.	ID_INUM-B
+김진야 이승모도 잘해죠땨	SS_NAME-B SS_NAME-B O
+검찰청 사고신고57-7270로 전화하셔서 접수하시기 바랍니다.	O ID_PHONE-B O O O
+생년월일 알려주세요?	O O
+고객님 주민등록번호뒷자리가 어떻게 되시나요?	O O O O
+의정부시 서북구 상모동 다음주소가 어떻게되십니까?	O O O O O
+영광빌라 1층 입니다.	O O O
+1941년 08월 05입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+네 확인 감사합니다. 상품 수거할 주소 부산 사상구 석정동 이하 주소 말씀 부탁 드립니다.	O O O O O O O O O O O O O O
+수거하는 주소가 배송 받으셨던 부산 강서구 남산로 맞습니까?	O O O O O O O O
+대한민국 노래지도자 양성에 보석 같은분, 이현주 교수님이다.	O O O O O SS_NAME-B O
+중소기업은행에 맞게 전화하셨습니다.	SS_BRAND-B O O
+신도진이고, 11년 07월 15일이요.	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I
 472에 815677에 7143378입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
-그럼 반품 처리 도와드리겠습니다. 회수하는 주소는 기존에 배송 받으셨던 경북 부여군 장암면 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O O O O O
-씨제이오쇼핑 윤연하입니다.	SS_BRAND-B SS_NAME-B
-선우주은이고 010 3258 6128이요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
-4살인 큰딸은 물컵으로도 척척 물을 잘마시지만	SS_AGE-B O O O O O
-네 지에스홈쇼핑입니다. 무엇을 도와 드릴까요?	O SS_BRAND-B O O O
-볼살어케빼지 60키로인데 볼살은 안빠짐	O SS_WEIGHT-B O O
-네, 카드번호 다시 확인하겠습니다. 0022 2203 0240 2300맞습니까?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+혜인이랑 아라도 보이네요	SS_NAME-B SS_NAME-B O
+이름은허창욱 주민번호 3212162827534	SS_NAME-B O ID_INUM-B
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+영천시 동안구 덕동동 다음주소가 어떻게되십니까?	O O O O O
+어차피 이병헌이가 새 제품 들고나와서 NEX-3F도 이제 가격떨어지고 메리트 떨어지겠지,	O SS_NAME-B O O O O O O O O
+안녕하십니까 고객님 케이뱅크 상담원입니다.	O O SS_BRAND-B O
+네, 확인해 주셔서 감사합니다. 상품 수거할 주소가 강원도 강릉시 노원동2가 맞습니까?	O O O O O O O O O O O
+수협 입니다.	SS_BRAND-B O
+한국산업은행 보안카드 없어진 것 같아요. 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O
+울아빠 1004야 생일	O SS_BIRTH-B O
+현대홈쇼핑 조나하입니다.	SS_BRAND-B SS_NAME-B
+저희 은행인 하나은행의 계좌가 맞나요?	O O SS_BRAND-B O O
+신한카드이구요 1142 3011 0012 1310	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+2011년 11월 03입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+농협이요.	SS_BRAND-B
+전화번호 뒷자리는 어떻게 되십니까?	O O O O
+네 신한카드 2403 0014 4221 4042	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+우아 집에서 멀지않은 판교현대백화점에 음식이 진짜 다양하다 ^^	O O O SS_BRAND-B O O O O
+마리만큼 늙은 고양이는 딱 한마리 봤는데 만성 신부전증을 앓고 있는 18살 페르시안이었다.	O O O O O O O O O O SS_AGE-B O
+성함과 주민번호를 말씀해 주세요	O O O O
+수원권선SKVIEW 106동 1987호요.	O O O
+2030356요.	ID_INUM-B
+현재 몸무게 62kg을 인증하기도 해 눈길을 끌었다.	O O SS_WEIGHT-B O O O O
+신한은행 보안카드 잃어버렸는데요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O
+고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
+저희가 수거해 갈 주소는 처음 배송 받으셨던 충남 서산시 물금읍 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O O O
+2007년1월1일생 입니다	O O
+72번지요.	O
+010 7947 6081요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+예 감사합니다. 강남연이었습니다.	O O SS_NAME-B
+애들아 석헌님은 84년생인데 소고기먹고 떠낫어	O SS_NAME-B SS_AGE-B O O
+끝나지 않는 여름은 열일곱 살 소녀 셰리든 그랜트의 이야기를 담고 있다.	O O O SS_AGE-B SS_AGE-I O SS_NAME-B SS_NAME-I O O O
+21살에 마크를 다하네요...	SS_AGE-B O O
+2350055 입니다.	ID_INUM-B O
+이지연입니다.	SS_BRAND-B
+성함과 생년월일 말해주시겠어요?	O O O
+씨제이오쇼핑 이상하였습니다.	SS_BRAND-B SS_NAME-B
+성함과 주민번호 앞자리말씀해 주시겠어요?	O O O O
+롯데 카드, 0011 2001 4032 3321 이요.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+휴대전화 번호 마지막 4자리는 어떻게 되나요?	O O O O O O
+이하윤, 070 4554 4372요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+560617입니다	ID_INUM-B
+다시 확인하겠습니다. 1255 054 892147 맞습니까?	O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+=마고 로비 (Magot Robbie)	SS_NAME-B SS_NAME-I SS_NAME-B SS_NAME-I
+우리카드 1431 1342 3100 4133입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네 저는 박초아였습니다.	O O SS_NAME-B
+4살 유아가 배우기엔 어려운건 아닐까 했는데	SS_AGE-B O O O O O
+제 이름은 사공우주이구요 820326-4340980	O O SS_NAME-B ID_INUM-B
+010 4910 8146이구요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+계좌번호 알려주시겠어요?	O O
+제 생년월일은 700222이에요.	O O ID_INUM-B
+북구 동천동 부영e그린타운 209호요.	O O O O
+저도 육성재씨 좋아하는데~~	O SS_NAME-B O
+보냈던 제 계좌번호는 010-3780-9693 입니다.	O O O ID_ACCOUNT-B O
+010 9274 8890입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+하원규, 최남희 저 <제4차 산업혁명>	SS_NAME-B SS_NAME-B O O O
+남구 용호2동 212-2번지 백운포에 있는 진주횟집을 소개합니다. 전화는 010-2533-6552	O O O O O O O O ID_PHONE-B
+ABL생명보험 확인되십니다.	SS_BRAND-B O
+김정선, 019 821 6170요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+카드 번호 확인해 드릴게요. 1414 3334 1432 4313 맞으신가요?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+회수는 배송 받으셨던 주소 전북 익산시 강변로 맞습니까?	O O O O O O O O
+89년생도 아니고, 89학번도 아니고, 89세이십니다.	O O O O SS_AGE-B
+BNP파리바카디프손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+서울특별시 양천구 목동동로 431 104호	O O O O O
+반품 처리되었습니다. 엔에스홈쇼핑 윤도원이었습니다.	O O SS_BRAND-B SS_NAME-B
+김준균이고 010 3641 9987입니다.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+1110동2608호 입니다.	O O
+엥 76키로 ?????????	O SS_WEIGHT-B O
+54년에 비오티 국제 콩쿠르에서 약관 12세로 우승하여 천재 소년으로서 널리 유럽에 이름을 떨치게 되었다.	O O O O O SS_AGE-B O O O O O O O O
+스펙은 173/ 63 이고 그나마 팔뚝쪽이 눈바디로 보이는정도고 당연 복근은 없읍니다 헤헤	O SS_LENGTH-B SS_WEIGHT-B O O O O O O O O O
+막내사촌동생은 일곱살ㅋㅋㅋㅋ	O SS_AGE-B
+네. 예. 불편 드려 죄송합니다. 수거할 주소는 배송 받으셨던 경기 포천시 주례2동 27 맞습니까?	O O O O O O O O O O O O O O
+IBK연금보험 확인되십니다.	SS_BRAND-B O
+농협이요.	SS_BRAND-B
+장전1동 고척LIG리가2단지 106동 4011호요.	O O O O
+9475입니다.	ID_PHONE-B
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+네, 받으셨던 주소가 전북 전주시 완산구 용산1동 맞습니까?	O O O O O O O O
+시루맘님과 시루가 고만하고 학원들어가자며,	SS_NAME-B SS_NAME-B O O
+저 몸무게 60kg 중에서 25kg가 근육이다	O O SS_WEIGHT-B O SS_WEIGHT-B O
+동해시 해운대구 상복동 다음주소가 어떻게되십니까?	O O O O O
+골격근이 26kg면 높은편이네요	O SS_WEIGHT-B O
+제가 신한은행에 맞게 전화 건것이 맞습니까?	O SS_BRAND-B O O O O
+대구은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+신한 은행이고요. 140 839 9738이요.	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
+7살 됐다고 제법 의젓해졌다.	SS_AGE-B O O O
+고기 먹었으니 낼되면 61 되어있으려나~~	O O O SS_WEIGHT-B O
+박찬열 키 다시 재봐 185라니 187은 거뜬해 보엿는데	SS_NAME-B O O O SS_LENGTH-B SS_LENGTH-B O O
+예전에 패리스 힐튼이 무한도전 나온거 본 적있는데 81년생이면 삼십대 후반인데	O SS_NAME-B SS_NAME-I O O O O SS_AGE-B O O
+660521 입니다.	ID_INUM-B O
+제 번호는 2465입니다.	O O ID_PHONE-B
+3220 82409 2743 201700요.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+이제 막 열아홉 살이 된 ‘폴’은 대학 신입생입니다.	O O SS_AGE-B SS_AGE-I O SS_NAME-B O O
+안녕하세요. 경남은행에 전화 걸은 것이 맞아요?	O SS_BRAND-B O O O O
+여보세요. 한국스탠다드차타드은행 홈페이지에 들어가지지 않습니다.	O SS_BRAND-B O O O
+두살 은재님도 한공기 뚝딱 ㅋㅋㅋ	SS_AGE-B SS_NAME-B O O O
+FAX 448-406-818 입니다.	O ID_PHONE-B O
+해운대 마린시티 두산위브제니스상가 B동 6층에 위치한 SS망고예요 :)	O O O O O O O O
+잠시만요. 삼성카드고요 1403 4041 1131 0322에요.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+상세주소 말씀해주시겠어요?	O O
+네, 회수할 주소지가 서울 관악구 진동면 소칠길 8 맞습니까?	O O O O O O O O O
+지금 바로 반품 접수 도와드리겠습니다. 배송 받으신 주소가 서울시 영등포구 양평동5가 맞습니까?	O O O O O O O O O O O O
+생년월일 말씀해 주시겠어요?	O O O
+네 국민 은행 1121 0232 2430 1410요	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+하정웅 컬렉션전<잊혀진 사람들, 끝나지 않은 이야기>	SS_NAME-B O O O O O
+네, 감사합니다. 롯데쇼핑 남하연이었습니다.	O O SS_BRAND-B SS_NAME-B
+하지만 올해는 30살 생일이라 괜히 싱숭생숭함을 안고 맞이했던- ㅎㅎ	O O SS_AGE-B O O O O O O
+2412 1201 3224 2244이며 52년 11월입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O
+이영자처럼 먹기 위해	SS_NAME-B O O
+생년월일앞자리 말씀해 주시겠어요?	O O O
+41422 144995 40110 0749에, 국민은행 맞습니까?	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I SS_BRAND-B O
+ㅇ와,,, 키가 183이네욤 근데 얼굴크기 때문인지	O O SS_LENGTH-B O O O
+서울특별시 종로구 창경궁로 22길 입니다.	O O O O O
+경기도 파주시 동패로63번길 28	O O O O
+현대카드이고 2111 4201 3222 0242입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+린이는 지원이언니 옆자리에 탑승!	SS_NAME-B SS_NAME-B O O
+씨제이오쇼핑 백재운입니다.	SS_BRAND-B SS_NAME-B
+NH농협생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+반품 처리되었습니다. 장윤하였습니다.	O O SS_NAME-B
+저희 은행인 수협을 통해서 만든 계좌가 맞나요?	O O SS_BRAND-B O O O O
+네 일단 손승원이었습니다.	O O SS_NAME-B
+1959년 08월 19입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+신주은요.	SS_NAME-B
+제가 송금한 계좌번호는 011-3757-1512 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+브라더후드키친 가게는 나연언니 추천으로	O O SS_NAME-B O
+178cm / 58kg 정도라 보통 바지S 아님 44 입는데	SS_LENGTH-B O SS_WEIGHT-B O O O O O O
+전화번호를 알려주세요.	O O
+어제 병원에서 간만에 재 봤더니, 몸무게는 10.5kg / 신장 73cm...	O O O O O O SS_WEIGHT-B O O SS_LENGTH-B
+네, 확인 감사합니다. 상품 수거할 주소 경기도 화성시 만안구 태평로 이하 주소 확인 부탁드립니다.	O O O O O O O O O O O O O O
+1954년 05월 16입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
+대우부동산 손팀장입니다.	SS_BRAND-B O
+반갑습니다. 엔에스홈쇼핑입니다.	O SS_BRAND-B
+다행히 강동원 혼자 어른이 된 것이 아니라	O SS_NAME-B O O O O O
+4390539 입니다.	ID_INUM-B O
+반품하실 주소 경북 구미시 그 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+현성호, 010 8896 6208.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+얘는 나의 또 다른 페르소나? 그러나 싫어진다) 내가 외모를 좀 따지긴 하지만 지금의 나는 인도의 알 수 없는 34살 아저씨가 어떻게 생겼는지는 전혀 관심이 없다.	O O O O O O O O O O O O O O O O O O SS_AGE-B O O O O O O
+연락처 알려주시겠어요?	O O
+등록되잇는 핸드폰번호 뒤 4자리 말씀해 주시겠어요?	O O O O O O
+김윤하요.	SS_NAME-B
+원래 58kg이었대 화이팅해라	O SS_WEIGHT-B O
+신한 카드이고, 0331 2143 3303 2142입니다.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+체중 : 86kg (-6.4kg)	O O SS_WEIGHT-B O
+본인의 생년월일6자리 또는 8자리가 어떻게 되십니까?	O O O O O O
+e편한세상아파트 656동4331호입니다.	O O
+중소기업은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+010 1381 5704입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+용인시 기흥구 영덕동에 있는 gs주유소입니다.	O O O O O
+그리고 어디 누나가 93년생인데	O O O SS_AGE-B
+전화번호 뒷 4자리는 어떻게 되어 있습니까?	O O O O O O
+푸르지오아파트 183동5324호입니다.	O O
+83년생이야ㅋ 언니보다 1살어려	SS_AGE-B O O
+010 1762 0645이요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+워너비 몸무게는 40kg	O O SS_WEIGHT-B
+김마리도 어언 9살이 되었지만 이빨 닦아준 적은 한 번도 없다.	SS_NAME-B O SS_AGE-B O O O O O O O
+또, 그간 김희철이 트와이스의 모모를 콕 찝어 모모의 안무를 흉내낸다거나 하는 등 `아제 팬심`을 감추지 않았었다.	O O SS_NAME-B O SS_NAME-B O O SS_NAME-B O O O O O O O O
+기업은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+3511311입니다.	ID_INUM-B
+사시는곳 동호수 말씀해 주시겠어요?	O O O O
+해당 번호로 가입되 있는 차량 번호가 65805맞나요? 성함이 어떻게 되시나요?	O O O O O O O O O O
+네 부산은행으로 안내해주세요.	O SS_BRAND-B O
+키는 1센치컷엉 171ㅋㅋㅋ	O O SS_LENGTH-B
+- 19세기 러시아 외교관 Paul Stroganor의 이름을 따서 만든 요리	O O O O SS_NAME-B SS_NAME-I O O O O
+김윤숙, 010 1420 0722.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+아 울산 광역시 중구 태평로 155번길 64번지요.	O O O O O O O
+712동4096호입니다.	O
+괜히 8개월에 10키로 넘는 아기가 아닌것 ㅠ.ㅠ	O SS_AGE-B SS_WEIGHT-B O O O O
+감사합니다. 저는 윤다린이었습니다.	O O SS_NAME-B
+홈앤쇼핑 김태원입니다.	SS_BRAND-B SS_NAME-B
+9동 1101호 입니다.	O O O
+강호동 키가 183센티네 몸무개도 110키로정도 나가네	SS_NAME-B O SS_LENGTH-B O SS_WEIGHT-B O
+9.30날 생일입니다	SS_BIRTH-B O
+네. 카드 번호가 1411 4003 1401 1041 이요.	O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+팩스번호알려주실수있나요?	O
+나 생일 12월 4일인데ㅋ	O O SS_BIRTH-B SS_BIRTH-I
+제 휴대폰 번호 마지막 4자리는 7105번 입니다.	O O O O O ID_PHONE-B O
+본인의 생년월일이 무엇인가요?	O O O
+전라남도 광양시 다압면 지막1길 55 섬진마을	O O O O O O
+- 주소: 서울 서대문구 이화여대7길 41	O O O O O O
+신한라이프(구오렌지라이프)보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+그럼, 본인의 출생월일이 어떻게 됩니까?	O O O O O
+고객님 주소가 612번지 맞으시죠?	O O O O
+JTBC 손석희를 사장으로 유입할 때부터 냄새가 났지...	SS_BRAND-B SS_NAME-B O O O O O
+그 다음입니다. 상대방 계좌의 계좌번호가 어떻게 되는지 말씀해 주실 수 있으신지요?	O O O O O O O O O O O
+네, 악사손해 해외여행자보험 가입 확인되셨습니다.	O SS_BRAND-B O O O
+1995년 03월 19입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+1.키는 163	O SS_LENGTH-B
+제 이름은 김예영입니다.	O O SS_NAME-B
+1998년 04월 15입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+유병훈 의사쌤 감사합니다 꾸벅꾸벅 ㅋㅋㅋㅋㅋㅋㅋㅋ 전 이제 밤샘공부의 길로 ☞0∇0☞	SS_NAME-B O O O O O O O O O
+네 기업 은행이고요.	O SS_BRAND-B SS_BRAND-I
+근데 할머니가 니생일 1월 5일인거 알고 널라셧지	O O O SS_BIRTH-B SS_BIRTH-I O O
+두번째로는 상대방 계좌의 계좌번호가 어떻게 되는지 말씀해 주실 수 있으신지요?	O O O O O O O O O O
+안녕하십니까? 공영홈쇼핑 김하미입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+상품 회수는 경기도 시흥시 김포대로1518번길 금호아파트 이하 주소 확인 부탁드립니다.	O O O O O O O O O O
+네 롯데홈쇼핑 진보연입니다.	O SS_BRAND-B SS_NAME-B
+5692요.	ID_CARD-B
+다음, 절차 상 고객님의 생년월일을 여쭈어봐야 합니다. 생년월일이 어떻게 되십니까? 년도는 4자리 모두 불러주셔야 합니다.	O O O O O O O O O O O O O O O
+광안리 메인 카페거리에서 조금 올라가면 정원해물탕 맞은편에 “SoSo카페”가 있다!	O O O O O O O O O
+한편 최선정은 최근 자신의 인스타그램을 통해 키는 167.7cm, 몸무게는 48.3kg이라고 밝혔다.	O SS_NAME-B O O O O O SS_LENGTH-B O SS_WEIGHT-B O
+표선숙님으로 입금된 내역 말씀이시죠?	SS_NAME-B O O O
+1896년 9월 24일 미국 미네소타주 세인트폴에서 태어났다 프린스턴 대학교 재학시절 1차 세계대전이 발발하자 입대하여 육군 소위로 임관했다..	ID_INUM-B ID_INUM-I ID_INUM-I O O O O O O O O O O O O O O
+김유진, 010 275 6310.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+고객님 주민등록번호뒷자리가 어떻게 되시나요?	O O O O
+2240234입니다.	ID_INUM-B
+다시 한번 확인하겠습니다. 116 687 7985 맞습니까?	O O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+나의 생일은 6월23일이야	O O SS_BIRTH-B
+010 3028 2159.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+현대해상화재보험 확인되십니다.	SS_BRAND-B O
+참고로 진석이 생일도 1226	O SS_NAME-B O SS_BIRTH-B
+본 우리은행의 계좌가 맞습니까?	O SS_BRAND-B O O
+164cm 65kg	SS_LENGTH-B SS_WEIGHT-B
+신한은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+363동 4574호요.	O O
+자전거로 75kg = 15:00 분 페이스 정도.	O SS_WEIGHT-B O O O O O
+성함과 주민번호 앞자리말씀해 주시겠어요?	O O O O
+국민은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+감사합니다. 롯데홈쇼핑 구미지입니다.	O SS_BRAND-B SS_NAME-B
+루미니오피스텔 3858호입니다.	O O
+두 사람은 3년 연애한 스물두 살 동갑내기 커플로, 막 결혼식을 올리고 체실 비치에 신혼여행을 왔다.	O O O O SS_AGE-B SS_AGE-I O O O O O O O O O
+김태리, 010 6286 0930요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+010 8446 4151.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+얘 158에 45래..	O SS_LENGTH-B SS_WEIGHT-B
+개인정보를 최대한 보호하며 도와드리겠습니다. 선생님의 출생월일이 어떻게 되십니까?	O O O O O O O O
+이름은 박창수, 전화번호는 017-7438-8717입니다.	O SS_NAME-B O ID_PHONE-B
+아 잠깐만요. 502 60 74979 여기로요.	O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+포셔 17살인데 바사니오씨발새끼 26살이잖아! 개새끼야!	SS_NAME-B SS_AGE-B SS_NAME-B SS_AGE-B O
+생년월일6자리 말씀해 주시겠어요?	O O O
+이름은 정은성, 010-2582-5304입니다.	O SS_NAME-B ID_PHONE-B
+고속도로 무료 견인차 1588-2504	O O O ID_PHONE-B
+보냈던 제 계좌번호는 900913-3141831 이에요.	O O O ID_ACCOUNT-B O
+정말 처음에 사용할때 보다 지금 9키로나 나가는 우리딸 아기띠하고도	O O O O O SS_WEIGHT-B O O O
+1991년 04월 29입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+부산 은행이요.	SS_BRAND-B SS_BRAND-I
+근데 강린씨 생일은 9월 3일이야 ㅠㅠ	O SS_NAME-B O SS_BIRTH-B SS_BIRTH-I O
+지은이랑 같이 구경하자며 룰루랄라	SS_NAME-B O O O
+어야그럼너생일이 0219임?	O SS_BIRTH-B
+계란한판이라고 놀리는데 난 프랑스에선 아직 28살이라며 혼자 위로밖에 할 수 없었다.	O O O O O SS_AGE-B O O O O O
+(동천동 902-2)	O O
+현대홈쇼핑 김미준입니다.	O SS_NAME-B
+주민등록번호 .	O O
+저울에 올라가자 마자 85kg대 나오길래 좋아했더니	O O O SS_WEIGHT-B O O
+010 9978 2718.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+FAX 430-511-068 입니다.	O ID_PHONE-B O
+사람도 만성신부전이면 크게 기대하기가 힘든데 고양이 나이로 18살이면 백살이라고 봐야 한다.	O O O O O O O SS_AGE-B O O O
+꺅! 간만에 49로 진입했당ㅎㅎ	O O SS_WEIGHT-B O
+320동4193호입니다.	O
+25살 먹고도 아직도 모르겠다 ㅋㅋㅋㅋ	SS_AGE-B O O O O
+강원도 서구 풍암동 191다시 3 에스케이뷰아파트 102동 307호요.	O O O O O O O O
+안성완, 010 6488 0760.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네 박봉재이고요.	O SS_NAME-B
+네 02-894-2696 로 보내주시면 처리 도와드리겠습니다.	O ID_PHONE-B O O O O
+한라비발디아파트 584동6608호입니다	O O
+삼성 카드고요 1441 4443 1320 1111	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+정자동 헬싱키카페	O O
+고양시 원당 카페 모모드팡 내부에요~	O O O O O
+21년 11월 22일 입니다.	ID_INUM-B ID_INUM-I ID_INUM-I O
+성함과 생년월일 부탁드립니다.	O O O
+제가 딸 앞으로 BNP파리바카디프생명을 들어두었습니다.	O O O SS_BRAND-B O
+저의 번호는 4433가 확실합니다.	O O ID_PHONE-B O
+011-4438-5283입니다.	ID_PHONE-B
+성함과 주민번호 앞자리 확인해 주시겠어요?	O O O O O
+전화번호 뒷 4자리는 어떻게 되나요?	O O O O O
+지금까지 NS홈쇼핑 김세한이었습니다. 감사합니다.	O SS_BRAND-B SS_NAME-B O
+11년째 치매 老母 돌보는 67세 아들	O O O O SS_AGE-B O
+네 감사합니다. 저는 한희용이었습니다.	O O O SS_NAME-B
+팩스번호를 알 수 있을까요?	O O O O
+2100 4332 2131 3330 현대카드입니다.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I SS_BRAND-B
+네 황윤리이고요. 010 2038 1332입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+서울특별시 강남구 삼성동 159번지 Hall D	O O O O O O
+네. 고객님. 카드 번호 확인 부탁드립니다. 3332 3444 2232 1410 맞으십니까?	O O O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+안녕하십니까? 현대홈쇼핑 강예경입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+서원면 경강로요.	O O
+와송식초 영농조합법인 ‘해동바이오’ 이광자 대표	O O SS_BRAND-B SS_NAME-B O
+쌍용1차아파트 1818동 1108호입니다.	O O O
+저는 상담원 송영환이었습니다.	O O SS_NAME-B
+전북 부안군 부안읍 매창공원	O O O O
+아, 417동 1719호요.	O O O
+길성균, 010 0790 4286.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+처음에 8살 큰아이가 생일선물로 사달라고 했던 키난빌 반짝커	O SS_AGE-B O O O O O O
+오늘 딱 14개월접어선 린이 몸무게 11kg	O O SS_AGE-B SS_NAME-B O SS_WEIGHT-B
+나 27세 주린이..☆ 올라가서 보여줄것은 이것밖에 없었다 새우빼기도 했어야했나...	O SS_AGE-B O O O O O O O
+저희 은행인 한국스탠다드차타드은행을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
+안녕하세요! 라영짱이에요 :-)	O SS_NAME-B O
+지동역이시면 2번 출구에 지동역지점이 있습니다.	O O O O O
+씨제이오쇼핑 이기운입니다.	SS_BRAND-B SS_NAME-B
+김세경.	SS_NAME-B
+늘 최선을 다 하겠습니다. 남채연이었습니다. 감사합니다.	O O O O SS_NAME-B O
+우리카드고요. 3300 1114 0213 1121이요.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+핸드폰 번호 알려주시겠어요?	O O O
+고객님, 성함이랑 생년월일 부탁드립니다	O O O O
+저희 경남은행을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+0041 1204 4133 0400이고요 유효기간은 1142.	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O
+우리 비씨 카드 1230 1124 2234 1230이요.	SS_BRAND-B SS_BRAND-I O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+741005입니다	ID_INUM-B
+네, 감사합니다. 씨제이오쇼핑 최나원이었습니다.	O O SS_BRAND-B SS_NAME-B
+레프 톨스토이	SS_NAME-B SS_NAME-I
+고객님은 계약자오혜성이신가요?	O SS_NAME-B
+네 고객님 감사합니다. 저는 최예원이었습니다.	O O O O SS_NAME-B
+214호요.	O
+나 55.8kg 야~~~!!	O SS_WEIGHT-B O
+010-7383-6619로 보내주시면 됩니다.	ID_PHONE-B O O
+밀양시 사하구 행당2동 다음주소가 어떻게되십니까?	O O O O O
+남궁원빈입니다.	SS_NAME-B
+e편한세상아파트 897동8865호입니다.	O O
+종각 4거리 H건물 10층에 있습니다	O O O O O
+콜센타 번호좀 알수 있을까요?	O O O O
+(28세, 직장인, 송파구 근무)	SS_AGE-B O O O
+뽈뽈이가 깨문바랑엄마 찌찌에 드라큘라처럼 구멍이나서 피가 계속 나서 정말 모유수유 그만하고 싶은 심정이예요	SS_NAME-B O O O O O O O O O O O O
+안녕하십니까? 씨제이오쇼핑 김세지입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+중소기업은행 통장 분실한 것 같습니다. 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+이 책은 고 김근태 국회의원이 민주화 운동을 하다가 남영동 대공분실에서 22일간의 고문을 받은 내용이 주제다.	O O O SS_NAME-B O O O O O O O O O O O
+자택 전화번호 뒷자리는 어떻게 되십니까?	O O O O O
+조우기요.	SS_NAME-B
+저희 부산은행에 방문해 주셔야 합니다.	O SS_BRAND-B O O O
+이병운이요.	SS_NAME-B
+경기도 안산시 단원구 화랑로 260 안산 와~ 스타디움	O O O O O O O O
+키 180 아이큐 100	O SS_LENGTH-B O O
+강동욱 840501입니다.	SS_NAME-B ID_INUM-B
+80kg 남자 2명과 52kg 여자 한명	SS_WEIGHT-B O O SS_WEIGHT-B O O
+신지예씨랑 한 컷에🤩🤩 희희	SS_NAME-B O O O
+그 상대는 한류 스타의 노민우 (34 세).	O O O O SS_NAME-B SS_AGE-B SS_AGE-B
+고객님 NH농협손해보험입니다.	O SS_BRAND-B
+말씀해 주신 카드 번호가 4322 1111 2123 1233맞습니까?	O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+노재용 980314입니다.	SS_NAME-B ID_INUM-B
+Paolo Nutini 나이가 19살인데	SS_NAME-B SS_NAME-I O SS_AGE-B
+농협카드고요 1210 0424 2401 3001요	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+GS홈쇼핑 이자이입니다.	SS_BRAND-B SS_NAME-B
+1980년 01월18일입니다	ID_INUM-B ID_INUM-I
+지윤성대표가 인도한 답십리 쪽갈비집	SS_NAME-B O O O
+변정은고객님 맞으시죠?	SS_NAME-B O
+네, 확인 감사합니다. 처리 도와드리겠습니다. 회수는 경기도 하남시 지행동 맞습니까?	O O O O O O O O O O
+전화번호 : 051 - 971-8886 (예약필수! - 예약안하면 못먹을수도 있어요ㅠㅠㅠ)	O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O O
+이제 박그네 최순실 은익재산 환수 특별법을	O SS_NAME-B SS_NAME-B O O O
+가입자분 주민등록번호 뒷자리 어떻게 되시죠?	O O O O O
+본 한국산업은행을 통해서 만든 계좌가 맞나요?	O SS_BRAND-B O O O O
+하늘채아파트 16동 16호 입니다.	O O O O
+▶️공복몸무게 55.3 였는데!!!!!!	O SS_WEIGHT-B O
+분평동 벨롱에 도착!	O O O
+생년월일 부탁드립니다	ID_INUM-B ID_INUM-I
+고객님 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
+홍상수 감독의 <다른 나라에서>.	SS_NAME-B O O O
+한 몇일전에 여친집에서 쟀는데 56키로 나와서 당황했거든요...불과 몇달전까지만해도 57~58이였는데 근 60가까이도 됬구요...	O O O O SS_WEIGHT-B O O O O O SS_WEIGHT-B O
+그러시면 플레이스토어에서 삼성생명보험 앱 클릭하시고 설치 바랍니다.	O O SS_BRAND-B O O O O
+확인 감사합니다. 고객님 상품 회수할 주소가 서울 송파구 은천동 롯데캐슬피렌체아파트 맞습니까?	O O O O O O O O O O O
+360716-3861904, 송광일이에요,	ID_INUM-B SS_NAME-B
+난 아직 스무 살	O O SS_AGE-B SS_AGE-I
+상일동 벽산블루밍아파트 95동 60호예요	O O O O
+예 노동하고객님 본인되십니까?	SS_NAME-B O O
+엇 내 생일 12/6일거 암?	O O O SS_BIRTH-B O
+공영홈쇼핑 김순하입니다.	SS_BRAND-B SS_NAME-B
+691211입니다.	ID_INUM-B
+사시는 아파트 동호수 말씀해 주시겠어요?	O O O O O
+1941년 03월 08입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+우리은행이구요. 068 099017 10 580요.	SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+롯데홈쇼핑 박선지입니다.	SS_BRAND-B SS_NAME-B
+제갈영우 330811입니다.	SS_NAME-B ID_INUM-B
+사실 여기는 20대 초반들이 많이 가는곳 !	O O O O O O O
+생년월일 부탁드립니다	O O
+신한 은행이고요. 688 185381 86 249요.	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I
+010 2540 2786.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+올해 다섯살이라 어린이집에서도 숫자 익히거든요 그래서 5미만의 숫자는 잘알고 있던지라	O SS_AGE-B O O O O O O O O
+세계지도 손목시계, 여자손목시계, 여자시계추천, 프리마클라쎄 시그니처 시계, 30대여성시계	O O O O O O O O
+20살이고 내년에 군대갈텐데..	SS_AGE-B O O
+딸 이하루양의 손글씨라는 책 제목!!	O SS_NAME-B O O O
+그래서 요요가 오더라도 일단 정상은 아니더라도 80 정도까지는 빼보려고 합니다.	O O O O O O SS_WEIGHT-B O O O
+마지막 4자리는 7017가 맞아요.	O O ID_PHONE-B O
+서울예대 사진과지만 제 강의도 들었던 승훈이	SS_BRAND-B O O O O SS_NAME-B
+도곡2동 다음주소가 어떻게되시죠?	O O O
+생년월일 말씀해 주시겠어요?	O O O
+코아루아파트입니다	O
+0608-7116입니다.	ID_PHONE-B
+강원도 강릉시 산양큰길23번길입니다.	O O O
+성신여대쪽에 사는 19살 최운식씨,, 이제 21세가 되었겠군욬ㅋㅋㅋ	O O SS_AGE-B SS_NAME-B O SS_AGE-B O
+네 420921-2687163 입니다.	O ID_INUM-B O
+미래에셋생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+한라비발디아파트 814동1187호입니다.	O O
+네, 양도현이었습니다. 감사합니다.	O SS_NAME-B O
+고객님 성함과 주민번호 말씀해주시겠습니까?	O O O O
+네, 송고원.	O SS_NAME-B
+가입자분 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
+1100호 입니다.	O O
+2013.9.6 봉규 생일때 ㅋㅋㅋ	SS_BIRTH-B SS_NAME-B O O
+한국산업은행 통장 어디있는지 못찾겠어요. 다시 발급 받을려면 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+885 77 9559 76 534 입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+장소는 충남 금산군 금산읍 인삼엑스포 광장!	O O O O O O
+353329 26 521255.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I
+본 은행인신한은행의 계좌가 맞나요?	O SS_BRAND-B O O
+3.91kg, 남, 지훈이	SS_WEIGHT-B O SS_NAME-B
+1590-6478입니다.	ID_PHONE-B
+주민등록번호 앞자리 6자리 불러주세요	O O O O
+생년월일이 어떻게 되십니까? 년도 4자리를 포함하여 8자리를 모두 말씀해주셔야 합니다.	O O O O O O O O O O
+행복에 겨워 강아지를 사랑스러운 표정으로 만지고 있는 학교 동생 (22. 내일 군대감)	O O O O O O O O O SS_AGE-B O O
+중소기업은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+전 현역때보다 늘어서 현재 87kg 더 찜..	O O O O SS_WEIGHT-B O O
+제 생년월일은 211109이에요.	O O ID_INUM-B
+토스뱅크 고객센터로 전화하셔서 신고하신 수 익영업일까지 서면으로 사고신고서를 제출해주셔야 합니다.	SS_BRAND-B O O O O O O O O O
+피해자의 체중은 63.8kg인데 그럼 어떻게 범행을 저지른건지..	O O SS_WEIGHT-B O O O O
+010 2316 7138요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네, 우리은행 카드이구요. 0234 0002 0044 0300입니다.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+홈앤쇼핑 김채리였습니다.	SS_BRAND-B SS_NAME-B
+네, 권지원이었습니다. 감사합니다.	O SS_NAME-B O
+2차 죽림아파트 102호요.	O O O
+010 7838 2627요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네 저는 김윤성이었습니다.	O O SS_NAME-B
+숫자가 주는 힘. 54kg.	O O O SS_WEIGHT-B
+문자 보냈던 번호도 같이 알려주시겠어요?	O O O O O
+네 김예지, 018 812 0383입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+남이면 석판1길 116 23.	O O O O
+케이쇼핑 기시우입니다.	SS_BRAND-B SS_NAME-B
+나 8월 7일 생이야~ 너는?	O SS_BIRTH-B SS_BIRTH-I O O
+GS쇼핑입니다.	SS_BRAND-B
+생년월일 알려주세요?	O O
+쉰다섯의 내가 뒤늦게 그림에 빠져 하루하루의 삶이 행복하다.	SS_AGE-B O O O O O O O
+나탈리 포트만 어여뿌넹..?	SS_NAME-B SS_NAME-I O
+친구들 사이에서 뿐만 아니라 내년에 서른이 될 사람치고는 나는 참 느렸다.	O O O O O SS_AGE-B O O O O O
+네, 감사합니다. 홈앤쇼핑 황민현이었습니다.	O O SS_BRAND-B SS_NAME-B
+비씨 카드 1204 3443 0424 0423에요.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+기억이… 아 카카오뱅크 입니다.	O O SS_BRAND-B O
+지금 체중이 145kg인데 이렇게 더 찌면 큰일 날 것 같다는 생각에 다이어트 전문 기업의 도움을 받아 체중 감량을 하기로 결심했다.	O O SS_WEIGHT-B O O O O O O O O O O O O O O O O O
+1956년 04월 16입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
+현대홈쇼핑 김유사입니다.	SS_BRAND-B SS_NAME-B
+2428238 입니다.	ID_INUM-B O
+휴대전화 번호 뒷자리는 어떻게 되십니까?	O O O O O
+생년월일 앞6자리 말씀해 주시겠어요?	O O O O
+담당자를 정확히 모르실 경우에는 홈페이지 및 동양생명보험 고객콜센터(6079-1943)로 연락하시면담당자와 연락처를 확인하실 수 있습니다.	O O O O O O SS_BRAND-B ID_PHONE-B O O O O O
+2484895 입니다.	ID_INUM-B O
+제일 은행이고요. 2377 41 15191 59 입니다.	SS_BRAND-B SS_BRAND-I ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+사공영숙이고 560504입니다.	SS_NAME-B ID_INUM-B
+주민번호 눌러주시기 바랍니다.	O O O
+네 다시 한번 확인하겠습니다. 롯데 카드 0213 3040 0414 4421 맞습니까?	O O O O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+자기는 키가 몇이요???	O O O
+주민번호 앞 6자리 말씀해 주시겠어요?	O O O O O
+제 휴대폰 번호 마지막 자리는 7046번 이에요.	O O O O O O O
+고객님 성함을 말씀해 주시겠습니까?	O O O O
+경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+전라남도 담양군 담양읍 메타프로방스2길 6-17 201동 101호	O O O O O O O
+김해시 서구 회산동 다음주소가 어떻게되십니까?	O O O O O
+작가님들이 안계셔서 160이 된 저에용🌱	O O SS_LENGTH-B O O
+라페스타에 이쁜옷집이 별로 없는데	SS_BRAND-B O O O
+네 350729입니다.	O ID_INUM-B
+본인의 생년월일이 무엇입니까?	O O O
+제 생년월일은 330311이에요.	O O ID_INUM-B
+구반포역이요.	O
+210227이고요 20가0104입니다.	ID_INUM-B O
+23살의 나이에 대학에 다시 입학했다.	SS_AGE-B O O O O
+2069-6871입니다.	ID_PHONE-B
+<저녁몸무게 : 47.9kg>	O O SS_WEIGHT-B
+017 7976 0077입니다.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네 산23동 4024호요.	O O O
+감사합니다. 상담사 조영진이었습니다.	O O SS_NAME-B
+SGI서울보증보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+8385-1367입니다.	ID_PHONE-B
+172 센티인 제희는 슬프기만하다	SS_LENGTH-B SS_LENGTH-I O O
+전화번호 뒷자리는 어떻게 되십니까?	O O O O
+루프탑 수영장 있는 대천 2278 리조트	O O O O O O
+무보장악사 생명보험하고한화생명보험에 가입하셨네요	SS_BRAND-B SS_BRAND-B O
+3일차부터 45kg대를 진입해야 하는데..	O SS_WEIGHT-B O O
+키가 193인데요	O SS_LENGTH-B
+빅맨 이다희 메이크업의 핵심 ! 코랄핑크 색상인 에스쁘아 노웨어S 러브시크를	O SS_NAME-B O O O O O O O O
+에이스손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+제가 지금 이 은행 기린지점 직원 신지숙씨 통해서 대출을 받으려고 하는데요.	O O O O O O SS_NAME-B O O O O
+팩스로 보내도 되나요?	O O O
+박예주입니다.	SS_NAME-B
+451호.	O
+아 박보서님 반갑습니다. 어 옷이라고 하셨어요?	O SS_NAME-B O O O O
+여의도 브리오슈도레 요기 좀 좋으네용.	O O O O O
+2018년 스물여섯 첫 얼굴	O SS_AGE-B O O
+고객님 010 0265 5604 맞습니까?	O ID_PHONE-B ID_PHONE-I ID_PHONE-I O
+019 106 989이요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+구천면 미천리 입니다.	O O O
+fax 426-5615-9746 입니다.	O ID_PHONE-B O
+7살 유치원생은 앞으로 3발 나가세요!	SS_AGE-B O O O O
+IBK연금보험 확인되십니다.	SS_BRAND-B O
+네, 010 1395 9063 맞습니까?	O ID_PHONE-B ID_PHONE-I ID_PHONE-I O
+경기도 성남시 수정구 단대동 95-8번지 2층	O O O O O O
+카드 신한이요 1131 1331 3224 0011	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+고객님 주민등록 번호는요?	O O O
+전남 진도군 고군면 회동리 회동리경로당 연락처 1588-9601	O O O O O O ID_PHONE-B
+여보세요. 하나은행에 맞게 전화 걸것 맞습니까?	O SS_BRAND-B O O O O
+아빠 9/13생일인데 음력이거든	O SS_BIRTH-B O
+오드리 토투 주연의 <시작은 키스>와	SS_NAME-B SS_NAME-I O O O
+예. 김영수, 010 8265 0512요.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+저희 은행인 카카오뱅크을 통해서 만든 계좌가 맞습니까?	O O SS_BRAND-B O O O O
+안녕하십니까? BNP파리바카디프손해보험입니다.	O SS_BRAND-B
+112동 217호요.	O O
+- 주소: 서울 중구 서소문로 8	O O O O O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+한국스탠다드차타드은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+생년월일 말씀해 주시겠어요?	O O O
+지에스홈쇼핑 강정재입니다.	SS_BRAND-B SS_NAME-B
+오늘 황교안 기자회견을 보고 느낌점.	O SS_NAME-B O O O
+GS홈쇼핑입니다.	SS_BRAND-B
+롯데홈쇼핑 최윤경입니다.	SS_BRAND-B SS_NAME-B
+5226입니다.	ID_PHONE-B
+네 가입자분 성함이랑 생년월일	O O O O
+대구은행 홈페이지에 접속이 안되요.	SS_BRAND-B O O O
+네, 확인해 주셔서 감사합니다. 회수 주소지는 충북 청주시 청원구 에덴동산아파트 맞습니까?	O O O O O O O O O O O
+정세진 아나운서가 출연한 <아이를 위한 나라는 있다>를 봤다.	SS_NAME-B O O O O O O O
+네 하나카드고요, 카드 번호는 0311 2323 2433 3404이에요.	O SS_BRAND-B O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+12/11일은 내 생일!	SS_BIRTH-B O O
+1822982 입니다.	ID_INUM-B O
+카밀라는 열 일곱이라는 어린나이로 자신을 낳은 어머니가 어쩌다 그렇게 되었는지 끝까지 찾아 간다.	SS_NAME-B SS_AGE-B SS_AGE-I O O O O O O O O O O
+1982년 02월 06입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
+하나은행 맞나요?	SS_BRAND-B O
+지에스홈쇼핑입니다.	SS_BRAND-B
+다음으로는 고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O O
+내 위주의 사진, 동안 남친 이래봬도 28세	O O O O O O SS_AGE-B
+지에스홈쇼핑입니다.	SS_NAME-B
+한화생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+보냈던 제 계좌번호는 010-8794-0785 로 알고 있어요.	O O O ID_ACCOUNT-B O O O
+이수빈, 010 3613 6303요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+손흥민선수 골도 대박이고 선수들 한명한명 이름	SS_NAME-B O O O O O
+가해자가 83kg, 피해자가 53 kg 체격차이가 많이 나나요?	O SS_WEIGHT-B O SS_WEIGHT-B SS_WEIGHT-I O O O
+경남은행입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+곧 아빠생일??	O O
+꼭그닭 전화번호 ▶ 1800-1778	SS_BRAND-B O O ID_PHONE-B
+한국스탠다드차타드은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+시골 귀족 계급이었지만 그리 넉넉하지 않았고 전통적인 영국의 상속제도와 신분제도에 대한 여성으로 선택할 수 밖에 없는 폭 넓지 않은 몇가지의 길중 제일 하층민인 노처녀로 스스로 선택한 삶을 살며 지적이며 활력넘치고 개성이 강해 풍자에 능한 작가로써 주변 사람들의 어리석음과 속물주의를 비판하고 조소하는데에는 데 망설임없는 작가로 살다가 41세 원인불명의 병으로 세상을 떠났다...	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O SS_AGE-B O O O O
+3670441입니다.	ID_INUM-B
+손흥민 기성용 특히 더 잘한거같아요ㅎㅎ	SS_NAME-B SS_NAME-B O O O
+키 181 기준으로요	O SS_LENGTH-B O
+신한은행에서는 이런 상황에도 대처할 수 있도록 프로세스를 가지고 있기 때문에 가능하십니다. 고객님	SS_BRAND-B O O O O O O O O O O O
+롯데카드 1444 1301 3124 4410입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네네, 3월 20일 금요일 제 생일 맞습니다!!!	O SS_BIRTH-B SS_BIRTH-I O O O O
+네, 삼성 카드, 0403 0323 1431 3322, 0402 이에요.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I O
+목표는 45kg (-6kg)	O SS_WEIGHT-B O
+예전에는 소식해서 몸무게가 52KG 이었는데	O O O SS_WEIGHT-B O
+용문면(면장 허회웅)은 2019년 김학동군수님과의 새해 간담회를 1월 23일 11시에 가졌습니다.	O SS_NAME-B O SS_NAME-B O O O O O O
+2/15	O
+거래 계좌 번호 알려주시겠어요?	O O O O
+나는 70키로 나왓엇어	O SS_WEIGHT-B O
+다음 절차입니다. 생년월일을 알아야 합니다. 어떻게 되십니까? 년 월 일 순으로 말씀해주시면 됩니다.	O O O O O O O O O O O O O
+네. 조소성이고 010 2246 2503이요.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+경남은행 통장 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+아직 12개월인 둘째딸은 빨대컵아니면 물이나 우유등을 마실수가 없는데요	O SS_AGE-B O O O O O O
+장국영 10주기 기념 아비장전 보러ㅡ	SS_NAME-B O O O O
+발급받은 번호는 +82-2-3416-7010 이거였습니다!	O O ID_PHONE-B O
+주민등록번호 뒷자리7자리가요?	O O
+사시는곳 주소 동호수 말씀해 주시겠어요?	O O O O O
+윤소연, 010 7202 9189.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+동대문에 레진아트 재료 사러 갔다가 슬라임재료 파는곳을 보게되어 글써봄! 동대문 종합상가 5층, B동 5168호이고 이름은 클레이앤데코! 좀 구석진 곳에 있다.	O O O O O O O O O O O O O O O O O O O O
+네 CJ오쇼핑	SS_BRAND-B SS_NAME-B
+방형민, 010 6627 7829.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+신체: 158cm	O SS_LENGTH-B
+한유하였습니다.	SS_NAME-B
+258 다시 12요.	O O O
+제가 송금한 계좌번호는 62-287-543 입니다.	O O O ID_ACCOUNT-B O
+조오성 520430입니다	SS_NAME-B ID_INUM-B
+성함과 주민번호 앞자리 말씀해 주시겠어요?	O O O O O
+의정부시 북구 상모동 다음주소가 어떻게되십니까?	O O O O O
+035 39 98114 61 39 입니다.	ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O
+네 감사합니다. 저는 권서연이고요.	O O O SS_NAME-B
+저희 IBK연금에서 가입하신 보험은 입원비의 90%인 1350만원이 보상책임액이 됩니다.	O SS_BRAND-B O O O O O O O
+몸무게 26키로	O SS_WEIGHT-B
+국제 카드사인 비자카드사를 통해서 받을수 있습니다.	O O SS_BRAND-B O O O
+네 확인 감사합니다. 수거는 고객님께서 배송 받으셨던 화성시 효자3동 760 으로 진행을 해드릴까요?	O O O O O O O O O O O O O
+신도림 디큐브시티 안에 있는	O O O O
+예금주는 신은아고객님 되십니까?	O SS_NAME-B O
+마리 폰 에브너 에셴바흐	SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I
+경기도 수원시 영통구 영통로 215 정원빌딩 5층	O O O O O O O
+616 다시 37 번지 38동 4280호요.	O O O O O O
+체중계에 올라갔는데 58kg이 나와서 고장 난 줄 알았다.	O O SS_WEIGHT-B O O O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+2135643입니다.	ID_INUM-B
+네 전수은이고, 010 7609 9730입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+기억 나네요. 광주은행 입니다.	O O SS_BRAND-B O
+다음으로는 고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O O
+네. 윤혜준 고객님. 다시 한번 더 확인해 드리겠습니다. 카드 번호가 1010 3124 2142 3432가 맞습니까?	O SS_NAME-B O O O O O O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+그럼 우리은행으로 안내해 드릴까요?	O SS_BRAND-B O O
+롯데쇼핑 표은혜입니다.	SS_BRAND-B SS_NAME-B
+신해철의 부고를 들으며, 내 추억의 소장품을 펼쳐본다.	SS_NAME-B O O O O O O
+대구 북구 동천로 127 호수빌딩 2층	O O O O O O
+다음 정보를 물어보도록 하겠습니다. 고객님께서 잘못 이체 하신 계좌의 계좌 번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O O O O O O O O
+사진 찍히는 게 세상 어색한 23살	O O O O O SS_AGE-B
 제 생일은 2월 2일입니다ㅠㅠ 축하해주셔서 감사해요!!	O O SS_BIRTH-B SS_BIRTH-I O O
-엔에스홈쇼핑 최견우입니다.	SS_BRAND-B SS_NAME-B
-마정리 메트로팔레스5단지아파트 상가 201호입니다.	O O O O
-성함이 어떻게 되시나요?	O O O
-내가 꽃다운나이 25세를 이쁘게 보내지 못한다는 생각이 들며	O O SS_AGE-B O O O O O
-다음으로는 잘 못 이체 하신 계좌번호가 어떻게 되어 있는지 말씀해 주실 수 있나요?	O O O O O O O O O O O O O
-제주은행 보안카드 분실하였는데요. 어떻게 대처 해야 하나요?	SS_BRAND-B O O O O O O
-롯데인벤스1차아파트지점 연락처는 02-6579-0070입니다.	O O ID_PHONE-B
-저희 경남은행이 맞습니까?	O SS_BRAND-B O
-전화번호 마지막 4자리는 어떻게 되나요?	O O O O O
+박원순 서울시장, 안철수 국회의원간에 양보받을 차례라는 발언에 대해 채널A 쾌도난마 방송입니다	SS_NAME-B O SS_NAME-B O O O O O O O O
+3313 0412 1120 1330입니다. 체크 카드인데 가능하죠?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O O
+신설3길 장림협성르네상스타운아파트 2005호 입니다.	O O O O
+기억이… 아 한국산업은행 인 것 같은데요.	O O SS_BRAND-B O O O
+저희 중소기업은행 통장인 거죠?	O SS_BRAND-B O O
+중소기업은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+한국은행입니다. 무엇을 도와드릴까요 고객님?	O O O O
+네 제 카드구요, 0121 2014 3310 1212번요.	O O O ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+장윤철입니다.	SS_NAME-B
+현대카드이구요. 3430 2410 3312 2011입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+네, 현대 카드, 1033 0140 1042 0101 이에요.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+작년글들 보다가 문득 지름이가 한살이 됐다는 사실을 깨달았다.	O O O SS_NAME-B SS_AGE-B O O O
+경남은행 보안카드 분실한 것 같아요. 다시 발급 받을려면 어떻게 해야 하나요?	SS_BRAND-B O O O O O O O O O O
+저기요. 한국스탠다드차타드은행 홈페이지에 접속할 수 없어요.	O SS_BRAND-B O O O O
+수협입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+1948년 01월 28입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+제 번호는 1468가 맞아요.	O O ID_PHONE-B O
+생년월일은 어떻게 되시나요?	O O O
+반품 처리되었습니다. 배미주였습니다. 감사합니다.	O O SS_NAME-B O
+뉴라이트 박살낸 한국일보 서화숙기자의 동영상도 있고요.	O O SS_BRAND-B SS_NAME-B O O
+전화번호 뒷 4자리는 어떻게 되어 있습니까?	O O O O O O
+7335입니다.	ID_PHONE-B
+530318입니다.	ID_INUM-B
+네 확인해 주셔서 감사합니다. 그러면 지금 회수는 지금 광주 광산구 신길7동 이하 주소 확인 부탁 드리겠습니다.	O O O O O O O O O O O O O O O O
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+010 5511 0444.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+3600542요.	ID_INUM-B
+040619-2453503입니다.	ID_INUM-B
+3439210입니다.	ID_INUM-B
+760420입니다.	ID_INUM-B
+기억이 가물가물한데~ 이제 30대가 되어서 온 정동진은 어떨까??	O O O O O O O O
+환영합니다. 신한은행에 맞게 전화 주신 것이 맞습니다.	O SS_BRAND-B O O O O O
+경상북도 포항시 남구 효성로 37 1층	O O O O O O
+예, 그럼 반품으로 도와드리겠습니다. 주소지는 충남 천안시 동남구 643번지 코오롱동신아파트 동일합니까?	O O O O O O O O O O O
+하나은행 보안카드 잃어버렸습니다. 어떻게 해야 하나요?	SS_BRAND-B O O O O O
+남수희 040614 입니다	SS_NAME-B ID_INUM-B O
+네 씨제이오쇼핑입니다. 무엇을 도와 드릴까요?	O SS_BRAND-B O O O
+네. 신성진이구요.	O SS_NAME-B
+생년월일 어떻게 되시죠?	O O O
+네 이보영이었습니다.	O SS_NAME-B
+영광 불갑산 상사화축제 2018 연락처 1899-2012	O O O O O ID_PHONE-B
+팬클럽 가입문의 (010-2216-5516)	O O ID_PHONE-B
+‘에드워드 사이디 팅가팅가’의 작품과	SS_NAME-B SS_NAME-I SS_NAME-I O
+막 스무 살이 된 지금 또 학원에 가고 싶지는 않더라구요.	O SS_AGE-B SS_AGE-I O O O O O O O
+주민등록번호 뒷자리7자리 ?	O O O
+신한카드구요, 1200 3431 2314 3144입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+661-12883-45792입니다.	ID_ACCOUNT-B
+아 농협이구 916 78 46545 요.	O SS_BRAND-B ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I O
+농수산홈쇼핑 소혜민입니다.	SS_BRAND-B SS_NAME-B
+5760382-53-757280 입니다.	ID_ACCOUNT-B O
+내남친 생일 11/6	O O SS_BIRTH-B
+1410 2330 1003 2220 맞습니까? 어느 카드죠?	ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O O O
+조가윤.	SS_NAME-B
+네 기다려주셔서 감사합니다. 회수는 울산 북구 효자동1가 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O
+생일언제드라	O
+본 은행인부산은행의 계좌가 맞나요?	O SS_BRAND-B O O
+1131 체폭님 생일... 이번엔 안잊어..	SS_BIRTH-B SS_NAME-B O O O
+토스뱅크에 맞게 전화 걸것 맞나요?	SS_BRAND-B O O O O
+주일오후 신앙의 대잇기 세미나에 함께 하여 박창환교수님 (91세)의 열강을 들었습니다.	O O O O O O SS_NAME-B SS_AGE-B O O
+149다시 436 다시 248입니다.	ID_ACCOUNT-B ID_ACCOUNT-I O ID_ACCOUNT-I
+010 2079 4408요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+또 하나투어 여행박람회 서포터즈 최우수 활동가로 선정되어 세부로 떠날 건데요.	O SS_BRAND-B O O O O O O O O
+보냈던 제 계좌번호는 09-589-516 로 알고 있습니다.	O O O ID_ACCOUNT-B O O O
+예 반품 처리되었습니다. 변도연이었습니다.	O O O SS_NAME-B
+네, 02-7580-0230 이었습니다.	O ID_PHONE-B O
+그 유준상님 님 맞으세여	O SS_NAME-B O O
+그리고 다얀이 뒤로 보이는 핑크억새 !!!	O SS_NAME-B O O O O
+네, 교환 처리에서 반품 처리로 도와드리겠습니다. 배송 받으셨던 주소가 전남 여수시 터진목로 20번길 시화공단2마아파트 맞습니까?	O O O O O O O O O O O O O O O
+여보세요. 경남은행 맞습니까?	O SS_BRAND-B O
+1519호요.	O
+네 반품 처리되었습니다. 저는 김준현이었습니다.	O O O O SS_NAME-B
+4.5키로가 넘는 아이인데 2년간 말라서 3.6키로가 되었다.	SS_WEIGHT-B O O O O SS_WEIGHT-B O
+하나생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+고객님 주민등록번호뒷자리가 어떻게 되시나요?	O O O O
+본 농협을 통한 계좌가 맞나요?	O SS_BRAND-B O O O
+3895131 입니다.	ID_INUM-B O
+홈앤쇼핑입니다. 네 고객님 무엇을 도와드릴까요?	SS_BRAND-B O O O O
+예. 네. 불편 드려 정말 죄송합니다. 제가 심재서고객님으로 정정 도와드렸습니다.	O O O O O O O SS_NAME-B O O
+한 165 /45?	O SS_LENGTH-B SS_WEIGHT-B
+오복손두부 라는 식당에 들렀다.	O O O O
+사매면 인화리 미장휴먼시아 270동 3145호요.	O O O O O
+600동 402호요.	O O
+고객님의 출생월일6자리 또는 8자리가 어떻게 되십니까?	O O O O O O
+티아라에서 류화영이란 멤버가 있었어? 나 오늘 첨 알았네 -_-;;	O SS_NAME-B O O O O O O O
+성유진, 010 4835 9343.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+공영홈쇼핑입니다. 무엇을 도와드릴까요?	SS_BRAND-B O O
+두번째로는 상대방 계좌의 계좌번호가 어떻게 되는지 말씀해 주실 수 있으십니까?	O O O O O O O O O O
+4652646 입니다.	ID_INUM-B O
+어 삼성카드이구요 3202 1213 3123 0302	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+동부이촌동 카페C의 크레이프 케이크도	O O O O
+데시앙아파트 183동9929호입니다	O O
+생년월일은 어떻게되나요?	O O
+반품 처리되었습니다. 박주안이었습니다.	O O SS_NAME-B
+전라남도 여수시 거북선공원3길 12	O O O O
+네 확인해 주셔서 감사합니다. 교환 주소는 배송 받으셨던 경기도 부천시 철산2동 맞습니까?	O O O O O O O O O O O O
+계약자님 주민등록번호 뒷자리 7자리 어떻게 되시죠?	O O O O O O
+안녕하세요. 제가 제주은행에 맞게 전화 건것이 맞습니까?	O O SS_BRAND-B O O O O
+국내 공식 프로필에 따르면 그의 신장은 179cm가 아닌 176cm	O O O O O O SS_LENGTH-B O SS_LENGTH-B
+롯데손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+허정옥 725190 입니다	SS_NAME-B ID_INUM-B O
+학교 마치고 학원까지 다 끝내고 집에온 9살 조은실양	O O O O O O SS_AGE-B SS_NAME-B
+권휴민, 23세, 김여니 엄마_♥️	SS_NAME-B SS_AGE-B SS_NAME-B O
+네 안도찬, 019 432 7226입니다.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+현경이 머드스콘 줄라고 바로 여의도로 이동	SS_NAME-B O O O O O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+케이뱅크입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+부산광역시 강서구 유통단지1로 76 건축자제판매단지 8동 101호	O O O O O O O
+아 네. 고객님. 회수 주소도 똑같이 권선구 번덕9번 길 282 몇동 몇호세요?	O O O O O O O O O O O O
+잠시만요. 찾아보니 토스뱅크 이네요.	O O SS_BRAND-B O
+안녕하십니까 ABL생명보험입니다.	O SS_BRAND-B
+안녕하십니까? 엔에스홈쇼핑 추이경입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+고객님 다시 한번 번호 확인하겠습니다. 케이비 카드 3402 0020 3401 2401 맞습니까?	O O O O O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I O
+경기도 가평군 상면 수목원로 432 아침고요수목원 1544-6703	O O O O O O ID_PHONE-B
+601025입니다.	ID_INUM-B
+3403946 입니다.	ID_INUM-B O
+반품 접수되었습니다. 김지연이었습니다.	O O SS_NAME-B
+네 비씨 카드 4321 2411 4222 0432.	O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+고객님께서 정확하게 전화 주신 것이 맞습니다. 우리은행입니다.	O O O O O O SS_BRAND-B
+농협 카드고요. 4023 3410 3300 1024.	SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+생년월일은 어떻게 되시나요?	O O O
+나는 스물셋에 이 포스팅을 올린다.	O SS_AGE-B O O O
+최원호 (남, 42세)	SS_NAME-B O SS_AGE-B
+내 이름은 상헌 나이는 스물 두 살	O O SS_NAME-B O SS_AGE-B SS_AGE-I SS_AGE-I
+우리 은행이고요.	SS_BRAND-B SS_BRAND-I
+2935420 입니다.	ID_INUM-B O
+수거할 주소는 배송 받으셨던 경기 화성시 기장군 철마면 곡천길 이하 주소 확인 부탁 드립니다.	O O O O O O O O O O O O O O
+고객님 주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O O
+예 저기 신한 카드구요. 3200 2131 2400 1040.	O O SS_BRAND-B SS_BRAND-I ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+확인해 주셔서 감사합니다. 수거할 주소는 배송받으셨던 경기 하남시 달서구 외릉로 5번길 74입니까?	O O O O O O O O O O O O
+1968년 05월 05입니다.	ID_INUM-B ID_INUM-I ID_INUM-I
+신한카드, 1043 1224 2234 1004요.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+그 때 `냄새를 보는 소녀` 의 만취 작가와, `오렌지 마말레이드` 의 석우 작가님의 사인회가 진행되고 있었습니다.	O O O O O O SS_NAME-B O O O O SS_NAME-B O O O O
+KT 올레 휴대폰 보험 접수 전화번호는 1577-9420	SS_BRAND-B SS_BRAND-I O O O O ID_PHONE-B
+1월 7일에 친구 생일 이었ㄴㄴ데 까묵음	SS_BIRTH-B SS_BIRTH-I O O O O
+서예지, 010 3412 9384.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+권경철 520926 입니다.	SS_NAME-B ID_INUM-B O
+경상남도 고성군 하이면 덕명5길 42-23	O O O O O
+동문굿모닝힐아파트 928동6810호입니다.	O O
+새마을금고입니다. 무엇을 도와드릴까요 고객님?	O O O O
+ABL생명보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+안녕하세요 우리은행 고객센터죠?	O SS_BRAND-B O
+네, 예금주는 문하리고객님 맞습니까?	O O SS_NAME-B O
+딸에게 메트라이프생명을 들어줬는데요.	O SS_BRAND-B O
+193cm 발레 선생님.........	SS_LENGTH-B O O
+삼성카드이구요, 1444 0131 0140 0334입니다.	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+안녕하십니까? 천성윤고객님 맞으신가요?	O SS_NAME-B O
+제 생년월일은 490420이에요.	O O ID_INUM-B
+내 앞에 놓여있는 것은 내가 사십대가 되었을 때 받으려고 주문해두었던 요리가 아니었다.	O O O O O O O O O O O O
+이하솔, 010 5664 8708요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+이승규.	SS_NAME-B
+서울특별시 용산구 한강대로 371 2층	O O O O O
+4445915 입니다.	ID_INUM-B O
+이름은 유우희, 019-5649-2770입니다.	O SS_NAME-B ID_PHONE-B
+김윤지입니다.	SS_NAME-B
+네, 이희시요. 016 868 8930요.	O SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+손다정 33128입니다	SS_NAME-B ID_INUM-B
+김포시 통진읍 서암리 입니다.	O O O O
+010-8998-0093입니다.	ID_PHONE-B
+경남은행 보안카드 없어진 것 같습니다. 다시 발급 받을려면 어떻게 해야 합니까?	SS_BRAND-B O O O O O O O O O O
+네, 성유진고객님 맞습니까?	O SS_NAME-B O
+근대 음력 11월25일이라 생일은 아니었지만 감사합니다.생일 축하해주신 폐친분들에게 감사합니다.	O O SS_BIRTH-B O O O O O O
+2590410입니다.	ID_INUM-B
+주민등록번호 뒷자리7자리가 어떻게되시죠?	O O O
+고객님 주소가 덕진구 송천동 다음 주소는 무엇인가요?	O O O O O O O
+010-6234-9388입니다.	ID_PHONE-B
+800동3205호입니다.	O
+쉰여섯에 나는 우리 6남매의 멋진 여행을 꿈꾸고 있다.	SS_AGE-B O O O O O O O
+배송 받으신 주소가 강원도 춘천시 중리동으로 확인되는데 맞습니까?	O O O O O O O O
+아담 스미스의 말처럼, 더운 날씨 가운데에도 그리스도를 본받아, 타인을 너그러이 포용하려 애쓰겠습니다.	SS_NAME-B SS_NAME-I O O O O O O O O O O
+싱가포르에 사는 14살 소녀.	O O SS_AGE-B O
+RM이 현재 체중 76kg라고 밝히며 다른 멤버 진의 몸매를 부러워했다.	SS_NAME-B O O SS_WEIGHT-B O O O SS_NAME-B O O
+류원주이구요, 2012년02월,04일입니다	SS_NAME-B ID_INUM-B
+NH농협손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+그 당구장 사장님이 20대여서 그런지 정말 센스가 있더라고요 그 센스에 박수 보냅니다	O O O O O O O O O O O O
+고객님 주민등록번호뒷자리가 어떻게되시죠?	O O O
+018 2647 9718이네요.	ID_PHONE-B ID_PHONE-I ID_PHONE-I
+이분이 164센치라네여 저 165인데	O SS_LENGTH-B O SS_LENGTH-B
+경남은행 보안카드 분실하였습니다. 다시 발급 받을려면 어떻게 대처 해야 합니까?	SS_BRAND-B O O O O O O O O O
+네 안원준이고요.	O SS_NAME-B
+지에스홈쇼핑 문경하입니다.	SS_BRAND-B SS_NAME-B
+경기도 안양시 동안구 동편로183번길 10 명재빌딩	O O O O O O
+서면 우돼끼리에서도 인스타 이벤트중이니 꼭 참여하세용	O O O O O O
 지민은 41kg의 몸무게를 보여주듯 살이 하나도 붙지 않은 마른 얼굴을 보였다.	SS_NAME-B SS_WEIGHT-B O O O O O O O O O
-681동 890호요.	O O
-010-3323-2265	ID_PHONE-B
-183/ 82	SS_LENGTH-B SS_WEIGHT-B
-성함과 생년월일 정보 부탁드립니다.	O O O O
-산체스 vs 윤성환	SS_NAME-B O SS_NAME-B
+KT 단말기보험(쇼폰케어보험) 보상문의 및 사고접수는 KT 고객센터(2763-6066)를 통해 처리 하실 수 있습니다.	SS_BRAND-B O O O O SS_BRAND-B ID_PHONE-B O O O O O
+씨제이오쇼핑 황희미입니다.	SS_BRAND-B SS_NAME-B
+DSLR을 처음 접하는 스무살과 휴대성과 디자인을 중요시하는 여성을 타겟으로 삼으면서	O O O SS_AGE-B O O O O O O
+340911입니다	ID_INUM-B
+저는 현대홈쇼핑 박용섭이었습니다.	O SS_BRAND-B SS_NAME-B
+저는 6살 때부터 피아노를 배웠고, 초등학교에 들어가면서 바이올린을 함께 배웠어요.	O O O O O O O O O O
+지한이는 2017년 8월 28일에 태어난 10개월 남자아이에요	SS_NAME-B ID_INUM-B ID_INUM-I ID_INUM-I O SS_AGE-B O
+이사람이 키가 193이거든요????	O O SS_LENGTH-B
+기타 더 자세한 것은 010-1688-2838로 문의하시고, simpro의 반백년 이야기 포스팅에 비밀댓글로 문의해도 된다.	O O O O ID_PHONE-B O SS_NAME-B O O O O O O
+철도비리 송광호 의원, 대법원에서 징역 4년 확정되어 국회의원직이 상실되었다.	O SS_NAME-B O O O O O O O
+인주면 걸매리 사북2리선명아파트 103동 3071호 입니다.	O O O O O O
+개인정보를 최대한 보호하며 도와드리겠습니다. 본인의 생년월일이 무엇입니까?	O O O O O O O
+네 롯데홈쇼핑입니다.	O SS_BRAND-B
+581114입니다.	ID_INUM-B
+스물일곱 김성현 장군 나가신다 길을비켜라 with양사장.송로몬.빛설.박권사.아에이오우	SS_AGE-B SS_NAME-B O O O SS_NAME-B
+박유하, 019 207 5322요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+전북은행 이용중인데요 해킹이 된 것 같아요.	SS_BRAND-B O O O O O
+네 저는 탁미진이었습니다.	O O SS_NAME-B
+엄지원도 후보에 같이	SS_NAME-B O O
+3603712요.	ID_INUM-B
+우린이렇게 3인1조인데 엄마, 혜원, 혜린 ㅋㅋㅋㅋ	O O O SS_NAME-B SS_NAME-B O
+꿀단지야 건강하게 잘 자라렴❤️	SS_NAME-B O O O
+넌 생일이 언제야?	O O O
+민승이가 생일파티 해줘서 엄마한테 고맙습니다..인사하더라구요..	SS_NAME-B O O O O
+김아가 (남, 32세)	SS_NAME-B O SS_AGE-B
+카메론 디아즈 프로필 출생: 1972년 8월 30일, 미국 신체: 174cm, 53kg	SS_NAME-B SS_NAME-I O O ID_INUM-B ID_INUM-I ID_INUM-I O O SS_LENGTH-B SS_WEIGHT-B
+한보라마을 경남아너스빌 아파트 102동 301호 입니다.	O O O O O O
+서울특별시 종로구 낙산성곽서1길 18-4	O O O O
+이번달안엔 칠십팔키로에 들어갈수 있겟지??	O SS_WEIGHT-B O O
+다음에 버리실땐 010-5623-6072로 연락주세요.	O O ID_PHONE-B O
+백태하.	SS_NAME-B
+신한카드고 3224 2331 0404 0241요	SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+언니가 27살 그리고 내가 25살, 나잇대가 비슷하여	O SS_AGE-B O O SS_AGE-B O O
+현재 체중 : 4.5	O O O SS_WEIGHT-B
+하나만 아이 생일선물로 사줬더니..네살 둘째가..얻어쓰느라 스트레스였던듯	O O O SS_AGE-B O O
+신연하, 010 8102 7219요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+네 확인해 주셔서 감사합니다. 지금 그러면 반품 접수 도움 드릴 텐데 회수는 광주 광역시 남구 독산3동 이하 주소 확인 부탁 드리겠습니다.	O O O O O O O O O O O O O O O O O O O O O
+현대홈쇼핑 최세진입니다.	SS_BRAND-B SS_NAME-B
+김천시 중구 분당동 다음주소가 어떻게되십니까?	O O O O O
+휴대전화 번호 뒷 4자리는 어떻게 되어 있습니까?	O O O O O O O
+아, 그러십니까? 그러시면 회수할 주소지는 배송받으셨던 서울시 구로구 384 번지 맞습니까?	O O O O O O O O O O O
+e편한세상아파트 208동8435호입니다.	O O
+네, 김소원이었습니다. 감사합니다.	O SS_NAME-B O
+66.2kg 인생 최대 몸무게..	SS_WEIGHT-B O O O
+NH농협생명 확인되십니다.	SS_BRAND-B O
+사시는곳 상세주소 말씀해주시겠어요?	O O O
+이민호강사님 완전 재밌게 잘설명해줘요 ㅋㅋㅋ	SS_NAME-B O O O O
+체중감량이 안되니 예민해졌다.. 지금 92.40kg이고 목표는 10kg는 더 빼야한다.	O O O O SS_WEIGHT-B O O O O
+종로 5가에 있습니다	O O O
+1층 101호 입니다.	O O O
+051013-3494827입니다.	ID_INUM-B
+다음 순서입니다. 생년월일을 알아야 합니다. 어떻게 되십니까? 예를 들어서 89년도 생이시면, 1989으로 말씀 해주셔야 합니다.	O O O O O O O O O O O O O O O
+에이스손해보험입니다. 무엇을 도와드릴까요 고객님?	SS_BRAND-B O O O
+130동 1701호입니다.	O O
+2678에 573802입니다. 이거 맞을 거라고 생각해요.	ID_ACCOUNT-B ID_ACCOUNT-I O O O O
+받으실 핸드폰번호 알려 주시겠어요?	O O O O
+너네는 93년생이니 내년에 받아야겠다	O SS_AGE-B O O
+장채하, 010 7531 6435요.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+넘치는사랑 받은 28살 생일 행복했따..♥️ (나이들수록 초는 날짜로 하는거라며)	O O SS_AGE-B O O O O O O
+(나도 이동진 멘토님처럼 그런 여행을 하고 싶다.)	O SS_NAME-B O O O O O
+동문시장 031-4900-0990	SS_BRAND-B ID_PHONE-B
+공복 몸무게가 51kg나왔다.	O O SS_WEIGHT-B
+쉰여섯을 얼마나 기다렸는데......	SS_AGE-B O O
+부산 망미동 카페 프루토프루타	O O O O
+네 확인 감사합니다. 상품 회수하실 주소는 대전 서구 야음동 장안초원 아파트 몇 동 몇 호입니까?	O O O O O O O O O O O O O O O
+2009년 03월 13입니다	ID_INUM-B ID_INUM-I ID_INUM-I
+1528동 4002호요.	O O
+유수하, 010 7574 9092.	SS_NAME-B ID_PHONE-B ID_PHONE-I ID_PHONE-I
+저의 생년월일은 620705이에요.	O O ID_INUM-B
+제 번호는 0694가 확실합니다.	O O ID_PHONE-B O
+네, 주소 확인하겠습니다. 서울시 서대문구 파장동 신천대로 65번길 이하 주소 말씀 부탁드립니다.	O O O O O O O O O O O O
+안권석요.	SS_NAME-B
+젤다무쌍 11월20일에 발매된대 내생일에 나온대	O SS_BIRTH-B O O O
+넌 10살이고, 아지는 2살이잖아	O SS_AGE-B SS_NAME-B SS_AGE-B
+GS홈쇼핑입니다. 네 고객님 무엇을 도와드릴까요?	SS_BRAND-B O O O O
+광주광역시 남구 월산로 151 1층 onoff coffee	O O O O O O O
+저는 31살이니 아직 응애군요	O SS_AGE-B O O
+655동4775호 입니다.	O O
+에이스손해보험 확인되십니다.	SS_BRAND-B O
+네 농협카드고요. 4433 1241 4324 4001입니다.	O SS_BRAND-B ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I
+안녕하십니까? 공영홈쇼핑 김도경입니다. 무엇을 도와드릴까요?	O SS_BRAND-B SS_NAME-B O O
+메트라이프생명보험 확인되십니다.	SS_BRAND-B O
+174동 906호요.	O O
+곧 단원고 2학년3반 고 최윤민 학생의 언니 최윤아씨가 등장한다.	O O O O SS_NAME-B O O SS_NAME-B O
+지에스홈쇼핑입니다. 무엇을 도와드릴까요?	SS_BRAND-B O O
+zebra - foal	SS_NAME-B O O

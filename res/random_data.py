@@ -56,6 +56,8 @@ def make_random_data(task):
         output.append(random.choice(ro))
         output.append(random.choice(dong))
         output.append(random.choice(do))
+    elif task == 5:
+        output.append(random.choice(aparts))
     return output
-for i in range(20):
-    print(make_random_data(i % 5))
+# for i in range(20):
+#     print(make_random_data(i % 6))

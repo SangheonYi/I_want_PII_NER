@@ -1,15 +1,17 @@
 from lib2to3.pgen2 import token
 import sys
 sys.path.append('C:\\Exception\\I_want_PII_NER\\res')
-
+# print(sys.path)
 import csv
 from sklearn.model_selection import train_test_split
 from res.labling_tool import *
-
-file_path = 'res/intergrated_sangheon.tsv'
-file_path = "res/filling.kt"
-test_path = 'res/test.tsv'
-train_path = 'res/train.tsv'
+root_path = 'C:/EXCEPTION/'
+project_path = 'I_want_PII_NER/'
+file_path = project_path + 'res/intergrated_sangheon.tsv'
+file_path = project_path + "res/filling.kt"
+file_path = "new_one.tsv"
+test_path = project_path + 'res/test.tsv'
+train_path = project_path + 'res/train.tsv'
 remain_lables = ['SS_AGE-B', 'SS_BRAND-B', 'SS_WEIGHT-B', 'SS_BIRTH-B', 'SS_LENGTH-B', 'SS_NAME-B', 'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B']
 
 def preprocess_lables(matrix_tokens, matrix_lables):
@@ -34,7 +36,7 @@ def preprocess(file):
         lables.append(data_lables)
     return tokens, lables
     
-with open(file_path, 'r', encoding='UTF-8') as res_file, open(train_path, 'w', newline='', encoding='UTF-8') as train, open(test_path, 'w', newline='', encoding='UTF-8') as test:
+with open(root_path + file_path, 'r', encoding='UTF-8') as res_file, open(root_path + train_path, 'w', newline='', encoding='UTF-8') as train, open(root_path + test_path, 'w', newline='', encoding='UTF-8') as test:
     ttrain = csv.writer(train, delimiter='\t')
     ttest = csv.writer(test, delimiter='\t')
     tokens, lables = preprocess(res_file)
