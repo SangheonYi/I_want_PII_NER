@@ -5,11 +5,13 @@ sys.path.append('C:\\Exception\\I_want_PII_NER\\res')
 import csv
 from sklearn.model_selection import train_test_split
 from res.labling_tool import *
+
 root_path = 'C:/EXCEPTION/'
 project_path = 'I_want_PII_NER/'
 file_path = project_path + 'res/intergrated_sangheon.tsv'
 file_path = project_path + "res/filling.kt"
 file_path = "new_one.tsv"
+file_path = project_path + "res/kssed.tsv"
 test_path = project_path + 'res/test.tsv'
 train_path = project_path + 'res/train.tsv'
 remain_lables = ['SS_AGE-B', 'SS_BRAND-B', 'SS_WEIGHT-B', 'SS_BIRTH-B', 'SS_LENGTH-B', 'SS_NAME-B', 'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B']
@@ -21,7 +23,8 @@ def preprocess_lables(matrix_tokens, matrix_lables):
         lables = lables.split()
         tokens = matrix_tokens[i].split()
         raw_lable_set.update(lables)
-        is_valid_lable(lables, tokens)
+        if not is_valid_lable(lables, tokens):
+            print(i + 1, "th sentence is invalid")
         lableExclude(lables, remain_lables)
         matrix_lables[i] = ' '.join(lables)
         lable_set.update(lables)

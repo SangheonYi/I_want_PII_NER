@@ -26,13 +26,17 @@ def labling(line, lable, old, new):
     return line
 
 def is_valid_lable(lables, tokens, b_lables=B_LABLES):
+    validation = True
     i_lables = [b_lable[:-1] + 'I' for b_lable in b_lables]
     line = ' '.join(tokens)
     if len(tokens) != len(lables):
             print(f"different length tokens {len(tokens)} lables {len(lables)} at {line}")
+            validation = False
     for lable in lables:
         if not (lable in i_lables or lable in b_lables or lable == 'O'):
             print(f"invalid lable: {lable} at {line}")
+            validation = False
+    return validation
     
 def reg_labling(tokens, lables, searched, lable):
     is_begin = True
