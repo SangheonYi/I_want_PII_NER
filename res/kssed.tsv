@@ -172,7 +172,6 @@ FAX 448-406-818 입니다.	O ID_PHONE-B O
 437447입니다.	ID_INUM-B
 성함을 말씀해 주시겠어요?	O O O
 최동철입니다.	SS_NAME-B
-가입하고 계신 에이스건강보험1건이 확인됩니다.	O O SS_BRAND-B O
 fax 406-2002-5554입니다.	O ID_PHONE-B
 성함말씀해 주시겠어요?	O O
 고동환입니다.	SS_NAME-B
@@ -3164,7 +3163,7 @@ Paolo Nutini 나이가 19살인데	SS_NAME-B SS_NAME-I O SS_AGE-B
 (남친 34세임, 피부관리 절대안함ㅋㅋㅋ)	O SS_AGE-B O O
 아직 우리 요미는 7살밖에 되지 않았지만 십년 뒤에 먼저 보내야 할 생각을 하니 가슴이 먹먹...	O O O SS_AGE-B O O O O O O O O O O O
 저는 3n 살..따흑.	O O O
-3n 살이 먹기에는 아무래도 슴슴한 초기 이유식, 발아현미 브로콜리 미음이 완성되었어요.	SS_AGE-B SS_AGE-I O O O O O O O O O
+3n 살이 먹기에는 아무래도 슴슴한 초기 이유식, 발아현미 브로콜리 미음이 완성되었어요.	O O O O O O O O O O O
 제가 드디어 쉰여섯이 되었습니다.	O O SS_AGE-B O
 제 나이 쉰여섯, 쉰일곱, 쉰여덟이 되면 아주 좋을 것 같았습니다.	O O SS_AGE-B SS_AGE-I SS_AGE-I O O O O O
 아주 좋을 거라고 기대했던 쉰여섯	O O O O SS_AGE-B
@@ -4114,7 +4113,7 @@ TEL: 02) 2028-4500	O ID_PHONE-B ID_PHONE-I
 유사자 : 서성태 회원 (010-7168-7448)	O O SS_NAME-B O ID_PHONE-B
 전 화 : (051) 635-0240 , 621-0240	O O O ID_PHONE-B ID_PHONE-I O ID_PHONE-B
 팩 스 : (051) 621-0240	O O O ID_PHONE-B ID_PHONE-I
-주 소 : 부산광역시 남구 분포로 113 218-1703	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I ID_PHONE-B
+주 소 : 부산광역시 남구 분포로 113 218-1703	O O O AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B
 장소 : 외식명가 (전화 611-4300, 용호3동 84-5)	O O SS_BRAND-B O ID_PHONE-B AD_ADDRESS-B AD_ADDRESS-I
 안경세상 용호점 (전화 622-3567) ▼	O O O ID_PHONE-B O
 남구 용호2동 212-2번지 백운포에 있는 진주횟집을 소개합니다.	AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B O O O
@@ -4136,7 +4135,7 @@ TEL: 02) 2028-4500	O ID_PHONE-B ID_PHONE-I
 음력 3월 12일이라는 무시무시한 생일을 챙기신다.	O SS_BIRTH-B SS_BRAND-I O O O
 주민등록 생일은 2월10일 인디?	O O SS_BIRTH-B O
 내남친 생일 11/6	O O SS_BIRTH-B
-소연이 생일이 11월 21일이거든?	O O SS_BIRTH-B SS_BIRTH-I
+소연이 생일이 11월 21일이거든?	SS_NAME-B O SS_BIRTH-B SS_BIRTH-I
 6/28 태림 생일	SS_BIRTH-B SS_NAME-B O
 근데 강린씨 생일은 9월 3일이야 ㅠㅠ	O SS_NAME-B O SS_BIRTH-B SS_BIRTH-I O
 4/1 생일인데..	SS_BIRTH-B O
