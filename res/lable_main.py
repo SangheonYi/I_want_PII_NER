@@ -1,4 +1,9 @@
 from labling_tool import *
+import sys
+sys.path.append('/home/sayi/workspace/pii/I_want_PII_NER/res')
+
+root_path = '/home/sayi/workspace/pii/'
+project_path = 'I_want_PII_NER/'
 
 insurance_lable = "res/insurance_labled"
 intergrated = "res/intergrated_sangheon.tsv"
@@ -8,6 +13,7 @@ all_intergrated = "C:/Exception/new_one.tsv"
 result = "C:/Exception/I_want_PII_NER/res/result"
 qa_lable = "res/QAlable"
 out_file = "res/filling.kt"
+file_path = project_path + "res/duplabeld.tsv"
 
 def init_paramater():
     # lable = 'ID_ACCOUNT-B'
@@ -63,5 +69,5 @@ with open(train, "r", encoding="utf-8") as file, open(out_file, "w", encoding="u
         #     print(log[:-1])
         #     changed += log
         # edited_file.write(line)
-        edited_file.write(insertTab(line))
+        # edited_file.write(insertTab(line))
     print(cnt)
