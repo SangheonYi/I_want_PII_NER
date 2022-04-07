@@ -96,11 +96,12 @@ with open(project_path + token_label, "r", encoding="utf-8") as file, open(proje
                 # print_set.update(set(tokens))
                 cnt += 1
             # tmp.append(token + ' ' + labels[i])
-            tmp.append(token )
-        tmp = ' '.join(tmp)
-        if '🤴' in tmp:
-            print(tmp)
+            # tmp.append(token)
+        # tmp = ' '.join(tmp)
+        # if '🤴' in tmp:
+        #     print(tmp)
+        line = ' '.join(tokens) + '\t' + ' '.join(labels) + '\n'
         edited_file.write(line)
-        edited_file.write(insertTab(line))
+        # edited_file.write(insertTab(line))
     for_print = sorted(list(print_set))
     print(check_chars, cnt, check_label)
