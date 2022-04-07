@@ -1,4 +1,4 @@
-[CLS] 자녀 명의 ##로 농협 ##은행 ##계 ##좌 ##가 있 ##으 ##신 ##가요 ? [SEP]	-100 O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I O SS_BRAND-I O O O O O -100
+[CLS] 자녀 명의 ##로 농협 ##은행 ##계 ##좌 ##가 있 ##으 ##신 ##가요 ? [SEP]	-100 O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O O -100
 [CLS] 하나 ##은행 계좌 ##가 없 ##으 ##신 경우 계좌 ##를 먼저 개설 ##하 ##셔 ##야 하고 신분증 지참 후 방문 ##해 주시 ##면 됩니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 계좌 개설 ##은 가까운 신한은행 ##에 가 ##서 하 ##면 되 ##나 ##요 > [SEP]	-100 O O O O SS_BRAND-B SS_BRAND-I O O O O O O O O -100
 [CLS] 네 가까운 토스 ##뱅 ##크 지점 ##을 방문 ##해 ##주 ##시 ##면 됩니다 . [SEP]	-100 O O SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O O O O -100
@@ -1110,7 +1110,7 @@
 [CLS] 생년 ##월일 850 ##90 ##9 맞 ##으 ##십니까 ? [SEP]	-100 O O ID_INUM-B ID_INUM-I ID_INUM-I O O O O -100
 [CLS] 생년 ##월일 ##을 말씀 드리 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O O -100
 [CLS] 1990 ##년 ##0 ##4 ##월 ##0 ##1 ##일 이에 ##요 . [SEP]	-100 ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I O O O -100
-[CLS] 주민 ##번 ##호 끝 ##자리 ##는 04 ##79 ##가 맞 ##나 ##요 ? [SEP]	-100 O O O O O O ID_INUM-B ID_INUM-I ID_INUM-I O O O O -100
+[CLS] 주민 ##번 ##호 끝 ##자리 ##는 04 ##79 ##가 맞 ##나 ##요 ? [SEP]	-100 O O O O O O ID_INUM-B ID_INUM-I O O O O O -100
 [CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 84 ##88 ##입니다 . [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 해외 ##에 ##서는 010 - 82 ##1 - 660 ##4 - 으로 하 ##셔 ##야 합니다 . [SEP]	-100 O O O ID_PHONE-B O ID_PHONE-I ID_PHONE-I O ID_PHONE-I ID_PHONE-I O O O O O O O -100
 [CLS] 010 - 157 ##5 - 36 ##60 ##입니다 . [SEP]	-100 ID_PHONE-B O ID_PHONE-I ID_PHONE-I O ID_PHONE-I ID_PHONE-I O O -100
@@ -2011,7 +2011,7 @@
 [CLS] 주민 ##등 ##록 ##번 ##호 뒷 ##자리 ##7 ##자리 ##가 어떻게 ##되 ##시 ##죠 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
 [CLS] 27 ##99 ##14 ##8 ##입니다 . [SEP]	-100 ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
-[CLS] 저의 번호 ##는 71 ##54 ##가 확실 ##해 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 저의 번호 ##는 71 ##54 ##가 확실 ##해 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 고객 ##님 ##의 출생 ##월일 ##이 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
 [CLS] 1977 ##년 08 ##월 03 ##입니다 [SEP]	-100 ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I O -100
 [CLS] 고객 ##님 ##의 출생 ##월일 ##6 ##자리 또는 8 ##자리 ##가 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
@@ -2037,29 +2037,29 @@
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
 [CLS] 제 번호 ##는 62 ##37 ##입니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
-[CLS] 저의 번호 ##는 44 ##33 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 저의 번호 ##는 44 ##33 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
 [CLS] 제 번호 ##는 81 ##25 ##이 ##에 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 146 ##8 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 번호 ##는 146 ##8 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O O -100
-[CLS] 마지막 4 ##자리 ##는 84 ##91 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 마지막 4 ##자리 ##는 84 ##91 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
 [CLS] 저의 번호 ##는 62 ##33 ##입니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 저의 번호 ##는 73 ##62 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 저의 번호 ##는 73 ##62 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 제 번호 ##는 57 ##35 ##이 ##에 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 235 ##5 ##입니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
-[CLS] 저의 번호 ##는 05 ##57 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 저의 번호 ##는 05 ##57 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 85 ##99 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 4 ##자리 ##는 85 ##99 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 휴대 ##전 ##화 번호 뒷 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
 [CLS] 번호 ##는 49 ##79 ##이 ##에 ##요 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 휴대 ##전 ##화 번호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O -100
-[CLS] 번호 ##는 68 ##48 ##가 확실 ##합니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 ##는 68 ##48 ##가 확실 ##합니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 두 ##번 ##째 ##로 ##는 상대방 계좌 ##의 계좌 ##번 ##호 ##가 어떻게 되 ##는지 말씀 ##해 주실 수 있 ##으 ##십니까 ? [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 149 ##다 ##시 43 ##6 다시 248 ##입니다 . [SEP]	-100 ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O ID_ACCOUNT-I O O -100
 [CLS] 두 ##번 ##째 ##로 ##는 잘 못 이체 하신 계좌 ##번 ##호 ##가 어떻게 되 ##어 있 ##는지 말씀 ##해 주실 수 있 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O -100
@@ -2094,31 +2094,31 @@
 [CLS] 두 ##번 ##째 ##로 ##는 잘 못 이체 하신 계좌 ##번 ##호 ##가 어떻게 되 ##어 있 ##는지 말씀 ##해 주실 수 있 ##으 ##십니까 ? [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 79 ##8 ##에 29 ##37 ##0 ##8 ##에 41 ##46 ##50 ##4 ##입니다 . [SEP]	-100 ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 저의 번호 ##는 96 ##18 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 저의 번호 ##는 96 ##18 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 저의 번호 ##는 90 ##21 ##입니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 57 ##23 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 4 ##자리 ##는 57 ##23 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 270 ##7 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 번호 4 ##자리 ##는 146 ##3 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
-[CLS] 번호 ##는 79 ##15 ##가 확실 ##합니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 ##는 79 ##15 ##가 확실 ##합니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 41 ##10 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 4 ##자리 ##는 41 ##10 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 747 ##0 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 번호 ##는 747 ##0 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 25 ##96 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
-[CLS] 마지막 4 ##자리 ##는 80 ##52 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 마지막 4 ##자리 ##는 80 ##52 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 270 ##8 ##입니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
-[CLS] 마지막 4 ##자리 ##는 67 ##39 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 마지막 4 ##자리 ##는 67 ##39 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 마지막 4 ##자리 ##는 82 ##45 ##가 확실 ##해 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 마지막 4 ##자리 ##는 82 ##45 ##가 확실 ##해 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
 [CLS] 휴대 ##전 ##화 마지막 번호 ##는 90 ##22 ##이 ##에 ##요 . [SEP]	-100 O O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O -100
@@ -2228,17 +2228,17 @@
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
 [CLS] 번호 ##는 83 ##60 ##이 ##에 ##요 . [SEP]	-100 O O ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I O O -100
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 98 ##37 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 번호 ##는 98 ##37 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 63 ##79 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 4 ##자리 ##는 63 ##79 ##가 확실 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
 [CLS] 제 번호 ##는 246 ##5 ##입니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 233 ##4 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 번호 ##는 233 ##4 ##가 맞아 ##요 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 06 ##94 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 번호 ##는 06 ##94 ##가 확실 ##합니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 자택 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 76 ##48 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 번호 4 ##자리 ##는 76 ##48 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##어 있 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 58 ##76 ##입니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 뒷 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
@@ -2416,23 +2416,23 @@
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 78 ##51 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 69 ##91 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 번호 4 ##자리 ##는 69 ##91 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 42 ##84 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 번호 4 ##자리 ##는 42 ##84 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 번호 ##는 94 ##31 ##가 확실 ##해 ##요 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 번호 ##는 94 ##31 ##가 확실 ##해 ##요 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 41 ##12 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
 [CLS] 번호 ##는 49 ##99 ##입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 번호 4 ##자리 ##는 79 ##77 ##가 확실 ##해 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 번호 4 ##자리 ##는 79 ##77 ##가 확실 ##해 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
-[CLS] 마지막 4 ##자리 ##는 70 ##17 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 마지막 4 ##자리 ##는 70 ##17 ##가 맞아 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##나 ##요 ? [SEP]	-100 O O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 680 ##3 ##이 ##에 ##요 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
-[CLS] 제 번호 ##는 74 ##56 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O O -100
+[CLS] 제 번호 ##는 74 ##56 ##가 맞 ##습 ##니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I O O O O O -100
 [CLS] 전화 ##번 ##호 마지막 4 ##자리 ##는 어떻게 되 ##십니까 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 마지막 4 ##자리 ##는 58 ##76 ##번 으로 되 ##어 있 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O -100
 [CLS] 보상 ##문 ##의 연락처 ##좀 알려 ##주 ##세요 [SEP]	-100 O O O O O O O O -100

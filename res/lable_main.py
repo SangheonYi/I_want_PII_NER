@@ -1,7 +1,6 @@
 from labling_tool import *
 import sys
 sys.path.append('/home/sayi/workspace/pii/I_want_PII_NER/res')
-from token_base import dont_care, should_check, others
 
 root_path = '/home/sayi/workspace/pii/'
 project_path = root_path + 'I_want_PII_NER/'
@@ -54,26 +53,13 @@ def init_paramater():
     # pattern = '[0Ooㅇ]{6}'
     pattern = '[0Ooㅇ]{3,}동'
     return lable, new, pattern
+
 with open(project_path + token_label, "r", encoding="utf-8") as file, open(project_path + out_file, "w", encoding="utf-8") as edited_file:
     cnt = 0
     changed = ''
-    
-    check_label =['ID', 'BI', 's']
-    [   
-    #   other
-    
-    # doncare
-
-    # check
-      
-]
-    check_chars =[
-     ]
-    # check_dict = {e:0 for e in check_chars}
-    print_set = set()
-    cnt2 = 0
-
     for line in file:
+        tokens, labels = splitTokenAndLable(line)
+
         # lable, new, pattern = init_paramater()
         # old = re.compile(pattern).search(line)
         # if old:
@@ -82,26 +68,6 @@ with open(project_path + token_label, "r", encoding="utf-8") as file, open(proje
         #     log = f"line idx: {i} changed idx:{cnt} " + line
         #     print(log[:-1])
         #     changed += log
-        tokens, labels = splitTokenAndLable(line)
-        tmp = []
-        for i, token in enumerate(tokens):
-            # and not ( 'NAME'  in labels[i] or 'BRAND'  in labels[i] or 'AGE'  in labels[i] )\
-            # 
-            if token in dont_care:
-                continue
-            elif labels[i] != 'O' and token in others :
-                # check_dict[token] = check_dict[token] + 1
-                labels[i] = 'O'
-                # token = '🤴' + token + '🤴'
-                # print_set.update(set(tokens))
-                cnt += 1
-            # tmp.append(token + ' ' + labels[i])
-            # tmp.append(token)
-        # tmp = ' '.join(tmp)
-        # if '🤴' in tmp:
-        #     print(tmp)
-        line = ' '.join(tokens) + '\t' + ' '.join(labels) + '\n'
-        edited_file.write(line)
+        # line = ' '.join(tokens) + '\t' + ' '.join(labels) + '\n'
+        # edited_file.write(line)
         # edited_file.write(insertTab(line))
-    for_print = sorted(list(print_set))
-    print(check_chars, cnt, check_label)
