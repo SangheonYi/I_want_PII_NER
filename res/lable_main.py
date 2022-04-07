@@ -1,9 +1,10 @@
 from labling_tool import *
 import sys
 sys.path.append('/home/sayi/workspace/pii/I_want_PII_NER/res')
+from collections import Counter
 
 root_path = '/home/sayi/workspace/pii/'
-project_path = 'I_want_PII_NER/'
+project_path = root_path + 'I_want_PII_NER/'
 
 insurance_lable = "res/insurance_labled"
 intergrated = "res/intergrated_sangheon.tsv"
@@ -13,6 +14,7 @@ all_intergrated = "C:/Exception/new_one.tsv"
 result = "C:/Exception/I_want_PII_NER/res/result"
 qa_lable = "res/QAlable"
 out_file = "res/filling.kt"
+token_label = "res/token_label.tsv"
 file_path = project_path + "res/duplabeld.tsv"
 
 def init_paramater():
@@ -52,14 +54,31 @@ def init_paramater():
     # pattern = '[0Ooㅇ]{6}'
     pattern = '[0Ooㅇ]{3,}동'
     return lable, new, pattern
-
-with open(train, "r", encoding="utf-8") as file, open(out_file, "w", encoding="utf-8") as edited_file:
+with open(project_path + token_label, "r", encoding="utf-8") as file, open(project_path + out_file, "w", encoding="utf-8") as edited_file:
     cnt = 0
-    i = 0
     changed = ''
+    [   
+    #   other
+    
+    # doncare
+     '강민호','강호동','강','강동', '감전',  '강변', '경남은행', '경', '경이',  '계','고', '강성', '강우', '교보',
+    # check
+      '##트', '##한', '##포',  '##하', '대구', '광주',
+]
+    check_chars =[
+    
+    # '고객', '고덕', '고동', '고모', '고유', '고은', 
+    #  '골든', '공양', '공주', '과', '교',
+      
+     '강남',
+      
+     ]
+    # 
+    check_dict = {e:0 for e in check_chars}
+    print_set = set()
+    cnt2 = 0
 
     for line in file:
-        i += 1
         # lable, new, pattern = init_paramater()
         # old = re.compile(pattern).search(line)
         # if old:
@@ -68,6 +87,22 @@ with open(train, "r", encoding="utf-8") as file, open(out_file, "w", encoding="u
         #     log = f"line idx: {i} changed idx:{cnt} " + line
         #     print(log[:-1])
         #     changed += log
-        # edited_file.write(line)
-        # edited_file.write(insertTab(line))
+        tokens, labels = splitTokenAndLable(line)
+        tmp = []
+        for i, token in enumerate(tokens):
+            # and not ( 'NAME'  in labels[i] or 'BRAND'  in labels[i] or 'AGE'  in labels[i] )\
+            # and( 'NAME' not in labels[i] ) 
+            if token in check_chars and labels[i] != 'O'  and not ( 'x' in labels[i] or 'd' in labels[i] or 's'  in labels[i] ):
+                check_dict[token] = check_dict[token] + 1
+                token = '🤴' + token + '🤴'
+                # print_set.update(set(tokens))
+                cnt += 1
+            # tmp.append(token + ' ' + labels[i])
+            tmp.append(token )
+        tmp = ' '.join(tmp)
+        if '🤴' in tmp:
+            print(tmp)
+        edited_file.write(line)
+        edited_file.write(insertTab(line))
+    for_print = sorted(list(print_set))
     print(cnt)
