@@ -1,7 +1,7 @@
 from labling_tool import *
 import sys
 sys.path.append('/home/sayi/workspace/pii/I_want_PII_NER/res')
-from collections import Counter
+from token_base import dont_care, should_check, others
 
 root_path = '/home/sayi/workspace/pii/'
 project_path = root_path + 'I_want_PII_NER/'
@@ -57,24 +57,19 @@ def init_paramater():
 with open(project_path + token_label, "r", encoding="utf-8") as file, open(project_path + out_file, "w", encoding="utf-8") as edited_file:
     cnt = 0
     changed = ''
+    
+    check_label =['ID', 'BI', 's']
     [   
     #   other
     
     # doncare
-     '강민호','강호동','강','강동', '감전',  '강변', '경남은행', '경', '경이',  '계','고', '강성', '강우', '교보',
+
     # check
-      '##트', '##한', '##포',  '##하', '대구', '광주',
+      
 ]
     check_chars =[
-    
-    # '고객', '고덕', '고동', '고모', '고유', '고은', 
-    #  '골든', '공양', '공주', '과', '교',
-      
-     '강남',
-      
      ]
-    # 
-    check_dict = {e:0 for e in check_chars}
+    # check_dict = {e:0 for e in check_chars}
     print_set = set()
     cnt2 = 0
 
@@ -91,10 +86,13 @@ with open(project_path + token_label, "r", encoding="utf-8") as file, open(proje
         tmp = []
         for i, token in enumerate(tokens):
             # and not ( 'NAME'  in labels[i] or 'BRAND'  in labels[i] or 'AGE'  in labels[i] )\
-            # and( 'NAME' not in labels[i] ) 
-            if token in check_chars and labels[i] != 'O'  and not ( 'x' in labels[i] or 'd' in labels[i] or 's'  in labels[i] ):
-                check_dict[token] = check_dict[token] + 1
-                token = '🤴' + token + '🤴'
+            # 
+            if token in dont_care:
+                continue
+            elif labels[i] != 'O' and token in others :
+                # check_dict[token] = check_dict[token] + 1
+                labels[i] = 'O'
+                # token = '🤴' + token + '🤴'
                 # print_set.update(set(tokens))
                 cnt += 1
             # tmp.append(token + ' ' + labels[i])
@@ -105,4 +103,4 @@ with open(project_path + token_label, "r", encoding="utf-8") as file, open(proje
         edited_file.write(line)
         edited_file.write(insertTab(line))
     for_print = sorted(list(print_set))
-    print(cnt)
+    print(check_chars, cnt, check_label)

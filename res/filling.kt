@@ -308,8 +308,6 @@
 [CLS] 1993 ##년 ##10 ##월 ##0 ##3 ##일 입니다 . [SEP]	-100 ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I O O -100
 [CLS] 사시 ##는 ##곳 상세 ##주 ##소 ##를 말씀 ##해 주시 ##겠 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
 [CLS] 사시 ##는 ##곳 상세 ##주 ##소 ##를 말씀 ##해 주시 ##겠 ##습 ##니까 ? [SEP]	-100 O O O O O O O O O O O O O O -100
-[CLS] 강변 ##유 ##원 아파트 OO ##동 ##O ##O ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I -100
-[CLS] 강변 ##유 ##원 아파트 OO ##동 ##O ##O ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I -100
 [CLS] 팩스 ##번 ##호 알려 ##주 ##시 ##겠 ##어요 ? [SEP]	-100 O O O O O O O O O -100
 [CLS] 팩스 ##번 ##호 알려 ##주 ##시 ##겠 ##어요 ? [SEP]	-100 O O O O O O O O O -100
 [CLS] FA ##X 44 ##8 - 40 ##6 - 81 ##8 입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
@@ -1320,8 +1318,8 @@
 [CLS] 직 ##통 ##전 ##화 ##번 ##호 안내 도와 ##드리 ##겠 ##습 ##니다 [SEP]	-100 O O O O O O O O O O O O -100
 [CLS] 02 - 119 ##2 - 93 ##84 류 ##희 ##주 ##팀 ##장 ##님 이 ##십니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I O O O -100
 [CLS] 02 - 119 ##2 - 93 ##84 류 ##희 ##주 ##팀 ##장 ##님 이 ##십니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I O O O -100
-[CLS] 이름 ##은 오 ##범 ##철 ##이 ##고 주민 ##번 ##호 ##는 320 ##30 ##92 ##37 ##61 ##90 ##이 ##에 ##요 [SEP]	-100 SS_NAME-B SS_NAME-I O O O O O O O O O ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I -100
-[CLS] 이름 ##은 오 ##범 ##철 ##이 ##고 주민 ##번 ##호 ##는 320 ##30 ##92 ##37 ##61 ##90 ##이 ##에 ##요 [SEP]	-100 SS_NAME-B SS_NAME-I O O O O O O O O O ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I -100
+[CLS] 이름 ##은 오 ##범 ##철 ##이 ##고 주민 ##번 ##호 ##는 320 ##30 ##92 ##37 ##61 ##90 ##이 ##에 ##요 [SEP]	-100 O O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I -100
+[CLS] 이름 ##은 오 ##범 ##철 ##이 ##고 주민 ##번 ##호 ##는 320 ##30 ##92 ##37 ##61 ##90 ##이 ##에 ##요 [SEP]	-100 O O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O ID_INUM-B ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I ID_INUM-I -100
 [CLS] 고객 ##님 주소지 ##는 ##요 ? [SEP]	-100 O O O O O O -100
 [CLS] 고객 ##님 주소지 ##는 ##요 ? [SEP]	-100 O O O O O O -100
 [CLS] 부산 ##광역 ##시 동래 ##구 명 ##안 ##로 동문 ##굿 ##모닝 ##힐 ##아 ##파 ##트 163 ##8 ##호 입니다 . [SEP]	-100 AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_ADDRESS-I AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
@@ -2090,8 +2088,6 @@
 [CLS] 연락 ##받 ##으 ##실 전화 ##번 ##호 ##와 이름 ##을 ##말 ##씀 ##해 ##주 ##시 ##면 전화 또는 문자 ##로 안내 ##를 도와 ##드리 ##도록 하 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 번호 ##는 59 ##65 - 94 ##89 ##이 ##고 이름 ##은 황보 ##성 ##은 ##입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O -100
 [CLS] 번호 ##는 59 ##65 - 94 ##89 ##이 ##고 이름 ##은 황보 ##성 ##은 ##입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O -100
-[CLS] 꼭 연락 ##주 ##세요 . [SEP]	-100 SS_NAME-B O O O O -100
-[CLS] 꼭 연락 ##주 ##세요 . [SEP]	-100 SS_NAME-B O O O O -100
 [CLS] 계좌 ##번 ##호 ##는 75 ##5 - 47 ##81 ##0 - 242 ##29 ##입니다 . [SEP]	-100 O O O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I -100
 [CLS] 계좌 ##번 ##호 ##는 75 ##5 - 47 ##81 ##0 - 242 ##29 ##입니다 . [SEP]	-100 O O O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I -100
 [CLS] 계좌 ##번 ##호 ##는 65 ##2 - 69 ##46 ##4 - 1949 ##9 ##입니다 . [SEP]	-100 O O O O ID_ACCOUNT-B ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I ID_ACCOUNT-I -100
@@ -2314,8 +2310,8 @@
 [CLS] 검찰청 사고 ##신 ##고 ##57 - 72 ##70 ##로 전화 ##하 ##셔 ##서 접수 ##하시 ##기 바랍니다 . [SEP]	-100 O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O -100
 [CLS] 제주 ##은행 , 경남은행 카드 ##입니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-B O O O -100
 [CLS] 제주 ##은행 , 경남은행 카드 ##입니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-B O O O -100
-[CLS] 부산은행 ##은 84 ##71 - 96 ##77 , 수협 ##은행 ##은 86 ##88 - 76 ##44 ##로 전화 ##하 ##셔 ##서 신고 ##하시 ##면 됩니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I O O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O -100
-[CLS] 부산은행 ##은 84 ##71 - 96 ##77 , 수협 ##은행 ##은 86 ##88 - 76 ##44 ##로 전화 ##하 ##셔 ##서 신고 ##하시 ##면 됩니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I O O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O -100
+[CLS] 부산은행 ##은 84 ##71 - 96 ##77 , 수협 ##은행 ##은 86 ##88 - 76 ##44 ##로 전화 ##하 ##셔 ##서 신고 ##하시 ##면 됩니다 . [SEP]	-100 SS_BRAND-B O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I SS_BRAND-B SS_BRAND-I SS_BRAND-I ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O -100
+[CLS] 부산은행 ##은 84 ##71 - 96 ##77 , 수협 ##은행 ##은 86 ##88 - 76 ##44 ##로 전화 ##하 ##셔 ##서 신고 ##하시 ##면 됩니다 . [SEP]	-100 SS_BRAND-B O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I SS_BRAND-B SS_BRAND-I SS_BRAND-I ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O -100
 [CLS] 53 ##74 - 285 ##4 ##번 ##으로 통화 ##해 ##보 ##십시오 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O -100
 [CLS] 53 ##74 - 285 ##4 ##번 ##으로 통화 ##해 ##보 ##십시오 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O -100
 [CLS] 650 ##2 - 228 ##4 ##으로 전화 ##하 ##신 후 본인 ##확 ##인 후 안내 ##해 드립니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O -100
@@ -4894,8 +4890,6 @@
 [CLS] 휴대폰 전화 ##번 ##호 ##와 이름 ##을 ##남 ##겨 ##주 ##시 ##면은 복구 ##될 시 바로 문자 또는 전화 ##로 안내 ##를 해 ##드리 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 번호 ##는 03 ##86 - 177 ##7 ##이 ##고 이름 ##은 임재 ##숙 ##입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O -100
 [CLS] 번호 ##는 03 ##86 - 177 ##7 ##이 ##고 이름 ##은 임재 ##숙 ##입니다 . [SEP]	-100 O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O -100
-[CLS] 꼭 연락 ##주 ##세요 . [SEP]	-100 SS_NAME-B O O O O -100
-[CLS] 꼭 연락 ##주 ##세요 . [SEP]	-100 SS_NAME-B O O O O -100
 [CLS] 휴대폰 전화 ##번 ##호 ##와 이름 ##을 ##남 ##겨 ##주 ##시 ##면 수리 ##가 완료 ##되 ##는 데로 문자 또는 전화 ##를 통하 ##여 안내 ##를 도와 ##드리 ##도록 하 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 휴대폰 전화 ##번 ##호 ##와 이름 ##을 ##남 ##겨 ##주 ##시 ##면 수리 ##가 완료 ##되 ##는 데로 문자 또는 전화 ##를 통하 ##여 안내 ##를 도와 ##드리 ##도록 하 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 풍 ##진 ##태 ##에 010 - 64 ##61 - 66 ##86 ##번 입니다 . [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
@@ -5582,10 +5576,6 @@
 [CLS] 루이스 L . [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I -100
 [CLS] 저 ##도 육성 ##재 ##씨 좋 ##아 ##하 ##는데 ~ ~ [SEP]	-100 O O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O -100
 [CLS] 저 ##도 육성 ##재 ##씨 좋 ##아 ##하 ##는데 ~ ~ [SEP]	-100 O O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O -100
-[CLS] se ##al - p ##up [SEP]	-100 SS_NAME-B SS_NAME-I O O O -100
-[CLS] se ##al - p ##up [SEP]	-100 SS_NAME-B SS_NAME-I O O O -100
-[CLS] z ##eb ##ra - f ##o ##al [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I O O O O -100
-[CLS] z ##eb ##ra - f ##o ##al [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I O O O O -100
 [CLS] 현재 진행 ##중 ##인 ` 이건희 동영상 ` 사건 . [SEP]	-100 O O O O SS_NAME-B SS_NAME-I O O O O -100
 [CLS] 현재 진행 ##중 ##인 ` 이건희 동영상 ` 사건 . [SEP]	-100 O O O O SS_NAME-B SS_NAME-I O O O O -100
 [CLS] 우리 재 ##이 ##랑 생일 ##이 똑같 ##은 윤재 ##랑 접종 ##을 다녀왔 ##다 . [SEP]	-100 O SS_NAME-B SS_NAME-I SS_NAME-I O O O O SS_NAME-B SS_NAME-I O O O O O -100
@@ -5880,14 +5870,12 @@
 [CLS] - 19 ##세기 러시아 외교관 Paul St ##ro ##gan ##or ##의 이름 ##을 따 ##서 만든 요리 [SEP]	-100 O O O O O SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I O O O O O O -100
 [CLS] 안녕 ##하 ##세요 [SEP]	-100 O O O -100
 [CLS] 안녕 ##하 ##세요 [SEP]	-100 O O O -100
-[CLS] le ##e ##군 ##입니다 . [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I -100
-[CLS] le ##e ##군 ##입니다 . [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-I -100
 [CLS] 서현 공항 ##패 ##션 ##으로 ##도 이미 유명 ##한 선글라스 ##였 ##어 ##용 . . ㅋ [SEP]	-100 SS_NAME-B O O O O O O O O O O O O O O O -100
 [CLS] 서현 공항 ##패 ##션 ##으로 ##도 이미 유명 ##한 선글라스 ##였 ##어 ##용 . . ㅋ [SEP]	-100 SS_NAME-B O O O O O O O O O O O O O O O -100
 [CLS] ‘ 은유 작가 ##의 글쓰기 고민 상담소 ’ [SEP]	-100 SS_NAME-B SS_NAME-I O O O O O O -100
 [CLS] ‘ 은유 작가 ##의 글쓰기 고민 상담소 ’ [SEP]	-100 SS_NAME-B SS_NAME-I O O O O O O -100
-[CLS] 👩 ##🏻 근데 현우 ##집 ##에 ##서 왜 ##자 ? [SEP]	-100 O O SS_NAME-B O O O O O O O -100
-[CLS] 👩 ##🏻 근데 현우 ##집 ##에 ##서 왜 ##자 ? [SEP]	-100 O O SS_NAME-B O O O O O O O -100
+[CLS] 👩 ##🏻 근데 현우 ##집 ##에 ##서 왜 ##자 ? [SEP]	-100 O O O SS_NAME-B O O O O O O O -100
+[CLS] 👩 ##🏻 근데 현우 ##집 ##에 ##서 왜 ##자 ? [SEP]	-100 O O O SS_NAME-B O O O O O O O -100
 [CLS] 은 ##희 ##경 , 김연 ##수 , 편 ##혜영 등 유명 작가 ##를 직접 만나 ##볼 수 있 ##는 기회 ##까 ##지 제공 ##한다 ##고 해요 ! [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-B SS_NAME-I O O O O O O O O O O O O O O O O O O -100
 [CLS] 은 ##희 ##경 , 김연 ##수 , 편 ##혜영 등 유명 작가 ##를 직접 만나 ##볼 수 있 ##는 기회 ##까 ##지 제공 ##한다 ##고 해요 ! [SEP]	-100 SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-B SS_NAME-I O O O O O O O O O O O O O O O O O O -100
 [CLS] 예 ##랑이 / 슬 ##이 ##짱 / 김여 ##사 / 언니 / 아버지 / 형부 [SEP]	-100 O O O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O O O O -100
