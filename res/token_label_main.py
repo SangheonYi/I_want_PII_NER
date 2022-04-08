@@ -18,6 +18,7 @@ qa_lable = "res/QAlable"
 out_file = "res/filling.kt"
 token_label = "res/token_label_origin.tsv"
 token_label = "res/token_label.tsv"
+kssed = "res/kssed.tsv"
 file_path = project_path + "res/duplabeld.tsv"
 
 def is_city(token):
@@ -35,7 +36,7 @@ for other in others:
     if is_city(stripped_other):
         other_city.add(other)
         
-with open(project_path + token_label, "r", encoding="utf-8") as file, open(project_path + out_file, "w", encoding="utf-8") as edited_file:
+with open(project_path + token_label, "r", encoding="utf-8") as file, open(project_path + kssed, "r", encoding="utf-8") as file, open(project_path + out_file, "w", encoding="utf-8") as edited_file:
     total_cnt = 0
     edit_cnt = 0
     changed = ''
@@ -101,4 +102,4 @@ with open(project_path + token_label, "r", encoding="utf-8") as file, open(proje
         edited_file.write(line)
     print(check_chars, check_label)
     print(f'found cnt: {edit_cnt} / {total_cnt} line_cnt: {len(found_line_idx)} idx: {found_line_idx}')
-    print(other_city)
+    # print(print_set)

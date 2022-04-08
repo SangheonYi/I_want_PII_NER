@@ -5,9 +5,9 @@
 [CLS] 가시 ##기 전 ##에 해당 지점 ##에 전화 ##로 서류 ##를 확인 ##하시 ##고 가면 됩니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O -100
 [CLS] 가까운 수협 ##을 안내 받 ##을 ##수 있 ##을까 ##요 ? [SEP]	-100 O SS_BRAND-B O O O O O O O O O -100
 [CLS] 현 거주지 ##를 알려 ##주 ##시 ##면 가까운 경남은행 ##을 안내 ##해 ##드리 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O O O SS_BRAND-B O O O O O O O O -100
-[CLS] 용인 ##시 청담동 입니다 . [SEP]	-100 AD_CITY-B O AD_ADDRESS-I O O -100
-[CLS] 네 지금 계신 ##곳 ##에 ##서 가장 가까운 하나 ##은행 ##은 청담동 하나 ##은행 청담 ##점 ##입니다 . [SEP]	-100 O O O O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I AD_ADDRESS-B AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
-[CLS] 문의 좀 드리 ##려 ##구요 BC ##카드 ##를 처음 발급 받 ##았 ##는데 ##요 . [SEP]	-100 O O O O O SS_BRAND-B SS_BRAND-I O O O O O O O O -100
+[CLS] 용인 ##시 청담동 입니다 . [SEP]	-100 AD_CITY-B AD_CITY-I AD_ADDRESS-I O O -100
+[CLS] 네 지금 계신 ##곳 ##에 ##서 가장 가까운 하나 ##은행 ##은 청담동 하나 ##은행 청담 ##점 ##입니다 . [SEP]	-100 O O O O O O O O SS_BRAND-B SS_BRAND-I O AD_ADDRESS-B AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
+[CLS] 문의 좀 드리 ##려 ##구요 BC ##카드 ##를 처음 발급 받 ##았 ##는데 ##요 . [SEP]	-100 O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O O -100
 [CLS] BC ##카드 ##사 ARS ##나 홈페이지 ##에 ##서 신청 ##하시 ##거나 은행 영업 ##점 방문 ##으로 가능 ##하 ##십니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O O O O O O O O O O O O -100
 [CLS] 아이 ##원 뱅크 설치 후 이용 ##을 위해 모바일 ##인 ##증 ##서 ##를 다시 등록 ##하 ##셔 ##야 합니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I O O O O O O O O O O O O O O O O O O -100
 [CLS] 아이 ##원 ##뱅 ##크 ##를 다른 폰 ##에 ##서도 사용 가능 ##한 ##가요 ? [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O O O O O O O -100
