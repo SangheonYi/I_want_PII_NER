@@ -2,8 +2,8 @@ import re
 from random_data import *
 
 B_LABLES = ['SS_AGE-B', 'SS_WEIGHT-B', 'SS_LENGTH-B', 'SS_BIRTH-B', 'SS_NAME-B', 'SS_BRAND-B',
-    'AD_ADDRESS-B', 'AD_DETAIL-B',
-    'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B']
+    'AD_CITY-B', 'AD_ADDRESS-B', 'AD_DETAIL-B',
+    'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B', '-100']
 
 def splitTokenAndLable(line):
     seperator = '\t'

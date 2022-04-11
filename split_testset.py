@@ -11,9 +11,13 @@ file_path = project_path + 'res/intergrated_sangheon.tsv'
 file_path = project_path + "res/filling.kt"
 file_path = "new_one.tsv"
 file_path = project_path + "res/kssed.tsv"
+file_path = project_path + "res/new_tagged_complete_20220411.tsv"
 test_path = project_path + 'res/test.tsv'
 train_path = project_path + 'res/train.tsv'
-remain_lables = ['SS_AGE-B', 'SS_BRAND-B', 'SS_WEIGHT-B', 'SS_BIRTH-B', 'SS_LENGTH-B', 'SS_NAME-B', 'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B']
+remain_lables = ['SS_AGE-B', 'SS_WEIGHT-B', 'SS_LENGTH-B', 'SS_BIRTH-B', 'SS_NAME-B', 'SS_BRAND-B',
+    'AD_CITY-B', 'AD_ADDRESS-B', 'AD_DETAIL-B',
+    'ID_PHONE-B', 'ID_INUM-B', 'ID_ACCOUNT-B', 'ID_CARD-B', 
+    '-100']
 
 def preprocess_lables(matrix_tokens, matrix_lables):
     lable_set = set()
