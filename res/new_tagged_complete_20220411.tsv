@@ -1232,7 +1232,7 @@
 [CLS] 본 은행 ##인 ##한 ##국 ##산업 ##은행 ##을 통해서 만든 계좌 ##가 맞 ##나 ##요 ? [SEP]	-100 O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O O O O O O -100
 [CLS] 중소기업 ##은행 보안 ##카드 잃어버렸 ##습 ##니다 . [SEP]	-100 AD_CITY-B SS_BRAND-I O O O O O O -100
 [CLS] 어떻게 해야 하나 ##요 ? [SEP]	-100 O O O O O -100
-[CLS] 토스 ##뱅 ##크 ##토스 ##뱅 ##크 보안 ##카드 잃어버렸 ##는데 ##요 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O O O -100
+[CLS] 토스 ##뱅 ##크 보안 ##카드 잃어버렸 ##는데 ##요 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O -100
 [CLS] 다시 발급 받 ##을 ##려면 어떻게 해야 하나 ##요 ? [SEP]	-100 O O O O O O O O O O -100
 [CLS] 중소기업 ##은행 통장 어디 ##있 ##는지 못 ##찾 ##겠 ##습 ##니다 . [SEP]	-100 AD_CITY-B SS_BRAND-I O O O O O O O O O O -100
 [CLS] 다시 발급 받 ##을 ##려면 어떻게 해야 합니까 ? [SEP]	-100 O O O O O O O O O -100
@@ -1307,7 +1307,7 @@
 [CLS] 다시 발급 받 ##을 ##려면 어떻게 대처 해야 하나 ##요 ? [SEP]	-100 O O O O O O O O O O O -100
 [CLS] 우리 ##은행 보안 ##카드 없 ##어진 것 같 ##아 ##요 . [SEP]	-100 SS_BRAND-B SS_BRAND-I O O O O O O O O O -100
 [CLS] 어떻게 해야 하나 ##요 ? [SEP]	-100 O O O O O -100
-[CLS] 케이 ##뱅 ##크 ##케이 ##뱅 ##크 보안 ##카드 없 ##어진 것 같 ##습 ##니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O O O O O O -100
+[CLS] 케이 ##뱅 ##크 보안 ##카드 없 ##어진 것 같 ##습 ##니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O O O O -100
 [CLS] 다시 발급 받 ##을 ##려면 어떻게 해야 합니까 ? [SEP]	-100 O O O O O O O O O -100
 [CLS] 한국 ##산업 ##은행 보안 ##카드 잃어버렸 ##는데 ##요 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O O O -100
 [CLS] 다시 발급 받 ##을 ##려면 어떻게 해야 하나 ##요 ? [SEP]	-100 O O O O O O O O O O -100
@@ -2566,7 +2566,7 @@
 [CLS] 더 ##플 ##래 ##티 ##넘 ##아 ##파 ##트 08 ##6 ##동 ##13 ##61 ##호 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
 [CLS] 삼척 ##시 분당 ##구 신 ##암동 다음 ##주 ##소 ##가 어떻게 ##되 ##십니까 ? [SEP]	-100 AD_CITY-B AD_CITY-I AD_CITY-I AD_CITY-I AD_ADDRESS-B AD_ADDRESS-I O O O O O O O O -100
 [CLS] 푸르지오 ##아 ##파 ##트 183 ##동 ##53 ##24 ##호 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
-[CLS] 창원시 중랑 ##구 서 ##2 ##동 ##다 ##음 ##주 ##소 ##가 어떻게 ##되 ##십니까 ? [SEP]	AD_CITY-B AD_CITY-B AD_CITY-I AD_CITY-I AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O O O O O -100
+[CLS] 창원시 중랑 ##구 서 ##2 ##동 ##다 ##음 ##주 ##소 ##가 어떻게 ##되 ##십니까 ? [SEP]	-100 AD_CITY-B AD_CITY-I AD_CITY-I AD_ADDRESS-B AD_ADDRESS-I AD_ADDRESS-I O O O O O O O O O -100
 [CLS] e ##편 ##한 ##세 ##상 ##아 ##파 ##트 72 ##1 ##동 ##14 ##89 ##호 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
 [CLS] 충주 ##시 동남 ##구 아동 ##동 다음 ##주 ##소 ##가 어떻게 ##되 ##십니까 ? [SEP]	-100 AD_CITY-B AD_CITY-I AD_CITY-I AD_CITY-I AD_ADDRESS-B AD_ADDRESS-I O O O O O O O O -100
 [CLS] 아이파크 ##아 ##파 ##트 184 ##동 ##75 ##82 ##호 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I AD_DETAIL-I O O -100
