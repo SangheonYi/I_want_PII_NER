@@ -1248,7 +1248,7 @@
 [CLS] 메트 ##라이 ##프 ##생명 ##보험 ##입니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I O O -100
 [CLS] 반품 ##하 ##실 주소 경기도 고양시 이하 주소 확인 부탁 ##드 ##립니다 . [SEP]	-100 O O O O O O O O O O O O O -100
 [CLS] 8 ##월 ##23 ##일 백일 ##이 ##고 9 ##월 ##4 ##일 모 ##고 ##날 ##이 ##자 걔 ##생 ##일 . . . [SEP]	-100 O O O O O O O SS_BIRTH-B SS_BIRTH-I SS_BIRTH-I SS_BIRTH-I O O O O O O O O O O O -100
-"""[CLS] """" 홈페이지 하단 """" """" 휴 ##면 ##보험 ##금 """" """" 버튼 ##을 통해 생명 ##보험 ##협회 ##로 연결 ##되 ##어 휴 ##면 ##보험 ##금 ##을 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]"""	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
+"[CLS] "" 홈페이지 하단 "" "" 휴 ##면 ##보험 ##금 "" "" 버튼 ##을 통해 생명 ##보험 ##협회 ##로 연결 ##되 ##어 휴 ##면 ##보험 ##금 ##을 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]"	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 56 ##47 - 75 ##84 제주 ##은행 ##카드 고객 ##센터 전화 ##하 ##셔 ##서 2 ##번 , 8 ##번 , 1 ##번 누르 ##시 ##면 분실 ##신 ##고 가능 ##합니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I SS_BRAND-B SS_BRAND-I O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 141 ##0 233 ##0 100 ##3 222 ##0 맞 ##습 ##니까 ? [SEP]	-100 ID_CARD-B ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I ID_CARD-I O O O O -100
 [CLS] 주민 ##등 ##록 ##번 ##호 뒷 ##자리 ##7 ##자리 ##가 어떻게 ##되 ##시 ##죠 ? [SEP]	-100 O O O O O O O O O O O O O O O -100
