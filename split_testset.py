@@ -43,12 +43,10 @@ def preprocess(file):
     return tokens, lables
 
 with open(root_path + file_path, 'r', encoding='UTF-8') as res_file, open(root_path + train_path, 'w', newline='', encoding='UTF-8') as train, open(root_path + test_path, 'w', newline='', encoding='UTF-8') as test:
-    ttrain = csv.writer(train, delimiter='\t')
-    ttest = csv.writer(test, delimiter='\t')
     tokens, lables = preprocess(res_file)
     preprocess_lables(tokens, lables)
     train_token, test_token, train_lable, test_lable = train_test_split(tokens, lables, test_size=0.2, shuffle=True, random_state=42)
     for a in range(len(train_token)):
-        ttrain.writerow([train_token[a], train_lable[a].replace('\n',"")])
+        train.write(f'{train_token[a]}\t{train_lable[a]}\n')
     for a in range(len(test_token)):
-        ttest.writerow([test_token[a], test_lable[a].replace('\n',"")])
+        test.write(f'{test_token[a]}\t{test_lable[a]}\n')
