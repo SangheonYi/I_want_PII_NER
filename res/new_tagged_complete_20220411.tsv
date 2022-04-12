@@ -689,8 +689,8 @@
 [CLS] 51 ##95 - 850 ##2 ##으로 전화 ##가 오 ##면 받아 주 ##십 ##시요 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O -100
 [CLS] 여기 ##는 현대 ##라이 ##프 ##생명 콜 ##센터 ##입니다 [SEP]	-100 O O SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O -100
 [CLS] 연제 ##지 ##점 ##의 전화 ##번 ##호 ##는 28 ##3 - 80 ##64 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
-"[CLS] "" 홈페이지 하단 "" "" 휴 ##면 ##보험 ##금 "" "" 버튼 ##을 통해 생명 ##보험 ##협회 ##로 연결 ##되 ##어 휴 ##면 ##보험 ##금 ##을 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]"	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
-"[CLS] - 콜 ##센터 ( 97 ##71 - 65 ##81 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . "" [SEP]"	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O -100
+[CLS] " 홈페이지 하단 " " 휴 ##면 ##보험 ##금 " " 버튼 ##을 통해 생명 ##보험 ##협회 ##로 연결 ##되 ##어 휴 ##면 ##보험 ##금 ##을 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
+[CLS] - 콜 ##센터 ( 97 ##71 - 65 ##81 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . " [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O -100
 [CLS] 콜 ##센터 ( 239 ##6 - 2022 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O ID_PHONE-I O O O O O O O O O O -100
 [CLS] 연결 ##해 ##드 ##릴 ##까요 ? [SEP]	-100 O O O O O O -100
 [CLS] 010 - 53 ##6 - 04 ##0 ##6 ##으로 전화 ##신 ##청 ##하시 ##면 됩니다 [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O -100
@@ -3736,14 +3736,14 @@
 [CLS] 83 ##에 ##서 74 . 7 ##로 내려온 몸무게 ##의 비결 ##은 여기 ##에 있 ##습 ##니다 . [SEP]	-100 SS_WEIGHT-B O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O -100
 [CLS] 체중 60 ##9 ##k ##g ##으로 ' 세계 ##에 ##서 가장 무거운 10 ##대 ' 라는 타이틀 ##을 가졌 ##던 사우디아라비아 남성 ##이 10 ##여 ##년 만 ##에 500 ##k ##g 넘 ##게 체중 ##을 감량 ##했 ##다 . [SEP]	-100 O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 체중 ##계 ##에 68 . 15 ##k ##g ##란 몸무게 ##가 표시 ##되 ##자 우 ##혜 ##림 ##은 손 ##으로 입 ##을 막 ##으며 놀랐 ##다 . [SEP]	-100 O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O O O SS_NAME-B SS_NAME-I SS_NAME-I SS_NAME-I O O O O O O O O O -100
-"[CLS] "" 임신 초 ##에 ##는 56 ##k ##g ##이 ##었 ##다가 만 ##삭 때 ##는 75 ##k ##g ##으로 증가 ##했 ##다 "" "" 고 위로 ##했 ##다 . "" [SEP]"	-100 O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O -100
-"[CLS] "" 우 ##혜 ##림 ##은 "" "" 임신 초반 몸무게 ##가 48 ##k ##g ##이다 . [SEP]"	-100 O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O -100
-"[CLS] 정확히 20 ##k ##g ##이 늘 ##었 ##다 "" "" 며 경악 ##했 ##다 . "" [SEP]"	-100 O O O O O O O O O O O O O O O O -100
+[CLS] " 임신 초 ##에 ##는 56 ##k ##g ##이 ##었 ##다가 만 ##삭 때 ##는 75 ##k ##g ##으로 증가 ##했 ##다 " " 고 위로 ##했 ##다 . " [SEP]	-100 O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O -100
+[CLS] " 우 ##혜 ##림 ##은 " " 임신 초반 몸무게 ##가 48 ##k ##g ##이다 . [SEP]	-100 O SS_NAME-B SS_NAME-I SS_NAME-I O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O -100
+[CLS] 정확히 20 ##k ##g ##이 늘 ##었 ##다 " " 며 경악 ##했 ##다 . " [SEP]	-100 O O O O O O O O O O O O O O O O -100
 [CLS] 최근 몸무게 35 . 7 ##k ##g ##을 인증 ##했 ##던 신지 ##수 ##는 건강 ##하 ##고 밝 ##은 근황 ##을 공개 , 팬 ##들 ##을 안심 ##시 ##켰 ##다 . [SEP]	-100 O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O SS_NAME-B SS_NAME-I O O O O O O O O O O O O O O O O O O -100
 [CLS] 손보 ##승 ##의 현재 몸무게 ##는 145 ##k ##g ##이다 . [SEP]	-100 SS_NAME-B SS_NAME-I O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O -100
 [CLS] 지금 체중 ##이 145 ##k ##g ##인 ##데 이렇게 더 찌 ##면 큰일 날 것 같 ##다는 생각 ##에 다이어트 전문 기업 ##의 도움 ##을 받아 체중 감량 ##을 하 ##기 ##로 결심 ##했 ##다 . [SEP]	-100 O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] 영상 속 체중 ##계 ##의 숫자 ##는 41 . 8 ##k ##g ##을 가리킨다 . [SEP]	-100 O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O -100
-"[CLS] "" 황정 ##음 ##은 "" "" 음 70 ##k ##g ##이 ##야 "" "" 라고 답 ##했 ##다 . "" [SEP]"	-100 O SS_NAME-B SS_NAME-I O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O -100
+[CLS] " 황정 ##음 ##은 " " 음 70 ##k ##g ##이 ##야 " " 라고 답 ##했 ##다 . " [SEP]	-100 O SS_NAME-B SS_NAME-I O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O -100
 [CLS] KC ##M , 인생 최고 몸무게 102 . 1 ##k ##g [SEP]	-100 SS_NAME-B SS_NAME-I O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I -100
 [CLS] 특히 정주 ##리 ##는 넷째 출산 8 ##주 ##를 앞두 ##고 몸무게 ##가 80 ##k ##g ##까 ##지 늘 ##었 ##다고 전했 ##으며 [SEP]	-100 O SS_NAME-B SS_NAME-I O O O O O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O -100
 [CLS] 이아 ##현 , 51 ##세 ##에도 48 . 5 ##k ##g 몸무게 인증 ' 관리 ##의 신 ' [SEP]	-100 SS_NAME-B SS_NAME-I O SS_AGE-B SS_AGE-I O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O O O O -100
@@ -4239,7 +4239,7 @@
 [CLS] 작년 봄 ##에 델 ##구 ##왔 ##어 ##영 ! 2 ##월 29 ##일 생일 ##이 ##라 오늘 생 ##축 ㅋㅋ [SEP]	-100 O O O O O O O O O SS_BIRTH-B SS_BIRTH-I SS_BIRTH-I SS_BIRTH-I O O O O O O O -100
 [CLS] 인 ##호 혹 ##쉬 ~ ~ 7 ##월 12 ##일 엄마 생일 알고 오 ##는 ##건 ##가 [SEP]	-100 SS_NAME-B SS_NAME-I O O O O SS_BIRTH-B SS_BIRTH-I SS_BIRTH-I SS_BIRTH-I O O O O O O O -100
 [CLS] 혹 ##쉬 ~ ~ [SEP]	-100 O O O O -100
-"[CLS] "" 이에 남편 최우 ##성 ##은 "" "" 169 ##c ##m ##에 55 ##k ##g ##면 진짜 날씬 ##한 것 "" "" 이라 ##고 위로 ##했 ##으며 "" [SEP]"	-100 O O O SS_NAME-B SS_NAME-I O O O SS_LENGTH-B SS_LENGTH-I SS_LENGTH-I O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O O -100
+[CLS] " 이에 남편 최우 ##성 ##은 " " 169 ##c ##m ##에 55 ##k ##g ##면 진짜 날씬 ##한 것 " " 이라 ##고 위로 ##했 ##으며 " [SEP]	-100 O O O SS_NAME-B SS_NAME-I O O O SS_LENGTH-B SS_LENGTH-I SS_LENGTH-I O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O O -100
 [CLS] 키 ##가 164 ##c ##m ##인 것 ##을 고려 ##하면 아주 적 ##은 몸무게 ##라 할 수 있 ##다 . [SEP]	-100 O O SS_LENGTH-B SS_LENGTH-I SS_LENGTH-I O O O O O O O O O O O O O O O -100
 [CLS] 현아 ##의 몸무게 ##는 41 . 3 ##k ##g ##으로 지난 3 ##월 공개 ##한 44 . 1 ##k ##g ##에 ##서 2 . 8 ##k ##g ##이나 빠져 있 ##었 ##다 . [SEP]	-100 SS_NAME-B O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O O O SS_WEIGHT-B SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I SS_WEIGHT-I O O O O O O O O O O O O O -100
 [CLS] 키 ##가 162 ##c ##m ##라는 조 ##유리 , 당당히 ' 몸무게 ' 깠 ##다 [SEP]	-100 O O SS_LENGTH-B SS_LENGTH-I SS_LENGTH-I O SS_NAME-B SS_NAME-I O O O O O O O -100
