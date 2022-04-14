@@ -666,7 +666,7 @@
 [CLS] 010 - 89 ##98 - 00 ##93 ##입니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 01 ##1 - 56 ##69 - 50 ##40 ##입니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 010 - 00 ##21 - 1951 ##입니다 . [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
-[CLS] 01 ##7 - 70 ##50 - 59 ##69 ##인 ##데 ##요 [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
+[CLS] 01 ##7 - 70 ##50 - 59 ##69 ##인 ##데 ##요 [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O -100
 [CLS] 010 - 56 ##95 - 91 ##22 [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I -100
 [CLS] 고객 ##님 ##의 핸드폰 ##번 ##호 ##가 010 - 212 ##9 - 45 ##74 ##맞 ##으 ##신 ##가요 ? [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O -100
 [CLS] 네 보험 청구 ##하 ##실 때 31 ##40 - 64 ##22 ##로 전화 ##주 ##시 ##면 바로 FA ##X 보내 ##드리 ##겠 ##습 ##니다 . [SEP]	-100 O O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O O -100
@@ -691,7 +691,7 @@
 [CLS] 연제 ##지 ##점 ##의 전화 ##번 ##호 ##는 28 ##3 - 80 ##64 ##입니다 . [SEP]	-100 AD_DETAIL-B AD_DETAIL-I AD_DETAIL-I O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] " 홈페이지 하단 " " 휴 ##면 ##보험 ##금 " " 버튼 ##을 통해 생명 ##보험 ##협회 ##로 연결 ##되 ##어 휴 ##면 ##보험 ##금 ##을 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O -100
 [CLS] - 콜 ##센터 ( 97 ##71 - 65 ##81 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . " [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O -100
-[CLS] 콜 ##센터 ( 239 ##6 - 2022 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O ID_PHONE-I O O O O O O O O O O -100
+[CLS] 콜 ##센터 ( 239 ##6 - 2022 ) 로 전화 ##하시 ##면 본인 확인 후 안내 ##해 드립니다 . [SEP]	-100 O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O -100
 [CLS] 연결 ##해 ##드 ##릴 ##까요 ? [SEP]	-100 O O O O O O -100
 [CLS] 010 - 53 ##6 - 04 ##0 ##6 ##으로 전화 ##신 ##청 ##하시 ##면 됩니다 [SEP]	-100 ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O -100
 [CLS] 전북 ##은행 ##손 ##해 ##보험 ##에 농작물 ##피 ##해 ##보험 ##에 가입 ##하 ##신 내역 ##이 있 ##으 ##신 ##가요 ? [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O O O O O O O O O O O O O -100
@@ -716,7 +716,7 @@
 [CLS] 이름 ##은 노 ##경 ##혜 , 010 - 229 ##0 - 94 ##87 ##입니다 . [SEP]	-100 O O SS_NAME-B SS_NAME-I SS_NAME-I O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 자동차 ##사고 ##접 ##수 ##는 AI ##G ##손 ##해 ##보험 고객 ##콜 ##센터 ( 00 ##28 - 295 ##1 ) 를 통해 접수 ##하 ##실 수 있 ##습 ##니다 . [SEP]	-100 O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I SS_BRAND-I SS_BRAND-I O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O -100
 [CLS] 고객 ##콜 ##센터 ( 180 ##9 - 80 ##52 ) 전화 하 ##셔 ##서 ARS 1 ##번 ##을 누르 ##면 언제 ##든지 사고 ##접 ##수 및 상담 가능 ##합니다 . [SEP]	-100 O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O O O O O O O O O -100
-[CLS] MG ##손 ##해 ##험 콜 ##센터 ( 48 ##54 - 1942 ) 로 연락 ##을 주시 ##면 , 상담 ##직원 ##이 사고 ##접 ##수 ##를 진행 ##해 드립니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O ID_PHONE-B O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O O O O O O -100
+[CLS] MG ##손 ##해 ##험 콜 ##센터 ( 48 ##54 - 1942 ) 로 연락 ##을 주시 ##면 , 상담 ##직원 ##이 사고 ##접 ##수 ##를 진행 ##해 드립니다 . [SEP]	-100 SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O O O O O O -100
 [CLS] 담당자 ##를 정확히 모르 ##실 경우 ##에 ##는 홈페이지 및 동양 ##생명 ##보험 고객 ##콜 ##센터 ( 60 ##79 - 1943 ) 로 연락 ##하시 ##면 ##담 ##당 ##자와 연락처 ##를 확인 ##하 ##실 수 있 ##습 ##니다 . [SEP]	-100 O O O O O O O O O O SS_BRAND-B SS_BRAND-I SS_BRAND-I O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O O O O O O O O -100
 [CLS] SKT 핸드폰 ##보험 ( 스마트 ##세이 ##프 ##플러스 ##50 / 40 / 20 ) 보상 ##문 ##의 및 사고 ##접 ##수 ##는 SKT 고객 ##센터 ( 75 ##53 - 79 ##38 ) 를 통해 처리 ##하 ##실 수 있 ##습 ##니다 . [SEP]	-100 SS_BRAND-B O O O O O O O O O O O O O O O O O O O O O SS_BRAND-B O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O -100
 [CLS] KT 단말기 ##보험 ( 쇼 ##폰 ##케어 ##보험 ) 보상 ##문 ##의 및 사고 ##접 ##수 ##는 KT 고객 ##센터 ( 27 ##63 - 60 ##66 ) 를 통해 처리 하 ##실 수 있 ##습 ##니다 . [SEP]	-100 SS_BRAND-B O O O O O O O O O O O O O O O O SS_BRAND-B O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O O O O O O O O O O -100
@@ -1124,7 +1124,7 @@
 [CLS] 이름 ##은 표 ##수아 , 010 - 154 ##2 - 228 ##3 ##입니다 . [SEP]	-100 O O SS_NAME-B SS_NAME-I O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 이름 ##은 유우 ##희 , 01 ##9 - 56 ##49 - 27 ##70 ##입니다 . [SEP]	-100 O O SS_NAME-B SS_NAME-I O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
 [CLS] 이름 ##은 최선 ##웅 , 010 - 00 ##14 - 79 ##18 ##입니다 . [SEP]	-100 O O SS_NAME-B SS_NAME-I O ID_PHONE-B ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I ID_PHONE-I O O -100
-[CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 82 ##74 ##이 ##에 ##요 . [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I ID_PHONE-I O O O -100
+[CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 82 ##74 ##이 ##에 ##요 . [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I O O O O -100
 [CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 93 ##72 ##번 으로 되 ##어 ##있 ##어요 . [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I O O O O O O O -100
 [CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 470 ##8 ##번 입니다 . [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I O O O -100
 [CLS] 제 휴대폰 번호 마지막 4 ##자리 ##는 107 ##2 ##이 ##에 ##요 . [SEP]	-100 O O O O O O O ID_PHONE-B ID_PHONE-I O O O O -100
